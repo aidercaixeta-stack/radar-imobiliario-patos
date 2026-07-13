@@ -1,0 +1,232 @@
+[
+  {
+    "id": "demo-trad-001",
+    "mercado": "tradicional",
+    "titulo": "Casa ampla com área gourmet",
+    "bairro": "Guanabara",
+    "tipo": "Casa",
+    "preco": 890000,
+    "area_construida": 218,
+    "area_terreno": 360,
+    "quartos": 3,
+    "vagas": 3,
+    "fonte": "Demonstração",
+    "confianca": 92,
+    "nota_oportunidade": 88,
+    "novo": false,
+    "preco_reduzido": true,
+    "primeira_captura": "2026-06-18T10:00:00-03:00",
+    "latitude": -18.585,
+    "longitude": -46.528,
+    "historico_precos": [
+      {
+        "data": "2026-06-18",
+        "preco": 950000
+      },
+      {
+        "data": "2026-07-01",
+        "preco": 925000
+      },
+      {
+        "data": "2026-07-12",
+        "preco": 890000
+      }
+    ]
+  },
+  {
+    "id": "demo-trad-002",
+    "mercado": "tradicional",
+    "titulo": "Apartamento de 3 quartos",
+    "bairro": "Centro",
+    "tipo": "Apartamento",
+    "preco": 620000,
+    "area_construida": 128,
+    "area_terreno": null,
+    "quartos": 3,
+    "vagas": 2,
+    "fonte": "Demonstração",
+    "confianca": 86,
+    "nota_oportunidade": 81,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-12T09:00:00-03:00",
+    "latitude": -18.578,
+    "longitude": -46.518,
+    "historico_precos": [
+      {
+        "data": "2026-07-12",
+        "preco": 620000
+      }
+    ]
+  },
+  {
+    "id": "demo-trad-003",
+    "mercado": "tradicional",
+    "titulo": "Lote plano próximo à avenida",
+    "bairro": "Caiçaras",
+    "tipo": "Lote",
+    "preco": 340000,
+    "area_construida": null,
+    "area_terreno": 420,
+    "quartos": null,
+    "vagas": null,
+    "fonte": "Demonstração",
+    "confianca": 83,
+    "nota_oportunidade": 84,
+    "novo": false,
+    "preco_reduzido": true,
+    "primeira_captura": "2026-05-28T09:00:00-03:00",
+    "latitude": -18.563,
+    "longitude": -46.519,
+    "historico_precos": [
+      {
+        "data": "2026-05-28",
+        "preco": 375000
+      },
+      {
+        "data": "2026-07-08",
+        "preco": 340000
+      }
+    ]
+  },
+  {
+    "id": "demo-trad-004",
+    "mercado": "tradicional",
+    "titulo": "Casa térrea em rua tranquila",
+    "bairro": "Copacabana",
+    "tipo": "Casa",
+    "preco": 760000,
+    "area_construida": 185,
+    "area_terreno": 300,
+    "quartos": 3,
+    "vagas": 2,
+    "fonte": "Demonstração",
+    "confianca": 79,
+    "nota_oportunidade": 75,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-11T15:00:00-03:00",
+    "latitude": -18.5935,
+    "longitude": -46.5065,
+    "historico_precos": [
+      {
+        "data": "2026-07-11",
+        "preco": 760000
+      }
+    ]
+  },
+  {
+    "id": "demo-trad-005",
+    "mercado": "tradicional",
+    "titulo": "Casa de alto padrão com escritório",
+    "bairro": "Alto dos Caiçaras",
+    "tipo": "Casa",
+    "preco": 1490000,
+    "area_construida": 310,
+    "area_terreno": 480,
+    "quartos": 4,
+    "vagas": 4,
+    "fonte": "Demonstração",
+    "confianca": 90,
+    "nota_oportunidade": 72,
+    "novo": false,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-04-10T10:00:00-03:00",
+    "latitude": -18.557,
+    "longitude": -46.5225,
+    "historico_precos": [
+      {
+        "data": "2026-04-10",
+        "preco": 1490000
+      }
+    ]
+  },
+  {
+    "id": "demo-leilao-001",
+    "mercado": "leilao",
+    "titulo": "Casa em alienação fiduciária",
+    "bairro": "Guanabara",
+    "tipo": "Casa",
+    "preco": 585000,
+    "area_construida": 205,
+    "area_terreno": 350,
+    "quartos": 3,
+    "vagas": 2,
+    "fonte": "Imovelweb • anúncio classificado como leilão",
+    "confianca": 88,
+    "nota_oportunidade": 91,
+    "novo": true,
+    "preco_reduzido": false,
+    "modalidade_leilao": "Extrajudicial",
+    "ocupado": true,
+    "primeira_captura": "2026-07-12T08:00:00-03:00",
+    "latitude": -18.5865,
+    "longitude": -46.531,
+    "historico_precos": [
+      {
+        "data": "2026-07-12",
+        "preco": 585000
+      }
+    ]
+  },
+  {
+    "id": "demo-leilao-002",
+    "mercado": "leilao",
+    "titulo": "Apartamento em leilão judicial",
+    "bairro": "Centro",
+    "tipo": "Apartamento",
+    "preco": 410000,
+    "area_construida": 112,
+    "area_terreno": null,
+    "quartos": 3,
+    "vagas": 1,
+    "fonte": "Demonstração",
+    "confianca": 82,
+    "nota_oportunidade": 86,
+    "novo": false,
+    "preco_reduzido": true,
+    "modalidade_leilao": "Judicial",
+    "ocupado": false,
+    "primeira_captura": "2026-06-25T08:00:00-03:00",
+    "latitude": -18.5765,
+    "longitude": -46.5162,
+    "historico_precos": [
+      {
+        "data": "2026-06-25",
+        "preco": 520000
+      },
+      {
+        "data": "2026-07-10",
+        "preco": 410000
+      }
+    ]
+  },
+  {
+    "id": "demo-leilao-003",
+    "mercado": "leilao",
+    "titulo": "Lote urbano em 2º leilão",
+    "bairro": "Jardim Panorâmico",
+    "tipo": "Lote",
+    "preco": 215000,
+    "area_construida": null,
+    "area_terreno": 390,
+    "quartos": null,
+    "vagas": null,
+    "fonte": "Demonstração",
+    "confianca": 76,
+    "nota_oportunidade": 78,
+    "novo": true,
+    "preco_reduzido": false,
+    "modalidade_leilao": "2º leilão",
+    "ocupado": false,
+    "primeira_captura": "2026-07-12T08:30:00-03:00",
+    "latitude": -18.6005,
+    "longitude": -46.526,
+    "historico_precos": [
+      {
+        "data": "2026-07-12",
+        "preco": 215000
+      }
+    ]
+  }
+]

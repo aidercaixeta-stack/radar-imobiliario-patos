@@ -1,0 +1,40 @@
+{
+  "cidade": "Patos de Minas",
+  "uf": "MG",
+  "fontes_planejadas": [
+    {
+      "nome": "Classificados TIMTIM",
+      "tipo": "tradicional",
+      "status": "a_validar"
+    },
+    {
+      "nome": "RE/MAX",
+      "tipo": "tradicional",
+      "status": "a_validar"
+    },
+    {
+      "nome": "Imovelweb",
+      "tipo": "misto",
+      "status": "a_validar",
+      "regra": "classificar leilões antes das estatísticas"
+    },
+    {
+      "nome": "Viva Real",
+      "tipo": "tradicional",
+      "status": "a_validar"
+    },
+    {
+      "nome": "ZAP Imóveis",
+      "tipo": "tradicional",
+      "status": "a_validar"
+    },
+    {
+      "nome": "Imobiliárias locais",
+      "tipo": "tradicional",
+      "status": "a_mapear"
+    }
+  ],
+  "fontes_excluidas": [
+    "OLX"
+  ]
+}
