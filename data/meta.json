@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-07-14T16:44:20.347152-03:00",
+  "updated_at": "2026-07-14T17:03:19.157371-03:00",
   "status": "base_multifuente_processada",
-  "records": 179,
+  "records": 163,
   "captured_before_filters": 182,
   "excluded_records": 3,
-  "duplicate_groups": 0,
+  "duplicate_groups": 14,
+  "deduplication": {
+    "total_grupos": 14,
+    "mesma_fonte": 14,
+    "multifonte": 0,
+    "anuncios_agrupados": 30
+  },
   "markets": {
-    "tradicional": 143,
-    "leilao": 36,
+    "tradicional": 140,
+    "leilao": 23,
     "nao_comparavel": 0
   },
   "mapped_records": 48,
   "location_precision": {
-    "nao_localizado": 131,
+    "nao_localizado": 115,
     "bairro_aproximada": 35,
     "rua_aproximada": 11,
     "alta": 2
@@ -34,5 +40,5 @@
   "exclusion_reasons": {
     "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado": 3
   },
-  "note": "Base processada por pipeline multifuente. Conteúdo irrelevante é separado em data/excluidos.json; itens não comparáveis são preservados fora do mercado tradicional."
+  "note": "Base processada por pipeline multifuente. Conteúdo irrelevante é separado em data/excluidos.json; itens não comparáveis ficam fora do mercado tradicional; duplicidades são agrupadas preservando todas as ofertas e links originais."
 }

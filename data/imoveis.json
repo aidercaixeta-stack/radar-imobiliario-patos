@@ -21,7 +21,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -34,7 +34,7 @@
         "preco": 42000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.241461-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.207263-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -47,7 +47,12 @@
         "id_origem": "chaves-44074644"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33511690",
@@ -71,7 +76,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -84,7 +89,7 @@
         "preco": 25000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.241798-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.207619-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -97,7 +102,12 @@
         "id_origem": "chaves-33511690"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-34278628",
@@ -121,7 +131,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -134,7 +144,7 @@
         "preco": 10000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.242113-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.207957-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -147,7 +157,12 @@
         "id_origem": "chaves-34278628"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455578",
@@ -171,7 +186,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -184,7 +199,7 @@
         "preco": 6000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.242472-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.208343-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -197,7 +212,12 @@
         "id_origem": "chaves-33455578"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37150274",
@@ -221,7 +241,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -234,7 +254,7 @@
         "preco": 4900000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.242847-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.208748-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -247,7 +267,12 @@
         "id_origem": "chaves-37150274"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-30689547",
@@ -271,7 +296,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -284,7 +309,7 @@
         "preco": 4500000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.243231-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.209149-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -297,7 +322,12 @@
         "id_origem": "chaves-30689547"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41678767",
@@ -321,7 +351,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -334,7 +364,7 @@
         "preco": 3000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.243595-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.209558-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -347,7 +377,12 @@
         "id_origem": "chaves-41678767"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455673",
@@ -371,7 +406,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -384,7 +419,7 @@
         "preco": 3000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.243944-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.209931-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -397,7 +432,12 @@
         "id_origem": "chaves-33455673"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455731",
@@ -421,7 +461,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -434,7 +474,7 @@
         "preco": 2840000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.244311-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.210323-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -447,7 +487,12 @@
         "id_origem": "chaves-33455731"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455658",
@@ -471,7 +516,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -484,7 +529,7 @@
         "preco": 2500000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.244679-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.210716-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -497,7 +542,12 @@
         "id_origem": "chaves-33455658"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-38727370",
@@ -521,7 +571,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -534,7 +584,7 @@
         "preco": 2300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.245040-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.211102-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -547,7 +597,12 @@
         "id_origem": "chaves-38727370"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42037612",
@@ -571,7 +626,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -584,7 +639,7 @@
         "preco": 2200000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.245325-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.211423-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -597,7 +652,12 @@
         "id_origem": "chaves-42037612"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455741",
@@ -621,7 +681,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -634,7 +694,7 @@
         "preco": 2100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.245612-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.211733-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -647,7 +707,12 @@
         "id_origem": "chaves-33455741"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40637625",
@@ -671,7 +736,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -684,7 +749,7 @@
         "preco": 2000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.246012-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.212119-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -697,7 +762,12 @@
         "id_origem": "chaves-40637625"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43025923",
@@ -721,7 +791,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -734,7 +804,7 @@
         "preco": 1990000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.246375-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.212518-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -747,7 +817,12 @@
         "id_origem": "chaves-43025923"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-35971414",
@@ -771,7 +846,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -784,7 +859,7 @@
         "preco": 1850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.246670-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.212829-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -797,7 +872,12 @@
         "id_origem": "chaves-35971414"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-38370995",
@@ -821,7 +901,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -834,7 +914,7 @@
         "preco": 1700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.247039-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.213212-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -847,7 +927,12 @@
         "id_origem": "chaves-38370995"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9882af106f8f0cf9",
@@ -882,7 +967,7 @@
         "preco": 1650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.278376-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.247604-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -895,7 +980,12 @@
         "id_origem": "timtim-9882af106f8f0cf9"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455763",
@@ -919,7 +1009,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -932,7 +1022,7 @@
         "preco": 1600000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.247395-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.213630-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -945,7 +1035,12 @@
         "id_origem": "chaves-33455763"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40095688",
@@ -969,7 +1064,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -982,7 +1077,7 @@
         "preco": 1400000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.247757-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.214025-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -995,7 +1090,12 @@
         "id_origem": "chaves-40095688"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33700525",
@@ -1019,7 +1119,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1032,7 +1132,7 @@
         "preco": 1380000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.248114-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.214455-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1045,7 +1145,12 @@
         "id_origem": "chaves-33700525"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42110717",
@@ -1069,7 +1174,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1082,7 +1187,7 @@
         "preco": 1300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.248462-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.214823-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1095,57 +1200,12 @@
         "id_origem": "chaves-42110717"
       }
     ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-38496448",
-    "mercado": "tradicional",
-    "modalidade_leilao": null,
-    "titulo": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 2 R",
-    "bairro": "Vagas Endereço Indisponível Centro",
-    "tipo": "Apartamento",
-    "preco": 1300000,
-    "area_construida": null,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": 1,
-    "vagas": 2,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS1300000/id-38496448/",
-    "telefone_anunciante": null,
-    "descricao": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 2 R",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro",
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 1300000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.248838-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 1300000,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS1300000/id-38496448/",
-        "id_origem": "chaves-38496448"
-      }
-    ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-795f8e4fb87bc893",
@@ -1180,7 +1240,7 @@
         "preco": 1300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.278670-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.247898-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1193,13 +1253,18 @@
         "id_origem": "timtim-795f8e4fb87bc893"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
-    "id": "chaves-41599388",
+    "id": "chaves-38496448",
     "mercado": "tradicional",
     "modalidade_leilao": null,
-    "titulo": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 3 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 3 R",
+    "titulo": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 2 R",
     "bairro": "Vagas Endereço Indisponível Centro",
     "tipo": "Apartamento",
     "preco": 1295000,
@@ -1207,30 +1272,30 @@
     "area_terreno": null,
     "quartos": 3,
     "banheiros": 1,
-    "vagas": 3,
+    "vagas": 2,
     "fonte": "Chaves na Mão",
     "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS1295000/id-41599388/",
     "telefone_anunciante": null,
-    "descricao": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 3 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 3 R",
+    "descricao": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro, Patos de Minas/MG 3 1 2 R",
     "confianca": 86,
     "nota_oportunidade": 50,
     "novo": false,
     "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 3 vagas Endereço indisponível Centro",
+    "endereco_extraido": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas Endereço indisponível Centro",
     "geocoding_query": null,
     "geocoding_display_name": null,
     "historico_precos": [
       {
         "data": "2026-07-14",
-        "preco": 1295000
+        "preco": 1300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.249209-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.215216-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1241,9 +1306,20 @@
         "preco": 1295000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS1295000/id-41599388/",
         "id_origem": "chaves-41599388"
+      },
+      {
+        "fonte": "Chaves na Mão",
+        "preco": 1300000,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS1300000/id-38496448/",
+        "id_origem": "chaves-38496448"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-33455663",
@@ -1267,7 +1343,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1280,7 +1356,7 @@
         "preco": 1200000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.249496-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.215943-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1293,7 +1369,12 @@
         "id_origem": "chaves-33455663"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42037613",
@@ -1317,7 +1398,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1330,7 +1411,7 @@
         "preco": 1200000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.249798-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.216250-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1343,7 +1424,12 @@
         "id_origem": "chaves-42037613"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43576650",
@@ -1367,7 +1453,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1380,7 +1466,7 @@
         "preco": 1200000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.250174-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.216653-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1393,7 +1479,12 @@
         "id_origem": "chaves-43576650"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455712",
@@ -1417,7 +1508,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1430,7 +1521,7 @@
         "preco": 1200000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.250543-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.217043-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1443,7 +1534,12 @@
         "id_origem": "chaves-33455712"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455636",
@@ -1467,7 +1563,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1480,7 +1576,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.250919-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.217456-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1493,7 +1589,12 @@
         "id_origem": "chaves-33455636"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455714",
@@ -1517,7 +1618,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1530,7 +1631,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.251279-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.217841-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1543,7 +1644,12 @@
         "id_origem": "chaves-33455714"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455634",
@@ -1567,7 +1673,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1580,7 +1686,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.251647-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.218230-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1593,7 +1699,12 @@
         "id_origem": "chaves-33455634"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455729",
@@ -1617,7 +1728,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1630,7 +1741,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.252013-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.218630-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1643,7 +1754,12 @@
         "id_origem": "chaves-33455729"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-263e038d431acc56",
@@ -1678,7 +1794,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.278991-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.248232-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1691,7 +1807,12 @@
         "id_origem": "timtim-263e038d431acc56"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41891269",
@@ -1715,7 +1836,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1728,7 +1849,7 @@
         "preco": 1090000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.252300-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.218936-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1741,7 +1862,12 @@
         "id_origem": "chaves-41891269"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455566",
@@ -1765,7 +1891,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1778,7 +1904,7 @@
         "preco": 1050000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.252674-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.219324-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1791,7 +1917,12 @@
         "id_origem": "chaves-33455566"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455703",
@@ -1815,7 +1946,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1828,7 +1959,7 @@
         "preco": 1000000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.253044-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.219725-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1841,7 +1972,12 @@
         "id_origem": "chaves-33455703"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37817419",
@@ -1865,7 +2001,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1878,7 +2014,7 @@
         "preco": 990000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.253389-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.220103-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1891,7 +2027,12 @@
         "id_origem": "chaves-37817419"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-39118269",
@@ -1900,14 +2041,14 @@
     "titulo": "Casa para Venda em Patos de Minas, CAMPOS ELISEOS, 3 dormitórios, 1 suíte, 2 banheiros, 4 vagas Endereço indisponível Campos Elíseos, Patos de Minas/M",
     "bairro": "Campos Elíseos",
     "tipo": "Casa",
-    "preco": 955000,
+    "preco": 950000,
     "area_construida": 300,
     "area_terreno": null,
     "quartos": 3,
     "banheiros": 2,
     "vagas": 4,
     "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS955000/id-39118269/",
+    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS950000/id-35791836/",
     "telefone_anunciante": null,
     "descricao": "Casa para Venda em Patos de Minas, CAMPOS ELISEOS, 3 dormitórios, 1 suíte, 2 banheiros, 4 vagas Endereço indisponível Campos Elíseos, Patos de Minas/M",
     "confianca": 93,
@@ -1915,7 +2056,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1928,7 +2069,7 @@
         "preco": 955000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.253756-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.220494-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1936,12 +2077,23 @@
     "ofertas": [
       {
         "fonte": "Chaves na Mão",
+        "preco": 950000,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS950000/id-35791836/",
+        "id_origem": "chaves-35791836"
+      },
+      {
+        "fonte": "Chaves na Mão",
         "preco": 955000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS955000/id-39118269/",
         "id_origem": "chaves-39118269"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-33455761",
@@ -1965,7 +2117,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1978,7 +2130,7 @@
         "preco": 950000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.254112-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.220872-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -1991,7 +2143,12 @@
         "id_origem": "chaves-33455761"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455615",
@@ -2015,7 +2172,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2028,7 +2185,7 @@
         "preco": 950000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.254471-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.221254-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2041,57 +2198,12 @@
         "id_origem": "chaves-33455615"
       }
     ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-35791836",
-    "mercado": "tradicional",
-    "modalidade_leilao": null,
-    "titulo": "Casa para Venda em Patos de Minas, CAMPOS ELISEOS, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas Endereço indisponível Campos Elíseos, Patos de Minas/M",
-    "bairro": "Campos Elíseos",
-    "tipo": "Casa",
-    "preco": 950000,
-    "area_construida": 300,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": 2,
-    "vagas": 2,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS950000/id-35791836/",
-    "telefone_anunciante": null,
-    "descricao": "Casa para Venda em Patos de Minas, CAMPOS ELISEOS, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas Endereço indisponível Campos Elíseos, Patos de Minas/M",
-    "confianca": 93,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Casa para Venda em Patos de Minas, CAMPOS ELISEOS, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas Endereço indisponível Campos Elíseos",
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 950000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.254835-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 950000,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-campos-eliseos-300m2-RS950000/id-35791836/",
-        "id_origem": "chaves-35791836"
-      }
-    ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-3cd7dc0641fb3ba5",
@@ -2126,7 +2238,7 @@
         "preco": 950000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.279344-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.248616-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2139,7 +2251,12 @@
         "id_origem": "timtim-3cd7dc0641fb3ba5"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455733",
@@ -2163,7 +2280,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2176,7 +2293,7 @@
         "preco": 900000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.255193-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.222033-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2189,7 +2306,12 @@
         "id_origem": "chaves-33455733"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-35200454",
@@ -2213,7 +2335,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2226,7 +2348,7 @@
         "preco": 890000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.255548-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.222430-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2239,7 +2361,12 @@
         "id_origem": "chaves-35200454"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37554483",
@@ -2263,7 +2390,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2276,7 +2403,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.255924-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.222826-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2289,7 +2416,12 @@
         "id_origem": "chaves-37554483"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-18f7fda9cadc5669",
@@ -2324,7 +2456,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.279688-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.248961-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2337,7 +2469,12 @@
         "id_origem": "timtim-18f7fda9cadc5669"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-93ee55346d300143",
@@ -2372,7 +2509,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.280445-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.249743-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2385,7 +2522,12 @@
         "id_origem": "timtim-93ee55346d300143"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-79810a9ba9273f63",
@@ -2420,7 +2562,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.280784-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.250092-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2433,7 +2575,12 @@
         "id_origem": "timtim-79810a9ba9273f63"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-39265908",
@@ -2457,7 +2604,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2470,7 +2617,7 @@
         "preco": 790000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.256297-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.223215-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2483,7 +2630,12 @@
         "id_origem": "chaves-39265908"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42273299",
@@ -2507,7 +2659,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2520,7 +2672,7 @@
         "preco": 780000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.256649-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.223606-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2533,7 +2685,12 @@
         "id_origem": "chaves-42273299"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-362d3b0c17a9588d",
@@ -2568,7 +2725,7 @@
         "preco": 760000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.281000-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.250321-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2581,7 +2738,12 @@
         "id_origem": "timtim-362d3b0c17a9588d"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455726",
@@ -2605,7 +2767,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2618,7 +2780,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.256994-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.223983-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2631,7 +2793,12 @@
         "id_origem": "chaves-33455726"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-ecd6c84ffd1c50f4",
@@ -2666,7 +2833,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.281391-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.250771-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2679,7 +2846,12 @@
         "id_origem": "timtim-ecd6c84ffd1c50f4"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-795d0c56a6401752",
@@ -2714,7 +2886,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.281605-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.251006-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2727,7 +2899,12 @@
         "id_origem": "timtim-795d0c56a6401752"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-7bc1df7ded940cfe",
@@ -2762,7 +2939,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.282025-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.251438-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2775,7 +2952,12 @@
         "id_origem": "timtim-7bc1df7ded940cfe"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42360786",
@@ -2799,7 +2981,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2812,7 +2994,7 @@
         "preco": 700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.257328-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.224346-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2825,7 +3007,12 @@
         "id_origem": "chaves-42360786"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9e892fe4fc3ea915",
@@ -2860,7 +3047,7 @@
         "preco": 700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.282504-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.251907-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2873,7 +3060,12 @@
         "id_origem": "timtim-9e892fe4fc3ea915"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-7357fbd9a3f3b892",
@@ -2908,7 +3100,7 @@
         "preco": 700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.282945-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.252219-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2921,7 +3113,12 @@
         "id_origem": "timtim-7357fbd9a3f3b892"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-36749423",
@@ -2945,7 +3142,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2958,7 +3155,7 @@
         "preco": 690000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.257690-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.224745-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -2971,7 +3168,12 @@
         "id_origem": "chaves-36749423"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-6f8a82b6228b2b16",
@@ -3006,7 +3208,7 @@
         "preco": 670000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.283339-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.252634-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3019,7 +3221,12 @@
         "id_origem": "timtim-6f8a82b6228b2b16"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-f35a3277d1ea627c",
@@ -3054,7 +3261,7 @@
         "preco": 670000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.283731-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.253025-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3067,7 +3274,12 @@
         "id_origem": "timtim-f35a3277d1ea627c"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455684",
@@ -3091,7 +3303,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3104,7 +3316,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.258036-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.225125-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3117,7 +3329,12 @@
         "id_origem": "chaves-33455684"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-898aa75591afed09",
@@ -3152,7 +3369,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.284216-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.253541-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3165,7 +3382,12 @@
         "id_origem": "timtim-898aa75591afed09"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9deadc0fb5a110aa",
@@ -3200,7 +3422,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.284577-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.253924-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3213,7 +3435,12 @@
         "id_origem": "timtim-9deadc0fb5a110aa"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-753469df22d870db",
@@ -3248,7 +3475,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.284812-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.254170-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3261,7 +3488,12 @@
         "id_origem": "timtim-753469df22d870db"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-69de415c4d276b57",
@@ -3296,7 +3528,7 @@
         "preco": 630000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.285153-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.254553-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3309,7 +3541,12 @@
         "id_origem": "timtim-69de415c4d276b57"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-36517796",
@@ -3333,7 +3570,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3346,7 +3583,7 @@
         "preco": 620000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.258373-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.225506-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3359,7 +3596,12 @@
         "id_origem": "chaves-36517796"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-a20dea63719fef47",
@@ -3394,7 +3636,7 @@
         "preco": 600000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.285462-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.254892-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3407,7 +3649,12 @@
         "id_origem": "timtim-a20dea63719fef47"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-d37b8ed372ae994b",
@@ -3442,7 +3689,7 @@
         "preco": 600000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.285827-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.255264-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3455,7 +3702,12 @@
         "id_origem": "timtim-d37b8ed372ae994b"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-39755679",
@@ -3479,7 +3731,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3492,7 +3744,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.258750-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.225904-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3505,7 +3757,12 @@
         "id_origem": "chaves-39755679"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37488227",
@@ -3529,7 +3786,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3542,7 +3799,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.259119-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.226286-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3555,7 +3812,12 @@
         "id_origem": "chaves-37488227"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-4839e17eef29415f",
@@ -3590,7 +3852,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.286185-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.255659-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3603,7 +3865,12 @@
         "id_origem": "timtim-4839e17eef29415f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-015704e5984f31b6",
@@ -3638,7 +3905,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.286653-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.256153-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3651,7 +3918,12 @@
         "id_origem": "timtim-015704e5984f31b6"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-5bc86463f5e3f2f9",
@@ -3686,7 +3958,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.287136-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.256673-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3699,7 +3971,12 @@
         "id_origem": "timtim-5bc86463f5e3f2f9"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-fced55620f28b34f",
@@ -3734,7 +4011,7 @@
         "preco": 530000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.287411-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.256972-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3747,7 +4024,12 @@
         "id_origem": "timtim-fced55620f28b34f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-dda99aad127ca791",
@@ -3782,7 +4064,7 @@
         "preco": 500000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.287811-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.257399-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3795,7 +4077,12 @@
         "id_origem": "timtim-dda99aad127ca791"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455698",
@@ -3819,7 +4106,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3832,7 +4119,7 @@
         "preco": 490000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.259395-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.226599-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3845,7 +4132,12 @@
         "id_origem": "chaves-33455698"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-84b1637048b9cd32",
@@ -3880,7 +4172,7 @@
         "preco": 490000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.288288-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.257901-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3893,7 +4185,12 @@
         "id_origem": "timtim-84b1637048b9cd32"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-927033d244ee303e",
@@ -3928,7 +4225,7 @@
         "preco": 480000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.288506-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.258144-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3941,7 +4238,12 @@
         "id_origem": "timtim-927033d244ee303e"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455619",
@@ -3965,7 +4267,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3978,7 +4280,7 @@
         "preco": 470000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.259764-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.226984-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -3991,7 +4293,12 @@
         "id_origem": "chaves-33455619"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-abd2a4a0dd9325ee",
@@ -4026,7 +4333,7 @@
         "preco": 470000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.288986-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.258648-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4039,7 +4346,12 @@
         "id_origem": "timtim-abd2a4a0dd9325ee"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455644",
@@ -4063,7 +4375,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4076,7 +4388,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.260107-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.227357-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4089,7 +4401,12 @@
         "id_origem": "chaves-33455644"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-35791838",
@@ -4113,7 +4430,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4126,7 +4443,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.260461-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.227757-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4139,7 +4456,12 @@
         "id_origem": "chaves-35791838"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-c1f4ed97febc536e",
@@ -4174,7 +4496,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.289385-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.259083-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4187,7 +4509,12 @@
         "id_origem": "timtim-c1f4ed97febc536e"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-6f2d721d1185eae0",
@@ -4222,7 +4549,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.289692-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.259410-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4235,7 +4562,12 @@
         "id_origem": "timtim-6f2d721d1185eae0"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-66543d144eeb1e12",
@@ -4270,7 +4602,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.289963-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.259701-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4283,7 +4615,12 @@
         "id_origem": "timtim-66543d144eeb1e12"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-42037611",
@@ -4307,7 +4644,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4320,7 +4657,7 @@
         "preco": 430000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.260823-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.228138-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4333,7 +4670,12 @@
         "id_origem": "chaves-42037611"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-a2e26b7dfc542f57",
@@ -4368,7 +4710,7 @@
         "preco": 425000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.290350-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.260118-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4381,7 +4723,12 @@
         "id_origem": "timtim-a2e26b7dfc542f57"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40315119",
@@ -4405,7 +4752,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4418,7 +4765,7 @@
         "preco": 420000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.261184-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.228543-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4429,51 +4776,7 @@
         "preco": 420000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS420000/id-40315119/",
         "id_origem": "chaves-40315119"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-41891268",
-    "mercado": "tradicional",
-    "modalidade_leilao": null,
-    "titulo": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 1 suíte, 1 banheiro, 1 vaga Endereço indisponível Centro, Patos de Minas/MG 3 1 1 R$ ",
-    "bairro": "Vaga Endereço Indisponível Centro",
-    "tipo": "Apartamento",
-    "preco": 420000,
-    "area_construida": null,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": 1,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-mg-patos-de-minas-centro-RS420000/id-41891268/",
-    "telefone_anunciante": null,
-    "descricao": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 1 suíte, 1 banheiro, 1 vaga Endereço indisponível Centro, Patos de Minas/MG 3 1 1 R$ ",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Apartamento para Venda em Patos de Minas, Centro, 3 dormitórios, 1 suíte, 1 banheiro, 1 vaga Endereço indisponível Centro",
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 420000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.261541-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 420000,
@@ -4481,7 +4784,12 @@
         "id_origem": "chaves-41891268"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "timtim-29d9d61c530b11c1",
@@ -4516,7 +4824,7 @@
         "preco": 420000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.290649-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.260458-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4529,7 +4837,12 @@
         "id_origem": "timtim-29d9d61c530b11c1"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-ddec47f740ff258f",
@@ -4564,7 +4877,7 @@
         "preco": 410000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.291011-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.260843-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4577,7 +4890,12 @@
         "id_origem": "timtim-ddec47f740ff258f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-38239687",
@@ -4601,7 +4919,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4614,7 +4932,7 @@
         "preco": 400000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.261899-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.229318-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4627,7 +4945,12 @@
         "id_origem": "chaves-38239687"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-425f1ea810f23d67",
@@ -4662,7 +4985,7 @@
         "preco": 400000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.291213-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.261071-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4675,7 +4998,12 @@
         "id_origem": "timtim-425f1ea810f23d67"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33967728",
@@ -4699,7 +5027,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4712,7 +5040,7 @@
         "preco": 398000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.262247-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.229708-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4725,7 +5053,12 @@
         "id_origem": "chaves-33967728"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-7befb7a45c41135a",
@@ -4760,7 +5093,7 @@
         "preco": 395000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.291580-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.261547-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4773,7 +5106,12 @@
         "id_origem": "timtim-7befb7a45c41135a"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43025922",
@@ -4797,7 +5135,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4810,7 +5148,7 @@
         "preco": 350000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.262604-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.230105-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4823,7 +5161,12 @@
         "id_origem": "chaves-43025922"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-cec44a8b88318bac",
@@ -4858,7 +5201,7 @@
         "preco": 350000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.291869-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.261851-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4871,7 +5214,12 @@
         "id_origem": "timtim-cec44a8b88318bac"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-4dd92c1b3f4f0e8e",
@@ -4906,7 +5254,7 @@
         "preco": 350000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.292354-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.262362-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -4919,7 +5267,12 @@
         "id_origem": "timtim-4dd92c1b3f4f0e8e"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-44423173",
@@ -4943,7 +5296,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -4956,7 +5309,7 @@
         "preco": 349000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.262912-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.230444-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -4969,7 +5322,12 @@
         "id_origem": "chaves-44423173"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37905522",
@@ -4993,7 +5351,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
+    "ultima_captura": "2026-07-14T17:03:04.294142-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -5006,7 +5364,7 @@
         "preco": 340000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.263260-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.230820-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -5019,7 +5377,12 @@
         "id_origem": "chaves-37905522"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-e6e0f86318ac853f",
@@ -5054,7 +5417,7 @@
         "preco": 330000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.292804-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.262844-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5067,7 +5430,12 @@
         "id_origem": "timtim-e6e0f86318ac853f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-99441f833978a072",
@@ -5102,7 +5470,7 @@
         "preco": 320000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.293215-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.263272-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5115,7 +5483,12 @@
         "id_origem": "timtim-99441f833978a072"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33455659",
@@ -5139,7 +5512,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -5152,7 +5525,7 @@
         "preco": 300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.263605-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.231197-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -5165,7 +5538,12 @@
         "id_origem": "chaves-33455659"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-def6612d5e19f55d",
@@ -5200,7 +5578,7 @@
         "preco": 300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.293409-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.263501-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5213,7 +5591,12 @@
         "id_origem": "timtim-def6612d5e19f55d"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-5d55910e2ec7754f",
@@ -5248,7 +5631,7 @@
         "preco": 285000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.293749-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.263851-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5261,7 +5644,12 @@
         "id_origem": "timtim-5d55910e2ec7754f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40885086",
@@ -5285,7 +5673,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -5298,7 +5686,7 @@
         "preco": 280000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.263958-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.231580-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -5311,7 +5699,12 @@
         "id_origem": "chaves-40885086"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-03b1d2b0c7a78b1b",
@@ -5346,7 +5739,7 @@
         "preco": 270000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.294234-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.264340-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5359,7 +5752,12 @@
         "id_origem": "timtim-03b1d2b0c7a78b1b"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-f6491076dcc3d72f",
@@ -5394,7 +5792,7 @@
         "preco": 270000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.294545-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.264673-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5407,7 +5805,12 @@
         "id_origem": "timtim-f6491076dcc3d72f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-746d7835186707c8",
@@ -5442,7 +5845,7 @@
         "preco": 265000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.295025-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.265146-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5455,7 +5858,12 @@
         "id_origem": "timtim-746d7835186707c8"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-37199820",
@@ -5479,7 +5887,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -5492,7 +5900,7 @@
         "preco": 260000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.264236-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.231880-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -5505,7 +5913,12 @@
         "id_origem": "chaves-37199820"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-34251371",
@@ -5529,7 +5942,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -5542,7 +5955,7 @@
         "preco": 260000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.264592-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.232268-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -5555,7 +5968,12 @@
         "id_origem": "chaves-34251371"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-43827b57f8325355",
@@ -5590,7 +6008,7 @@
         "preco": 260000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.295489-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.265633-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5603,7 +6021,12 @@
         "id_origem": "timtim-43827b57f8325355"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-0978fe163230e672",
@@ -5638,7 +6061,7 @@
         "preco": 255000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.295801-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.265951-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5651,7 +6074,12 @@
         "id_origem": "timtim-0978fe163230e672"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-a8e0904fdaeaed7f",
@@ -5686,7 +6114,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.296106-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.266260-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5699,7 +6127,12 @@
         "id_origem": "timtim-a8e0904fdaeaed7f"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-864c61389d2b4970",
@@ -5734,7 +6167,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.296327-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.266509-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5747,7 +6180,12 @@
         "id_origem": "timtim-864c61389d2b4970"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-46b7476cc8d54bee",
@@ -5782,7 +6220,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.296572-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.266767-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5795,7 +6233,12 @@
         "id_origem": "timtim-46b7476cc8d54bee"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9e97c233f78f7264",
@@ -5830,7 +6273,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.296866-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.267059-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5843,7 +6286,12 @@
         "id_origem": "timtim-9e97c233f78f7264"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-f300cf5fa17b07f3",
@@ -5878,7 +6326,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.297205-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.267415-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5891,7 +6339,12 @@
         "id_origem": "timtim-f300cf5fa17b07f3"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-53e11ed1d84c98ef",
@@ -5926,7 +6379,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.297440-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.267666-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5939,7 +6392,12 @@
         "id_origem": "timtim-53e11ed1d84c98ef"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-3d92d918189966c4",
@@ -5974,7 +6432,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.297805-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.268028-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -5987,7 +6445,12 @@
         "id_origem": "timtim-3d92d918189966c4"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-e0f8ae14c6df6838",
@@ -6022,7 +6485,7 @@
         "preco": 239000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.298300-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.268546-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6035,7 +6498,12 @@
         "id_origem": "timtim-e0f8ae14c6df6838"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-33520701",
@@ -6059,7 +6527,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -6072,7 +6540,7 @@
         "preco": 235000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.264950-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.232656-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -6085,7 +6553,12 @@
         "id_origem": "chaves-33520701"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-b596d1a9d9e08df1",
@@ -6120,7 +6593,7 @@
         "preco": 230000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.298667-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.268915-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6133,7 +6606,12 @@
         "id_origem": "timtim-b596d1a9d9e08df1"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-ea24ad4a94e7a90e",
@@ -6168,7 +6646,7 @@
         "preco": 189000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.299065-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.269317-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6181,7 +6659,12 @@
         "id_origem": "timtim-ea24ad4a94e7a90e"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-44246da52bc1b7b2",
@@ -6216,7 +6699,7 @@
         "preco": 185000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.299358-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.269632-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6229,7 +6712,12 @@
         "id_origem": "timtim-44246da52bc1b7b2"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-ef231af9edc14568",
@@ -6264,7 +6752,7 @@
         "preco": 180000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.299704-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.269977-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6277,7 +6765,12 @@
         "id_origem": "timtim-ef231af9edc14568"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-7206356438dea44c",
@@ -6312,7 +6805,7 @@
         "preco": 160000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.300028-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.270320-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6325,7 +6818,12 @@
         "id_origem": "timtim-7206356438dea44c"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9ca51f2446100320",
@@ -6360,7 +6858,7 @@
         "preco": 145000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.300396-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.270763-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6373,7 +6871,12 @@
         "id_origem": "timtim-9ca51f2446100320"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-a330833951bbdc9c",
@@ -6408,7 +6911,7 @@
         "preco": 140000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.300722-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.271100-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6421,7 +6924,12 @@
         "id_origem": "timtim-a330833951bbdc9c"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-9ed1f22c65e70a0b",
@@ -6456,7 +6964,7 @@
         "preco": 135000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.301131-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.271528-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6469,7 +6977,12 @@
         "id_origem": "timtim-9ed1f22c65e70a0b"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40455443",
@@ -6493,7 +7006,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -6506,7 +7019,7 @@
         "preco": 130000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.265299-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.233047-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -6519,7 +7032,12 @@
         "id_origem": "chaves-40455443"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-3d26f18d95aba246",
@@ -6554,7 +7072,7 @@
         "preco": 125000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.301358-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.271772-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6567,7 +7085,12 @@
         "id_origem": "timtim-3d26f18d95aba246"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-4a1fc4f6b6fc2639",
@@ -6602,7 +7125,7 @@
         "preco": 110000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.301560-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.271986-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6615,7 +7138,12 @@
         "id_origem": "timtim-4a1fc4f6b6fc2639"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-a02c980477b176b6",
@@ -6650,7 +7178,7 @@
         "preco": 107000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.301808-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.272237-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6663,7 +7191,12 @@
         "id_origem": "timtim-a02c980477b176b6"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43946637",
@@ -6687,7 +7220,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -6700,7 +7233,7 @@
         "preco": 106667
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.265615-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.233398-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -6713,7 +7246,12 @@
         "id_origem": "chaves-43946637"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-b746a3466dcd7d90",
@@ -6748,7 +7286,7 @@
         "preco": 99000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.302027-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.272478-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6761,7 +7299,12 @@
         "id_origem": "timtim-b746a3466dcd7d90"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-83d7dd4ce051e83e",
@@ -6796,7 +7339,7 @@
         "preco": 50000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.302341-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.272797-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6809,7 +7352,12 @@
         "id_origem": "timtim-83d7dd4ce051e83e"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-3c3d1fca1c476179",
@@ -6844,7 +7392,7 @@
         "preco": 26000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.302775-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.273225-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6857,7 +7405,12 @@
         "id_origem": "timtim-3c3d1fca1c476179"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-980b07f30526a822",
@@ -6892,7 +7445,7 @@
         "preco": 10000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.303232-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.273688-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6905,7 +7458,12 @@
         "id_origem": "timtim-980b07f30526a822"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-5293919a7a4a19b6",
@@ -6940,7 +7498,7 @@
         "preco": 2500
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.303734-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.274183-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -6953,7 +7511,12 @@
         "id_origem": "timtim-5293919a7a4a19b6"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "timtim-08a3d8f7db8c0f62",
@@ -6988,7 +7551,7 @@
         "preco": 1400
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.304139-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.274606-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -7001,7 +7564,12 @@
         "id_origem": "timtim-08a3d8f7db8c0f62"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43945257",
@@ -7025,7 +7593,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7038,7 +7606,7 @@
         "preco": 1620000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.265902-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.233709-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7049,101 +7617,13 @@
         "preco": 1620000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-5-quartos-mg-patos-de-minas-alto-dos-caicaras-370m2-RS1620000/id-43945257/",
         "id_origem": "chaves-43945257"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-43947700",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Imóvel para investir — Casa no Alto dos Caicaras, Patos de Minas - MG, Nº 330, 5 quartos, 450m² | Leilão Rua Lázaro Barbosa Da Silva, -- Alto dos Caiç",
-    "bairro": "Alto Dos Caicaras",
-    "tipo": "Casa",
-    "preco": 1620000,
-    "area_construida": 450,
-    "area_terreno": null,
-    "quartos": 5,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-5-quartos-mg-patos-de-minas-alto-dos-caicaras-370m2-RS1620000/id-43947700/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel para investir — Casa no Alto dos Caicaras, Patos de Minas - MG, Nº 330, 5 quartos, 450m² | Leilão Rua Lázaro Barbosa Da Silva, -- Alto dos Caiç",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 1620000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.266178-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 1620000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-5-quartos-mg-patos-de-minas-alto-dos-caicaras-370m2-RS1620000/id-43947700/",
         "id_origem": "chaves-43947700"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-43893514",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Imóvel para investir — Casa no Alto dos Caicaras, Patos de Minas - MG, Nº 330, 5 quartos, 450m² | Leilão Rua Lázaro Barbosa Da Silva Alto dos Caiçaras",
-    "bairro": "Alto Dos Caicaras",
-    "tipo": "Casa",
-    "preco": 1620000,
-    "area_construida": 450,
-    "area_terreno": null,
-    "quartos": 5,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-5-quartos-mg-patos-de-minas-alto-dos-caicaras-370m2-RS1620000/id-43893514/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel para investir — Casa no Alto dos Caicaras, Patos de Minas - MG, Nº 330, 5 quartos, 450m² | Leilão Rua Lázaro Barbosa Da Silva Alto dos Caiçaras",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 1620000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.266451-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 1620000,
@@ -7151,7 +7631,12 @@
         "id_origem": "chaves-43893514"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 3,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 3
   },
   {
     "id": "chaves-44079109",
@@ -7175,7 +7660,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7188,7 +7673,7 @@
         "preco": 432000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.266816-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.234744-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7199,51 +7684,7 @@
         "preco": 432000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-com-garagem-mg-patos-de-minas-eldorado-189m2-RS432000/id-44079109/",
         "id_origem": "chaves-44079109"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-44074886",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Oferta exclusiva — Casa no Eldorado, Patos de Minas - MG, Nº 168, 1 vaga, 275m² | Leilão Rua João De Souza Nascentes, -- Eldorado, Patos de Minas/MG 2",
-    "bairro": "Não identificado",
-    "tipo": "Casa",
-    "preco": 432000,
-    "area_construida": 275,
-    "area_terreno": null,
-    "quartos": null,
-    "banheiros": null,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-com-garagem-mg-patos-de-minas-eldorado-189m2-RS432000/id-44074886/",
-    "telefone_anunciante": null,
-    "descricao": "Oferta exclusiva — Casa no Eldorado, Patos de Minas - MG, Nº 168, 1 vaga, 275m² | Leilão Rua João De Souza Nascentes, -- Eldorado, Patos de Minas/MG 2",
-    "confianca": 79,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Oferta exclusiva — Casa no Eldorado, Patos de Minas - MG, Nº 168, 1 vaga, 275m² | Leilão Rua João De Souza Nascentes, -- Eldorado",
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 432000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.267164-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 432000,
@@ -7251,7 +7692,12 @@
         "id_origem": "chaves-44074886"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-43888913",
@@ -7275,7 +7721,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7288,7 +7734,7 @@
         "preco": 240000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.267430-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.235467-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7299,101 +7745,13 @@
         "preco": 240000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-mg-patos-de-minas-residencial-monjolo-90m2-RS240000/id-43888913/",
         "id_origem": "chaves-43888913"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-43875218",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Negócio imperdível — Casa no Residencial Monjolo, Patos de Minas - MG, Nº 778, 3 quartos, 200m² | Leilão Rua Clarimundo Da Costa Gontijo Residencial M",
-    "bairro": "Residencial Monjolo",
-    "tipo": "Casa",
-    "preco": 240000,
-    "area_construida": 200,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-mg-patos-de-minas-residencial-monjolo-90m2-RS240000/id-43875218/",
-    "telefone_anunciante": null,
-    "descricao": "Negócio imperdível — Casa no Residencial Monjolo, Patos de Minas - MG, Nº 778, 3 quartos, 200m² | Leilão Rua Clarimundo Da Costa Gontijo Residencial M",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 240000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.267705-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 240000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-mg-patos-de-minas-residencial-monjolo-90m2-RS240000/id-43875218/",
         "id_origem": "chaves-43875218"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-43947383",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Negócio imperdível — Casa no Residencial Monjolo, Patos de Minas - MG, Nº 778, 3 quartos, 200m² | Leilão Rua Clarimundo Da Costa Gontijo, -- Residenci",
-    "bairro": "Residencial Monjolo",
-    "tipo": "Casa",
-    "preco": 240000,
-    "area_construida": 200,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-mg-patos-de-minas-residencial-monjolo-90m2-RS240000/id-43947383/",
-    "telefone_anunciante": null,
-    "descricao": "Negócio imperdível — Casa no Residencial Monjolo, Patos de Minas - MG, Nº 778, 3 quartos, 200m² | Leilão Rua Clarimundo Da Costa Gontijo, -- Residenci",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 240000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.267975-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 240000,
@@ -7401,7 +7759,12 @@
         "id_origem": "chaves-43947383"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 3,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 3
   },
   {
     "id": "chaves-43366952",
@@ -7425,7 +7788,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7438,7 +7801,7 @@
         "preco": 196000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.268324-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.236497-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7449,9 +7812,20 @@
         "preco": 196000,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/terreno-a-venda-mg-patos-de-minas-afonso-queiroz-50m2-RS196000/id-43366952/",
         "id_origem": "chaves-43366952"
+      },
+      {
+        "fonte": "Chaves na Mão",
+        "preco": 196000,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/terreno-a-venda-mg-patos-de-minas-afonso-queiroz-50m2-RS196000/id-43946064/",
+        "id_origem": "chaves-43946064"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-43458124",
@@ -7475,7 +7849,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7488,7 +7862,7 @@
         "preco": 196000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.268594-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.236805-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7501,57 +7875,12 @@
         "id_origem": "chaves-43458124"
       }
     ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-43946064",
-    "mercado": "leilao",
-    "modalidade_leilao": "Leilão",
-    "titulo": "Imóvel em ótima região — Terreno no Afonso Queiroz, Patos de Minas - MG, Nº 828, 231m² | Leilão Rua Ary Lacerda De Araujo, -- Afonso Queiroz, Patos de",
-    "bairro": "Afonso Queiroz",
-    "tipo": "Lote",
-    "preco": 196000,
-    "area_construida": null,
-    "area_terreno": 231,
-    "quartos": null,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/terreno-a-venda-mg-patos-de-minas-afonso-queiroz-50m2-RS196000/id-43946064/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel em ótima região — Terreno no Afonso Queiroz, Patos de Minas - MG, Nº 828, 231m² | Leilão Rua Ary Lacerda De Araujo, -- Afonso Queiroz, Patos de",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": "Imóvel em ótima região — Terreno no Afonso Queiroz, Patos de Minas - MG, Nº 828, 231m² | Leilão Rua Ary Lacerda De Araujo, -- Afonso Queiroz",
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 196000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.268962-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 196000,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/terreno-a-venda-mg-patos-de-minas-afonso-queiroz-50m2-RS196000/id-43946064/",
-        "id_origem": "chaves-43946064"
-      }
-    ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43302317",
@@ -7575,7 +7904,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:31.788653-03:00",
-    "ultima_captura": "2026-07-14T16:43:55.940379-03:00",
+    "ultima_captura": "2026-07-14T17:02:53.589814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7588,7 +7917,7 @@
         "preco": 142000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.269250-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.237526-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7601,7 +7930,12 @@
         "id_origem": "chaves-43302317"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41325287",
@@ -7625,7 +7959,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7638,7 +7972,7 @@
         "preco": 132178
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.269553-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.237872-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7651,7 +7985,12 @@
         "id_origem": "chaves-41325287"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41334552",
@@ -7675,7 +8014,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
+    "ultima_captura": "2026-07-14T17:02:50.041814-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7688,7 +8027,7 @@
         "preco": 132178
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.269992-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.238311-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7701,7 +8040,12 @@
         "id_origem": "chaves-41334552"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41623253",
@@ -7725,7 +8069,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7738,7 +8082,7 @@
         "preco": 131762
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.270296-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.238669-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7751,7 +8095,12 @@
         "id_origem": "chaves-41623253"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-44348720",
@@ -7775,7 +8124,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:23.891664-03:00",
-    "ultima_captura": "2026-07-14T16:43:48.252179-03:00",
+    "ultima_captura": "2026-07-14T17:02:46.483259-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7788,7 +8137,7 @@
         "preco": 131762
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.270604-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.239015-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7801,7 +8150,12 @@
         "id_origem": "chaves-44348720"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-41082524",
@@ -7825,7 +8179,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7838,7 +8192,7 @@
         "preco": 126926
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.270944-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.239359-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7849,51 +8203,7 @@
         "preco": 126926,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-aurelio-caixeta-89m2-RS126926/id-41082524/",
         "id_origem": "chaves-41082524"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-41093126",
-    "mercado": "leilao",
-    "modalidade_leilao": "Licitação aberta",
-    "titulo": "Imóvel em local estratégico — Apartamento no Aurelio Caixeta, Patos de Minas - MG, Apto 22B, 2 quartos, 1 vaga, 48m² | Licitação Aberta Avenida Wilson",
-    "bairro": "Aurelio Caixeta",
-    "tipo": "Apartamento",
-    "preco": 126926,
-    "area_construida": 48,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-aurelio-caixeta-89m2-RS126926/id-41093126/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel em local estratégico — Apartamento no Aurelio Caixeta, Patos de Minas - MG, Apto 22B, 2 quartos, 1 vaga, 48m² | Licitação Aberta Avenida Wilson",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 126926
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.271255-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 126926,
@@ -7901,7 +8211,12 @@
         "id_origem": "chaves-41093126"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-43760659",
@@ -7925,7 +8240,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7938,7 +8253,7 @@
         "preco": 126926
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.271566-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.240060-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -7951,7 +8266,12 @@
         "id_origem": "chaves-43760659"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43760651",
@@ -7975,7 +8295,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -7988,7 +8308,7 @@
         "preco": 120882
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.271918-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.240436-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8001,7 +8321,12 @@
         "id_origem": "chaves-43760651"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-40991591",
@@ -8025,7 +8350,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8038,7 +8363,7 @@
         "preco": 120882
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.272248-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.240795-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8049,51 +8374,7 @@
         "preco": 120882,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS120882/id-40991591/",
         "id_origem": "chaves-40991591"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-40982553",
-    "mercado": "leilao",
-    "modalidade_leilao": "Licitação aberta",
-    "titulo": "Grande oportunidade — Apartamento no Ipanema, Patos de Minas - MG, Apto 502, 2 quartos, 47,01m² | Licitação Aberta Avenida Vereador José Caixeta Magal",
-    "bairro": "Não identificado",
-    "tipo": "Apartamento",
-    "preco": 120882,
-    "area_construida": 47,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS120882/id-40982553/",
-    "telefone_anunciante": null,
-    "descricao": "Grande oportunidade — Apartamento no Ipanema, Patos de Minas - MG, Apto 502, 2 quartos, 47,01m² | Licitação Aberta Avenida Vereador José Caixeta Magal",
-    "confianca": 79,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:27.935668-03:00",
-    "ultima_captura": "2026-07-14T16:43:52.072790-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 120882
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.272559-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 120882,
@@ -8101,7 +8382,12 @@
         "id_origem": "chaves-40982553"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-39890448",
@@ -8125,7 +8411,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:16.096616-03:00",
-    "ultima_captura": "2026-07-14T16:43:40.589259-03:00",
+    "ultima_captura": "2026-07-14T17:02:39.400789-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8138,7 +8424,7 @@
         "preco": 116349
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.272885-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.241498-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8151,7 +8437,12 @@
         "id_origem": "chaves-39890448"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43173900",
@@ -8175,7 +8466,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
+    "ultima_captura": "2026-07-14T17:02:42.940169-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8188,7 +8479,7 @@
         "preco": 116349
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.273209-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.241847-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8201,57 +8492,12 @@
         "id_origem": "chaves-43173900"
       }
     ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-39532882",
-    "mercado": "leilao",
-    "modalidade_leilao": "Venda direta",
-    "titulo": "Oferta vantajosa — Apartamento no Ipanema, Patos de Minas - MG, Apto 401, 2 quartos, 47,01m² | Venda Direta Online Avenida Vereador José Caixeta Magal",
-    "bairro": "Não identificado",
-    "tipo": "Apartamento",
-    "preco": 112420,
-    "area_construida": 47,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39532882/",
-    "telefone_anunciante": null,
-    "descricao": "Oferta vantajosa — Apartamento no Ipanema, Patos de Minas - MG, Apto 401, 2 quartos, 47,01m² | Venda Direta Online Avenida Vereador José Caixeta Magal",
-    "confianca": 79,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:19.987128-03:00",
-    "ultima_captura": "2026-07-14T16:43:44.449196-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 112420
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.273526-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 112420,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39532882/",
-        "id_origem": "chaves-39532882"
-      }
-    ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-39521708",
@@ -8267,7 +8513,7 @@
     "banheiros": null,
     "vagas": null,
     "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39521708/",
+    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39532882/",
     "telefone_anunciante": null,
     "descricao": "Oferta vantajosa — Apartamento no Ipanema, Patos de Minas - MG, Apto 401, 2 quartos, 47,01m² | Venda Direta Online Avenida Vereador José Caixeta Magal",
     "confianca": 86,
@@ -8275,7 +8521,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8288,8 +8534,10 @@
         "preco": 112420
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.273867-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.242558-03:00",
     "status": "ativo",
+    "_dedupe_confidence": 99,
+    "_dedupe_reason": "mesma_fonte_descricao_preco",
     "fontes_encontradas": [
       "Chaves na Mão"
     ],
@@ -8297,11 +8545,22 @@
       {
         "fonte": "Chaves na Mão",
         "preco": 112420,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39532882/",
+        "id_origem": "chaves-39532882"
+      },
+      {
+        "fonte": "Chaves na Mão",
+        "preco": 112420,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-mg-patos-de-minas-ipanema-57m2-RS112420/id-39521708/",
         "id_origem": "chaves-39521708"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-43945910",
@@ -8325,7 +8584,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8338,7 +8597,7 @@
         "preco": 106667
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.274185-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.242903-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8349,9 +8608,20 @@
         "preco": 106667,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-com-garagem-mg-patos-de-minas-residencial-sorriso-49m2-RS106667/id-43945910/",
         "id_origem": "chaves-43945910"
+      },
+      {
+        "fonte": "Chaves na Mão",
+        "preco": 106667,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-com-garagem-mg-patos-de-minas-residencial-sorriso-49m2-RS106667/id-40213351/",
+        "id_origem": "chaves-40213351"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-40207841",
@@ -8375,7 +8645,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
+    "ultima_captura": "2026-07-14T17:02:57.188446-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8388,7 +8658,7 @@
         "preco": 106667
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.274497-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.243246-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8401,107 +8671,12 @@
         "id_origem": "chaves-40207841"
       }
     ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-40213351",
-    "mercado": "leilao",
-    "modalidade_leilao": "Venda direta",
-    "titulo": "Imóvel com ótima proposta — Casa no Residencial Sorriso, Patos de Minas - MG, Nº 376, 2 quartos, 1 vaga, 110m² | Venda Direta Online Rua Laura Eulalia",
-    "bairro": "Residencial Sorriso",
-    "tipo": "Casa",
-    "preco": 106667,
-    "area_construida": 110,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-com-garagem-mg-patos-de-minas-residencial-sorriso-49m2-RS106667/id-40213351/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel com ótima proposta — Casa no Residencial Sorriso, Patos de Minas - MG, Nº 376, 2 quartos, 1 vaga, 110m² | Venda Direta Online Rua Laura Eulalia",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:35.638815-03:00",
-    "ultima_captura": "2026-07-14T16:43:59.731073-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 106667
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.274823-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 106667,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-com-garagem-mg-patos-de-minas-residencial-sorriso-49m2-RS106667/id-40213351/",
-        "id_origem": "chaves-40213351"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-40982557",
-    "mercado": "leilao",
-    "modalidade_leilao": "Licitação aberta",
-    "titulo": "Oferta com excelente localização — Apartamento no Cerrado, Patos de Minas - MG, Apto 501, 2 quartos, 1 vaga, 47,55m² | Licitação Aberta Rua Valdemar D",
-    "bairro": "Não identificado",
-    "tipo": "Apartamento",
-    "preco": 101926,
-    "area_construida": 48,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-40982557/",
-    "telefone_anunciante": null,
-    "descricao": "Oferta com excelente localização — Apartamento no Cerrado, Patos de Minas - MG, Apto 501, 2 quartos, 1 vaga, 47,55m² | Licitação Aberta Rua Valdemar D",
-    "confianca": 79,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 101926
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.275145-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Chaves na Mão",
-        "preco": 101926,
-        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-40982557/",
-        "id_origem": "chaves-40982557"
-      }
-    ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-43760656",
@@ -8517,7 +8692,7 @@
     "banheiros": null,
     "vagas": 1,
     "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-43760656/",
+    "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-40982557/",
     "telefone_anunciante": null,
     "descricao": "Oferta com excelente localização — Apartamento no Cerrado, Patos de Minas - MG, Apto 501, 2 quartos, 1 vaga, 47,55m² | Licitação Aberta Rua Valdemar D",
     "confianca": 86,
@@ -8525,7 +8700,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:12.025973-03:00",
-    "ultima_captura": "2026-07-14T16:43:36.779874-03:00",
+    "ultima_captura": "2026-07-14T17:02:35.773610-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8538,8 +8713,10 @@
         "preco": 101926
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.275477-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.244309-03:00",
     "status": "ativo",
+    "_dedupe_confidence": 99,
+    "_dedupe_reason": "mesma_fonte_descricao_preco",
     "fontes_encontradas": [
       "Chaves na Mão"
     ],
@@ -8547,11 +8724,22 @@
       {
         "fonte": "Chaves na Mão",
         "preco": 101926,
+        "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-40982557/",
+        "id_origem": "chaves-40982557"
+      },
+      {
+        "fonte": "Chaves na Mão",
+        "preco": 101926,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-2-quartos-com-garagem-mg-patos-de-minas-cerrado-65m2-RS101926/id-43760656/",
         "id_origem": "chaves-43760656"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-43945909",
@@ -8575,7 +8763,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:39.570307-03:00",
-    "ultima_captura": "2026-07-14T16:44:03.571421-03:00",
+    "ultima_captura": "2026-07-14T17:03:00.735328-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8588,7 +8776,7 @@
         "preco": 95407
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.275797-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.244664-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8599,51 +8787,7 @@
         "preco": 95407,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-mg-patos-de-minas-jardim-quebec-118m2-RS95407/id-43945909/",
         "id_origem": "chaves-43945909"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-40213350",
-    "mercado": "leilao",
-    "modalidade_leilao": "Venda direta",
-    "titulo": "Imóvel para investir — Casa no Jardim Quebec, Patos de Minas - MG, Nº 18, 2 quartos, 200m² | Venda Direta Online Rua Sebastião Reinaldo Sobrinho Jardi",
-    "bairro": "Jardim Quebec",
-    "tipo": "Casa",
-    "preco": 95407,
-    "area_construida": 200,
-    "area_terreno": null,
-    "quartos": 2,
-    "banheiros": null,
-    "vagas": null,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-2-quartos-mg-patos-de-minas-jardim-quebec-118m2-RS95407/id-40213350/",
-    "telefone_anunciante": null,
-    "descricao": "Imóvel para investir — Casa no Jardim Quebec, Patos de Minas - MG, Nº 18, 2 quartos, 200m² | Venda Direta Online Rua Sebastião Reinaldo Sobrinho Jardi",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 95407
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.276110-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 95407,
@@ -8651,7 +8795,12 @@
         "id_origem": "chaves-40213350"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   },
   {
     "id": "chaves-40329958",
@@ -8675,7 +8824,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:47.306330-03:00",
-    "ultima_captura": "2026-07-14T16:44:11.321976-03:00",
+    "ultima_captura": "2026-07-14T17:03:07.786325-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8688,7 +8837,7 @@
         "preco": 84306
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.276490-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.245345-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8701,7 +8850,12 @@
         "id_origem": "chaves-40329958"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 1,
+    "quantidade_fontes": 1,
+    "duplicado": false,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": false,
+    "quantidade_anuncios_agrupados": 1
   },
   {
     "id": "chaves-28612239",
@@ -8725,7 +8879,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-14T16:37:08.053752-03:00",
-    "ultima_captura": "2026-07-14T16:43:32.888078-03:00",
+    "ultima_captura": "2026-07-14T17:02:32.144030-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -8738,7 +8892,7 @@
         "preco": 44822
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.276827-03:00",
+    "classificacao_processada_em": "2026-07-14T17:03:15.245708-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Chaves na Mão"
@@ -8749,51 +8903,7 @@
         "preco": 44822,
         "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-coracao-eucaristico-59m2-RS44822/id-28612239/",
         "id_origem": "chaves-28612239"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "chaves-28629756",
-    "mercado": "leilao",
-    "modalidade_leilao": "Venda direta",
-    "titulo": "Oferta com destaque — Casa no Coracao Eucaristico, Patos de Minas - MG, Nº 46, 3 quartos, 1 vaga, 200m² | Venda Direta Online Rua Lico Paulino, -- Cor",
-    "bairro": "Coracao Eucaristico",
-    "tipo": "Casa",
-    "preco": 44822,
-    "area_construida": 200,
-    "area_terreno": null,
-    "quartos": 3,
-    "banheiros": null,
-    "vagas": 1,
-    "fonte": "Chaves na Mão",
-    "url_fonte": "https://www.chavesnamao.com.br/imovel/casa-a-venda-3-quartos-com-garagem-mg-patos-de-minas-coracao-eucaristico-59m2-RS44822/id-28629756/",
-    "telefone_anunciante": null,
-    "descricao": "Oferta com destaque — Casa no Coracao Eucaristico, Patos de Minas - MG, Nº 46, 3 quartos, 1 vaga, 200m² | Venda Direta Online Rua Lico Paulino, -- Cor",
-    "confianca": 86,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-14T16:37:43.420010-03:00",
-    "ultima_captura": "2026-07-14T16:44:07.539648-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 44822
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T16:44:19.277157-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Chaves na Mão"
-    ],
-    "ofertas": [
+      },
       {
         "fonte": "Chaves na Mão",
         "preco": 44822,
@@ -8801,6 +8911,11 @@
         "id_origem": "chaves-28629756"
       }
     ],
-    "duplicado_multifonte": false
+    "quantidade_ofertas": 2,
+    "quantidade_fontes": 1,
+    "duplicado": true,
+    "duplicado_multifonte": false,
+    "duplicado_mesma_fonte": true,
+    "quantidade_anuncios_agrupados": 2
   }
 ]
