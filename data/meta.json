@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-07-14T11:46:07.790597-03:00",
+  "updated_at": "2026-07-14T16:37:56.806187-03:00",
   "status": "base_multifuente_processada",
-  "records": 73,
-  "captured_before_filters": 76,
+  "records": 227,
+  "captured_before_filters": 232,
   "excluded_records": 3,
-  "duplicate_groups": 0,
+  "duplicate_groups": 1,
   "markets": {
-    "tradicional": 73,
-    "leilao": 0,
+    "tradicional": 141,
+    "leilao": 86,
     "nao_comparavel": 0
   },
-  "mapped_records": 48,
+  "mapped_records": 47,
   "location_precision": {
-    "nao_localizado": 25,
-    "bairro_aproximada": 35,
+    "nao_localizado": 180,
+    "bairro_aproximada": 34,
     "rua_aproximada": 11,
     "alta": 2
   },
   "sources": {
+    "Chaves na Mão": {
+      "capturados": 156,
+      "incluidos": 156,
+      "excluidos": 0,
+      "nao_comparaveis": 0
+    },
     "Classificados TIMTIM": {
       "capturados": 76,
       "incluidos": 73,
