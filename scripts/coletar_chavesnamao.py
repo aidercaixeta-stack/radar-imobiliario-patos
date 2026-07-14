@@ -182,30 +182,26 @@ def description_from_card(card_text: str, title: str) -> str:
 
 
 def get_card_text(anchor) -> str:
-    try:
-        text = anchor.inner_text(timeout=1500)
-        if "R$" in text and len(text) < 10000:
-            return text
-    except Exception:
-        pass
+    """Retorna somente o texto do próprio link do anúncio.
 
+    Não sobe para elementos-pai, porque isso pode misturar dados de anúncios vizinhos.
+    Se o próprio link não trouxer preço e localização suficientes, o anúncio é ignorado
+    nesta coleta em vez de arriscar contaminar a base.
+    """
     try:
-        return anchor.evaluate(
-            """(el) => {
-                let node = el;
-                let best = "";
-                for (let i = 0; i < 8 && node; i++, node = node.parentElement) {
-                    const text = (node.innerText || "").trim();
-                    if (text.includes("R$") && text.toLowerCase().includes("patos de minas")) {
-                        best = text;
-                        if (text.length > 60 && text.length < 10000) return text;
-                    }
-                }
-                return best;
-            }"""
-        )
+        text = clean(anchor.inner_text(timeout=1800))
     except Exception:
         return ""
+
+    if (
+        "R$" not in text
+        or "patos de minas" not in text.lower()
+        or len(text) < 25
+        or len(text) > 3000
+    ):
+        return ""
+
+    return text
 
 
 def save_diagnostic(page: Page, page_number: int, reason: str) -> None:
@@ -296,6 +292,23 @@ def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
         banheiros = first_number(text, r"(?<!\d)(\d{1,2})\s*(?:banheiros?|ban\.?)\b")
         vagas = first_number(text, r"(?<!\d)(\d{1,2})\s*vagas?\b")
         description = description_from_card(payload["text"], title)
+
+        # Guarda de integridade: quando o URL informa o preço, ele deve ser
+        # compatível com o preço lido no próprio link do anúncio.
+        url_price_match = re.search(r"-RS(\d+)(?:/|$)", payload["url"], re.I)
+        if url_price_match:
+            try:
+                url_price = int(url_price_match.group(1))
+                if url_price > 1000:
+                    diff = abs(url_price - price) / max(url_price, price)
+                    if diff > 0.08:
+                        print(
+                            f"[descartado por inconsistência] {payload['url']} "
+                            f"url={url_price} texto={price}"
+                        )
+                        continue
+            except ValueError:
+                pass
 
         item = {
             "id": stable_id(payload["url"]),
