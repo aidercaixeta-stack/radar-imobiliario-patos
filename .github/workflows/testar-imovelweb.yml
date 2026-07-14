@@ -32,10 +32,27 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Executar coleta Imovelweb
+        id: coleta
+        continue-on-error: true
         env:
           IMOVELWEB_MAX_PAGES: "60"
           IMOVELWEB_PAGE_DELAY_SECONDS: "1.5"
         run: python scripts/coletar_imovelweb.py
+
+      - name: Salvar diagnóstico da coleta
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico-imovelweb
+          path: debug/imovelweb/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Interromper se a coleta falhou
+        if: steps.coleta.outcome != 'success'
+        run: |
+          echo "A coleta falhou com segurança. O diagnóstico foi salvo como artefato."
+          exit 2
 
       - name: Classificar, excluir, deduplicar e consolidar
         run: python scripts/processar_base.py
