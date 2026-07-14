@@ -1,5 +1,4 @@
-
-/* Radar v1.4 — resultados como área principal; mapa como complemento */
+/* Radar v1.4+ — resultados como área principal; mapa como complemento */
 
 .content-grid {
   grid-template-columns: minmax(0, 1fr) 360px !important;
@@ -54,6 +53,12 @@
   border-color: #d6e5d9;
 }
 
+.badge.sources {
+  background: #edf2f8;
+  color: #34516f;
+  border-color: #d4dfeb;
+}
+
 .property-details {
   margin: 10px 0 16px;
   border: 1px solid var(--line);
@@ -80,6 +85,91 @@
   margin: 8px 0 0;
 }
 
+.primary-source-action {
+  margin: 12px 0 10px;
+}
+
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 9px 14px;
+  border-radius: 10px;
+  background: var(--navy);
+  color: #fff !important;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.2;
+  transition: transform .16s ease, opacity .16s ease;
+}
+
+.source-link:hover {
+  transform: translateY(-1px);
+  opacity: .92;
+}
+
+.source-link.compact {
+  min-height: 32px;
+  padding: 7px 10px;
+  font-size: 11px;
+}
+
+.offer-single {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.offers-block {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.offers-title {
+  display: grid;
+  gap: 2px;
+  margin-bottom: 9px;
+}
+
+.offers-title span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.offers-list {
+  display: grid;
+  gap: 7px;
+}
+
+.offer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.offer-row > div {
+  display: grid;
+  gap: 2px;
+}
+
+.offer-row span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
 .map-popup {
   min-width: 190px;
   display: grid;
@@ -99,6 +189,10 @@
 .map-popup b {
   color: var(--navy);
   font-size: 16px;
+}
+
+.map-popup .source-link {
+  margin-top: 5px;
 }
 
 .map-popup em {
@@ -162,5 +256,10 @@
   .cards {
     height: auto;
     max-height: 760px;
+  }
+
+  .offer-row {
+    align-items: flex-start;
+    flex-direction: column;
   }
 }

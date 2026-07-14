@@ -1,4 +1,3 @@
-
 (() => {
   state.markerById = new Map();
   state.selectedId = null;
@@ -20,6 +19,107 @@
     );
   }
 
+  function safeUrl(value) {
+    try {
+      const url = new URL(value, window.location.href);
+      if (url.protocol !== "http:" && url.protocol !== "https:") return "";
+      return url.href;
+    } catch {
+      return "";
+    }
+  }
+
+  function sourceOffers(item) {
+    const raw = Array.isArray(item.ofertas) && item.ofertas.length
+      ? item.ofertas
+      : [{
+          fonte: item.fonte,
+          preco: item.preco,
+          url_fonte: item.url_fonte
+        }];
+
+    const seen = new Set();
+    return raw.filter(offer => {
+      const url = safeUrl(offer?.url_fonte);
+      if (!url) return false;
+      const key = `${offer?.fonte || ""}|${url}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      offer._safe_url = url;
+      return true;
+    });
+  }
+
+  function primarySourceButton(item, compact = false) {
+    const offers = sourceOffers(item);
+    if (!offers.length) return "";
+
+    const best = offers[0];
+    const label = item.mercado === "leilao"
+      ? "Ver oferta na fonte ↗"
+      : "Ver anúncio na fonte ↗";
+
+    return `
+      <a
+        class="source-link ${compact ? "compact" : ""}"
+        href="${escapeHtml(best._safe_url)}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="${escapeHtml(label)}"
+      >${escapeHtml(label)}</a>
+    `;
+  }
+
+  function offersHtml(item) {
+    const offers = sourceOffers(item);
+    if (!offers.length) return "";
+
+    if (offers.length === 1) {
+      const offer = offers[0];
+      return `
+        <div class="offer-single">
+          <span><strong>Fonte:</strong> ${escapeHtml(offer.fonte || item.fonte || "Fonte original")}</span>
+          ${primarySourceButton(item)}
+        </div>
+      `;
+    }
+
+    return `
+      <div class="offers-block">
+        <div class="offers-title">
+          <strong>${number(offers.length)} ofertas encontradas</strong>
+          <span>Compare os anúncios diretamente nas fontes.</span>
+        </div>
+        <div class="offers-list">
+          ${offers.map(offer => `
+            <div class="offer-row">
+              <div>
+                <strong>${escapeHtml(offer.fonte || "Fonte original")}</strong>
+                <span>${money(offer.preco || item.preco)}</span>
+              </div>
+              <a
+                class="source-link compact"
+                href="${escapeHtml(offer._safe_url)}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >Abrir oferta ↗</a>
+            </div>
+          `).join("")}
+        </div>
+      </div>
+    `;
+  }
+
+  function duplicateBadge(item) {
+    if (item.duplicado_multifonte) {
+      return `<span class="badge sources">${number(item.quantidade_fontes || 2)} fontes</span>`;
+    }
+    if (item.duplicado_mesma_fonte) {
+      return `<span class="badge sources">${number(item.quantidade_ofertas || 2)} anúncios agrupados</span>`;
+    }
+    return "";
+  }
+
   window.radarLocationLabel = locationLabel;
 
   function detailsHtml(item) {
@@ -32,6 +132,7 @@
           ${item.telefone_anunciante ? `<p><strong>Contato:</strong> ${escapeHtml(item.telefone_anunciante)}</p>` : ""}
           <p><strong>Localização:</strong> ${escapeHtml(locationLabel(item))}</p>
           ${located && item.endereco_extraido ? `<p><strong>Referência:</strong> ${escapeHtml(item.endereco_extraido)}</p>` : ""}
+          ${offersHtml(item)}
         </div>
       </details>
     `;
@@ -50,23 +151,28 @@
 
     html = html.replace(
       `<div class="badges">`,
-      `<div class="badges">${locationBadge}`
+      `<div class="badges">${locationBadge}${duplicateBadge(item)}`
     );
 
     html = html.replace(
       `${historyHtml(item)}`,
-      `${historyHtml(item)}${detailsHtml(item)}`
+      `${historyHtml(item)}
+       <div class="primary-source-action">${primarySourceButton(item)}</div>
+       ${detailsHtml(item)}`
     );
 
     return html;
   };
 
   function findCard(id) {
-    return [...document.querySelectorAll(".card[data-id]")].find(card => card.dataset.id === id) || null;
+    return [...document.querySelectorAll(".card[data-id]")]
+      .find(card => card.dataset.id === id) || null;
   }
 
   function highlightCard(id, scrollToCard = false, openDetails = false) {
-    document.querySelectorAll(".card.selected").forEach(card => card.classList.remove("selected"));
+    document.querySelectorAll(".card.selected")
+      .forEach(card => card.classList.remove("selected"));
+
     const card = findCard(id);
     if (!card) return;
 
@@ -79,7 +185,10 @@
 
     if (scrollToCard) {
       const cards = $("cards");
-      const targetTop = Math.max(0, card.offsetTop - cards.clientHeight / 2 + card.clientHeight / 2);
+      const targetTop = Math.max(
+        0,
+        card.offsetTop - cards.clientHeight / 2 + card.clientHeight / 2
+      );
       cards.scrollTo({ top: targetTop, behavior: "smooth" });
     }
   }
@@ -91,14 +200,23 @@
     const item = state.visible.find(x => x.id === id);
     const marker = state.markerById.get(id);
 
-    if (item && marker && Number.isFinite(item.latitude) && Number.isFinite(item.longitude)) {
+    if (
+      item
+      && marker
+      && Number.isFinite(item.latitude)
+      && Number.isFinite(item.longitude)
+    ) {
       const zoom = item.localizacao_precisao === "alta"
         ? 17
         : item.localizacao_precisao === "rua_aproximada"
           ? 15
           : 14;
 
-      state.map.flyTo([item.latitude, item.longitude], zoom, { duration: 0.55 });
+      state.map.flyTo(
+        [item.latitude, item.longitude],
+        zoom,
+        { duration: 0.55 }
+      );
       marker.openPopup();
     }
   }
@@ -155,7 +273,8 @@
           <span>${escapeHtml(item.bairro)} • ${escapeHtml(item.tipo)}</span>
           <b>${money(item.preco)}</b>
           <small>${escapeHtml(locationLabel(item))}</small>
-          <em>O anúncio correspondente será destacado na lista.</em>
+          ${primarySourceButton(item, true)}
+          <em>Clique no ponto para destacar o imóvel na lista.</em>
         </div>
       `);
 
@@ -167,12 +286,18 @@
 
     const countText = `${number(bounds.length)} pontos`;
     $("mapCount").textContent = countText;
+
     const mirror = $("mapCountMirror");
     if (mirror) mirror.textContent = countText;
 
     if (!state.selectedId) {
       if (bounds.length === 1) state.map.setView(bounds[0], 15);
-      if (bounds.length > 1) state.map.fitBounds(bounds, { padding: [24, 24], maxZoom: 14 });
+      if (bounds.length > 1) {
+        state.map.fitBounds(bounds, {
+          padding: [24, 24],
+          maxZoom: 14
+        });
+      }
     }
   };
 
@@ -193,8 +318,11 @@
 
     $("mapExpandBtn").addEventListener("click", () => {
       state.mapExpanded = !state.mapExpanded;
-      document.querySelector(".content-grid").classList.toggle("map-expanded", state.mapExpanded);
-      $("mapExpandBtn").textContent = state.mapExpanded ? "Reduzir mapa" : "Ver mapa maior";
+      document.querySelector(".content-grid")
+        .classList.toggle("map-expanded", state.mapExpanded);
+      $("mapExpandBtn").textContent = state.mapExpanded
+        ? "Reduzir mapa"
+        : "Ver mapa maior";
 
       setTimeout(() => {
         state.map.invalidateSize();
@@ -205,7 +333,6 @@
 
   addMapControls();
 
-  // Re-renderiza com o comportamento novo, mesmo se a primeira carga já tiver terminado.
   const waitForData = setInterval(() => {
     if (Array.isArray(state.all) && state.all.length) {
       clearInterval(waitForData);
