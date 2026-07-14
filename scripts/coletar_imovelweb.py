@@ -244,66 +244,128 @@ def find_card_text(anchor) -> str:
         return ""
 
 
+def save_diagnostic(page: Page, page_number: int, status: int | None, reason: str) -> None:
+    DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+    try:
+        body_text = clean(page.locator("body").inner_text(timeout=5000))
+    except Exception:
+        body_text = ""
+    try:
+        all_hrefs = page.locator("a").evaluate_all(
+            "(els) => els.map(a => a.href || a.getAttribute('href') || '').filter(Boolean)"
+        )
+    except Exception:
+        all_hrefs = []
+
+    diagnostic = {
+        "capturado_em": now_iso(),
+        "pagina": page_number,
+        "motivo": reason,
+        "status_http": status,
+        "url_final": page.url,
+        "titulo": page.title() if page else "",
+        "quantidade_links": len(all_hrefs),
+        "links_amostra": all_hrefs[:80],
+        "texto_inicial": body_text[:4000],
+    }
+    (DEBUG_DIR / f"diagnostico-pagina-{page_number}.json").write_text(
+        json.dumps(diagnostic, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    try:
+        (DEBUG_DIR / f"pagina-{page_number}.html").write_text(
+            page.content(),
+            encoding="utf-8",
+        )
+    except Exception:
+        pass
+    try:
+        page.screenshot(
+            path=str(DEBUG_DIR / f"pagina-{page_number}.png"),
+            full_page=False,
+        )
+    except Exception:
+        pass
+
+
 def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
     url = BASE_URL if page_number == 1 else PAGE_URL.format(page=page_number)
     print(f"\n[página {page_number}] {url}")
 
-    page.goto(url, wait_until="domcontentloaded", timeout=75_000)
-    page.wait_for_timeout(1400)
+    response = page.goto(url, wait_until="domcontentloaded", timeout=75_000)
+    status = response.status if response else None
+    print(f"[http] status={status} url_final={page.url!r}")
+
+    # Dá tempo para hidratação normal do frontend e rola a página uma vez.
+    page.wait_for_timeout(2200)
+    try:
+        page.mouse.wheel(0, 2200)
+        page.wait_for_timeout(1200)
+        page.evaluate("window.scrollTo(0, 0)")
+    except Exception:
+        pass
 
     try:
-        page.locator('a[href*="/propriedades/"]').first.wait_for(timeout=25_000)
-    except PlaywrightTimeoutError:
-        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
-        page.screenshot(path=str(DEBUG_DIR / f"sem-anuncios-pagina-{page_number}.png"), full_page=False)
-        print("[aviso] nenhum link de anúncio encontrado")
-        return []
+        print(f"[página] título={page.title()!r}")
+        print(f"[página] links totais={page.locator('a').count()}")
+    except Exception:
+        pass
 
-    anchors = page.locator('a[href*="/propriedades/"]')
-    count = anchors.count()
-    print(f"[info] {count} links candidatos encontrados")
+    # Busca ampla por JavaScript, sem depender da forma exata do atributo no DOM.
+    try:
+        hrefs = page.locator("a").evaluate_all(
+            """(els) => els
+                .map(a => a.href || a.getAttribute('href') || '')
+                .filter(Boolean)
+                .filter(h => h.includes('/propriedades/'))"""
+        )
+    except Exception:
+        hrefs = []
 
-    grouped: dict[str, dict[str, Any]] = {}
-
-    for index in range(min(count, 500)):
-        anchor = anchors.nth(index)
+    unique_urls = []
+    seen_urls = set()
+    for href in hrefs:
         try:
-            href = anchor.get_attribute("href")
-            if not href or "/propriedades/" not in href:
-                continue
-            url_fonte = canonical_url(href)
-            anchor_text = clean(anchor.inner_text(timeout=1200))
-            card_text = find_card_text(anchor)
-
-            current = grouped.get(url_fonte)
-            quality = len(anchor_text) + min(len(card_text), 5000)
-            if current and current["quality"] >= quality:
-                continue
-
-            grouped[url_fonte] = {
-                "url": url_fonte,
-                "anchor_text": anchor_text,
-                "card_text": card_text,
-                "quality": quality,
-            }
+            current = canonical_url(href)
         except Exception:
             continue
+        if current not in seen_urls:
+            seen_urls.add(current)
+            unique_urls.append(current)
 
+    print(f"[info] {len(unique_urls)} URLs únicas de anúncios encontradas")
+
+    if not unique_urls:
+        save_diagnostic(page, page_number, status, "nenhum_link_de_anuncio_encontrado")
+        print("[aviso] nenhum link /propriedades/ encontrado; diagnóstico salvo em debug/imovelweb")
+        return []
+
+    # Para cada URL, procura qualquer âncora correspondente e sobe na árvore até o card.
     results: list[dict[str, Any]] = []
     captured_at = now_iso()
 
-    for payload in grouped.values():
-        card_text = payload["card_text"]
+    for url_fonte in unique_urls:
+        path = urllib.parse.urlsplit(url_fonte).path
+        try:
+            anchors = page.locator(f'a[href*="{path}"]')
+            if not anchors.count():
+                continue
+            anchor = anchors.first
+            anchor_text = clean(anchor.inner_text(timeout=1200))
+            card_text = find_card_text(anchor)
+        except Exception:
+            continue
+
         if not card_text or "R$" not in card_text:
             continue
 
         lines = clean_lines(card_text)
-        description = best_description(payload["anchor_text"], lines)
+        description = best_description(anchor_text, lines)
         price = extract_price(card_text)
         if not price or len(description) < 15:
             continue
 
-        tipo, subtipo = infer_type(payload["url"], card_text)
+        tipo, subtipo = infer_type(url_fonte, card_text)
         bairro, endereco = extract_location(lines)
         area = extract_area(card_text)
         quartos = extract_feature(card_text, r"quartos?|dormit[oó]rios?")
@@ -314,7 +376,7 @@ def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
         area_land = area if tipo in {"Lote", "Rural"} else None
 
         item = {
-            "id": stable_id(payload["url"]),
+            "id": stable_id(url_fonte),
             "mercado": "tradicional",
             "titulo": title_from_description(description, tipo, bairro),
             "bairro": bairro,
@@ -327,7 +389,7 @@ def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
             "banheiros": banheiros,
             "vagas": vagas,
             "fonte": "Imovelweb",
-            "url_fonte": payload["url"],
+            "url_fonte": url_fonte,
             "telefone_anunciante": None,
             "descricao": description,
             "confianca": 70,
@@ -347,7 +409,6 @@ def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
             ],
         }
 
-        # Confiança simples pela completude.
         completeness = sum(bool(x) for x in [
             bairro != "Não identificado",
             area,
@@ -359,8 +420,12 @@ def collect_page(page: Page, page_number: int) -> list[dict[str, Any]]:
         results.append(item)
 
     print(f"[resultado página {page_number}] {len(results)} anúncios normalizados")
-    return results
 
+    # Caso tenha links mas nenhum card interpretável, também guarda diagnóstico.
+    if unique_urls and not results:
+        save_diagnostic(page, page_number, status, "links_encontrados_mas_cards_nao_interpretados")
+
+    return results
 
 def load_existing() -> dict[str, dict[str, Any]]:
     try:
