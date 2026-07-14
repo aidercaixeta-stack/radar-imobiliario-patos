@@ -1,0 +1,96 @@
+{
+  "versao": 1,
+  "cidade_alvo": "Patos de Minas",
+  "uf_alvo": "MG",
+  "exclusoes": [
+    {
+      "id": "consorcio_carta_credito",
+      "motivo": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
+      "patterns": [
+        "\\bcarta\\s+de\\s+cr[eé]dito\\s+contemplad[ao]\\b",
+        "\\bcr[eé]dito\\s+contemplad[ao]\\b",
+        "\\bcons[oó]rcio\\s+contemplad[ao]\\b",
+        "\\bcota\\s+contemplad[ao]\\b",
+        "\\bvendo\\s+(?:uma\\s+)?carta\\s+de\\s+cr[eé]dito\\b",
+        "\\bvenda\\s+de\\s+(?:uma\\s+)?carta\\s+de\\s+cr[eé]dito\\b",
+        "\\btransfer[eê]ncia\\s+de\\s+cota\\s+de\\s+cons[oó]rcio\\b",
+        "\\b[aá]gio\\s+(?:de|na)\\s+(?:carta|cota)\\b"
+      ]
+    },
+    {
+      "id": "aluguel_locacao",
+      "motivo": "Anúncio de aluguel ou locação",
+      "patterns": [
+        "\\baluga[- ]?se\\b",
+        "\\bpara\\s+alugar\\b",
+        "\\bim[oó]vel\\s+para\\s+loca[cç][aã]o\\b",
+        "\\bloc[aá]vel\\b",
+        "\\bvalor\\s+do\\s+aluguel\\b",
+        "\\baluguel\\s+mensal\\b"
+      ]
+    },
+    {
+      "id": "servico_financeiro",
+      "motivo": "Serviço financeiro ou oferta de crédito",
+      "patterns": [
+        "\\bconsultoria\\s+de\\s+cr[eé]dito\\b",
+        "\\bfinanciamento\\s+sem\\s+entrada\\b",
+        "\\bempr[eé]stimo\\s+com\\s+garantia\\b",
+        "\\bcr[eé]dito\\s+imobili[aá]rio\\s+aprovado\\b",
+        "\\bfa[cç]a\\s+sua\\s+simula[cç][aã]o\\s+de\\s+financiamento\\b"
+      ]
+    },
+    {
+      "id": "conteudo_nao_imobiliario",
+      "motivo": "Conteúdo não imobiliário",
+      "patterns": [
+        "\\bvende[- ]?se\\s+jazigo\\b",
+        "\\bvende[- ]?se\\s+sepultura\\b",
+        "\\bcota\\s+de\\s+clube\\b"
+      ]
+    }
+  ],
+  "nao_comparaveis": [
+    {
+      "id": "fracao_ideal",
+      "categoria": "fracao_ideal",
+      "patterns": [
+        "\\bfra[cç][aã]o\\s+ideal\\b",
+        "\\bparte\\s+ideal\\b"
+      ]
+    },
+    {
+      "id": "direitos",
+      "categoria": "direitos",
+      "patterns": [
+        "\\bcess[aã]o\\s+de\\s+direitos\\b",
+        "\\bdireitos\\s+possess[oó]rios\\b",
+        "\\bdireitos\\s+aquisitivos\\b"
+      ]
+    },
+    {
+      "id": "vaga_isolada",
+      "categoria": "vaga_garagem_isolada",
+      "patterns": [
+        "\\bvaga\\s+de\\s+garagem\\s+(?:avulsa|isolada|individual)\\b",
+        "\\bvende[- ]?se\\s+(?:uma\\s+)?vaga\\s+de\\s+garagem\\b"
+      ]
+    }
+  ],
+  "leilao": {
+    "patterns": [
+      "\\bleil[aã]o\\b",
+      "\\bhasta\\s+p[uú]blica\\b",
+      "\\baliena[cç][aã]o\\s+fiduci[aá]ria\\b",
+      "\\b1[ºo]\\s+leil[aã]o\\b",
+      "\\b2[ºo]\\s+leil[aã]o\\b",
+      "\\bvalor\\s+de\\s+avalia[cç][aã]o\\b.*\\bvalor\\s+de\\s+venda\\b"
+    ]
+  },
+  "deduplicacao": {
+    "descricao_similaridade_minima": 0.86,
+    "distancia_metros_maxima": 40,
+    "diferenca_preco_maxima": 0.07,
+    "diferenca_area_maxima": 0.12
+  }
+}
