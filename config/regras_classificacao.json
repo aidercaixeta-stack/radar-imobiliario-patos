@@ -1,5 +1,5 @@
 {
-  "versao": 1,
+  "versao": 2,
   "cidade_alvo": "Patos de Minas",
   "uf_alvo": "MG",
   "exclusoes": [
@@ -8,13 +8,16 @@
       "motivo": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
       "patterns": [
         "\\bcarta\\s+de\\s+cr[eé]dito\\s+contemplad[ao]\\b",
-        "\\bcr[eé]dito\\s+contemplad[ao]\\b",
+        "\\bcarta\\s+contemplad[ao]\\b",
+        "\\bcr[eé]dito\\s+(?:j[aá]\\s+)?contemplad[ao]\\b",
         "\\bcons[oó]rcio\\s+contemplad[ao]\\b",
         "\\bcota\\s+contemplad[ao]\\b",
-        "\\bvendo\\s+(?:uma\\s+)?carta\\s+de\\s+cr[eé]dito\\b",
-        "\\bvenda\\s+de\\s+(?:uma\\s+)?carta\\s+de\\s+cr[eé]dito\\b",
+        "\\bvend(?:o|e[- ]?se|em[- ]?se)\\s+(?:uma\\s+)?cartas?\\s+de\\s+cr[eé]dito\\b",
+        "\\bvend(?:o|e[- ]?se|em[- ]?se)\\s+(?:uma\\s+)?cartas?\\s+contemplad[ao]s?\\b",
+        "\\bvenda\\s+de\\s+(?:uma\\s+)?cartas?\\s+de\\s+cr[eé]dito\\b",
         "\\btransfer[eê]ncia\\s+de\\s+cota\\s+de\\s+cons[oó]rcio\\b",
-        "\\b[aá]gio\\s+(?:de|na)\\s+(?:carta|cota)\\b"
+        "\\b[aá]gio\\s+(?:de|na)\\s+(?:carta|cota)\\b",
+        "\\bvalor\\s+(?:do\\s+)?cr[eé]dito\\b.*\\bparcelas?\\b"
       ]
     },
     {
