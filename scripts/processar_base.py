@@ -6,10 +6,9 @@ Fluxo:
 2. lê todos os arquivos data/fontes/*.json;
 3. classifica e exclui conteúdo irrelevante;
 4. separa mercado tradicional, leilão e itens não comparáveis;
-5. deduplica anúncios com regras conservadoras;
-6. grava data/imoveis.json, data/excluidos.json e data/meta.json.
-
-O objetivo é manter os coletores independentes da base consolidada.
+5. deduplica anúncios dentro da mesma fonte e entre fontes;
+6. preserva todas as ofertas/URLs originais no imóvel consolidado;
+7. grava data/imoveis.json, data/excluidos.json e data/meta.json.
 """
 from __future__ import annotations
 
@@ -61,7 +60,11 @@ def text_blob(item: dict[str, Any]) -> str:
 
 def fold(text: str | None) -> str:
     raw = unicodedata.normalize("NFKD", (text or "").lower())
-    return re.sub(r"\s+", " ", "".join(ch for ch in raw if not unicodedata.combining(ch))).strip()
+    return re.sub(
+        r"\s+",
+        " ",
+        "".join(ch for ch in raw if not unicodedata.combining(ch)),
+    ).strip()
 
 
 def normalized_phone(item: dict[str, Any]) -> str:
@@ -69,8 +72,7 @@ def normalized_phone(item: dict[str, Any]) -> str:
 
 
 def normalized_address(item: dict[str, Any]) -> str:
-    value = item.get("endereco_extraido") or ""
-    value = fold(value)
+    value = fold(item.get("endereco_extraido") or "")
     value = re.sub(r"\b(rua|r|avenida|av|travessa|tv|praca|pca)\b", " ", value)
     return re.sub(r"[^a-z0-9]+", " ", value).strip()
 
@@ -79,7 +81,13 @@ def normalized_description(item: dict[str, Any]) -> str:
     value = fold(item.get("descricao") or item.get("titulo") or "")
     value = re.sub(r"\b\d{2}\s*9?\d{4}[- ]?\d{4}\b", " ", value)
     value = re.sub(r"\br\$\s*[\d\.,]+\b", " ", value)
-    return re.sub(r"[^a-z0-9 ]+", " ", value).strip()[:900]
+    return re.sub(r"[^a-z0-9 ]+", " ", value).strip()[:1200]
+
+
+def normalized_title(item: dict[str, Any]) -> str:
+    value = fold(item.get("titulo") or "")
+    value = re.sub(r"\br\$\s*[\d\.,]+\b", " ", value)
+    return re.sub(r"[^a-z0-9 ]+", " ", value).strip()[:500]
 
 
 def compile_patterns(patterns: list[str]) -> list[re.Pattern[str]]:
@@ -90,19 +98,14 @@ def matches_any(text: str, patterns: list[str]) -> bool:
     return any(rx.search(text) for rx in compile_patterns(patterns))
 
 
-def classify(item: dict[str, Any], rules: dict[str, Any]) -> tuple[str, str | None, str | None]:
-    """Retorna (destino, codigo, motivo/categoria).
-
-    destino:
-      - incluir
-      - excluir
-      - nao_comparavel
-    """
+def classify(
+    item: dict[str, Any],
+    rules: dict[str, Any],
+) -> tuple[str, str | None, str | None]:
     text = text_blob(item)
 
-    price = item.get("preco")
     try:
-        valid_price = float(price) > 1000
+        valid_price = float(item.get("preco")) > 1000
     except (TypeError, ValueError):
         valid_price = False
 
@@ -112,8 +115,6 @@ def classify(item: dict[str, Any], rules: dict[str, Any]) -> tuple[str, str | No
     if len(fold(item.get("descricao") or item.get("titulo") or "")) < 12:
         return "excluir", "dados_invalidos", "Anúncio sem descrição suficiente"
 
-    # Exclusões primeiro. Os padrões de consórcio são deliberadamente fortes para
-    # não excluir imóveis que apenas dizem "aceita carta de crédito".
     for rule in rules.get("exclusoes", []):
         if matches_any(text, rule.get("patterns", [])):
             return "excluir", rule.get("id"), rule.get("motivo")
@@ -140,7 +141,10 @@ def completeness_score(item: dict[str, Any]) -> int:
         "area_construida", "area_terreno", "quartos", "vagas",
         "telefone_anunciante", "latitude", "longitude", "endereco_extraido",
     ]
-    return sum(1 for field in fields if item.get(field) not in (None, "", "Não identificado"))
+    return sum(
+        1 for field in fields
+        if item.get(field) not in (None, "", "Não identificado")
+    )
 
 
 def relative_difference(a: Any, b: Any) -> float:
@@ -161,7 +165,10 @@ def item_area(item: dict[str, Any]) -> float | None:
         return None
 
 
-def haversine_meters(a: dict[str, Any], b: dict[str, Any]) -> float | None:
+def haversine_meters(
+    a: dict[str, Any],
+    b: dict[str, Any],
+) -> float | None:
     try:
         lat1, lon1 = float(a["latitude"]), float(a["longitude"])
         lat2, lon2 = float(b["latitude"]), float(b["longitude"])
@@ -172,107 +179,165 @@ def haversine_meters(a: dict[str, Any], b: dict[str, Any]) -> float | None:
     p1, p2 = math.radians(lat1), math.radians(lat2)
     dp = math.radians(lat2 - lat1)
     dl = math.radians(lon2 - lon1)
-    value = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    value = (
+        math.sin(dp / 2) ** 2
+        + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    )
     return 2 * radius * math.atan2(math.sqrt(value), math.sqrt(1 - value))
 
 
-def similar_description(a: dict[str, Any], b: dict[str, Any]) -> float:
-    da = normalized_description(a)
-    db = normalized_description(b)
-    if len(da) < 30 or len(db) < 30:
+def text_similarity(a: str, b: str) -> float:
+    if len(a) < 20 or len(b) < 20:
         return 0.0
-    return difflib.SequenceMatcher(None, da, db).ratio()
+    return difflib.SequenceMatcher(None, a, b).ratio()
 
 
-def same_property(a: dict[str, Any], b: dict[str, Any], settings: dict[str, Any]) -> tuple[bool, int, str]:
-    """Deduplicação conservadora entre fontes.
+def similar_description(a: dict[str, Any], b: dict[str, Any]) -> float:
+    return text_similarity(
+        normalized_description(a),
+        normalized_description(b),
+    )
 
-    Retorna (é_mesmo_imovel, confiança, motivo).
-    """
-    if source_name(a, "") == source_name(b, ""):
-        return False, 0, "mesma_fonte"
+
+def same_property(
+    a: dict[str, Any],
+    b: dict[str, Any],
+    settings: dict[str, Any],
+) -> tuple[bool, int, str]:
+    """Deduplicação conservadora dentro da mesma fonte e entre fontes."""
+
+    if (a.get("mercado") or "tradicional") != (b.get("mercado") or "tradicional"):
+        return False, 0, "mercado_diferente"
 
     if fold(str(a.get("tipo"))) != fold(str(b.get("tipo"))):
         return False, 0, "tipo_diferente"
+
+    same_source = source_name(a, "") == source_name(b, "")
 
     max_price = float(settings.get("diferenca_preco_maxima", 0.07))
     max_area = float(settings.get("diferenca_area_maxima", 0.12))
     max_distance = float(settings.get("distancia_metros_maxima", 40))
     min_desc = float(settings.get("descricao_similaridade_minima", 0.86))
 
-    price_ok = relative_difference(a.get("preco"), b.get("preco")) <= max_price
+    price_diff = relative_difference(a.get("preco"), b.get("preco"))
+    price_ok = price_diff <= max_price
+
     area_a, area_b = item_area(a), item_area(b)
-    area_ok = bool(area_a and area_b and relative_difference(area_a, area_b) <= max_area)
+    area_diff = relative_difference(area_a, area_b) if area_a and area_b else 1.0
+    area_ok = bool(area_a and area_b and area_diff <= max_area)
 
     phone_a, phone_b = normalized_phone(a), normalized_phone(b)
     desc_similarity = similar_description(a, b)
+    title_similarity = text_similarity(normalized_title(a), normalized_title(b))
 
-    # Mesmo telefone + descrição muito semelhante.
+    addr_a, addr_b = normalized_address(a), normalized_address(b)
+    same_address = bool(len(addr_a) >= 8 and addr_a == addr_b)
+
+    distance = haversine_meters(a, b)
+
+    if same_source:
+        # Dentro da própria fonte, exigimos sinais ainda mais fortes para evitar
+        # apagar imóveis distintos que por acaso tenham características parecidas.
+
+        # Mesmo texto praticamente idêntico + mesmo preço.
+        if desc_similarity >= 0.96 and price_diff <= 0.02:
+            return True, 99, "mesma_fonte_descricao_preco"
+
+        # Título praticamente idêntico + preço + área compatíveis.
+        if title_similarity >= 0.97 and price_diff <= 0.02 and area_ok:
+            return True, 98, "mesma_fonte_titulo_preco_area"
+
+        # Endereço idêntico + preço e área muito próximos.
+        if same_address and price_diff <= 0.02 and area_ok:
+            return True, 98, "mesma_fonte_endereco_preco_area"
+
+        # Mesmo telefone + descrição muito semelhante.
+        if phone_a and phone_a == phone_b and desc_similarity >= 0.94 and price_diff <= 0.03:
+            return True, 97, "mesma_fonte_telefone_descricao"
+
+        return False, 0, "mesma_fonte_sem_evidencia_forte"
+
+    # Regras entre fontes diferentes.
     if phone_a and phone_a == phone_b and desc_similarity >= min_desc:
         return True, 98, "telefone_e_descricao"
 
-    # Mesmo endereço textual forte + preço coerente.
-    addr_a, addr_b = normalized_address(a), normalized_address(b)
-    if len(addr_a) >= 8 and addr_a == addr_b and price_ok:
+    if same_address and price_ok:
         return True, 96 if area_ok else 92, "endereco_e_preco"
 
-    # Coordenadas muito próximas + características coerentes.
-    distance = haversine_meters(a, b)
     if distance is not None and distance <= max_distance and price_ok and area_ok:
         return True, 94, "localizacao_preco_area"
 
-    # Mesmo telefone, área e preço muito próximos, ainda que a descrição varie.
     if phone_a and phone_a == phone_b and price_ok and area_ok:
         return True, 90, "telefone_preco_area"
 
     return False, 0, "sem_evidencia_forte"
 
 
-def merge_records(group: list[dict[str, Any]]) -> dict[str, Any]:
-    if len(group) == 1:
-        item = copy.deepcopy(group[0])
-        item["fontes_encontradas"] = [source_name(item, "Fonte desconhecida")]
-        item["ofertas"] = [{
-            "fonte": source_name(item, "Fonte desconhecida"),
-            "preco": item.get("preco"),
-            "url_fonte": item.get("url_fonte"),
-            "id_origem": item.get("id"),
-        }]
-        item["duplicado_multifonte"] = False
-        return item
+def offer_from_item(item: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "fonte": source_name(item, "Fonte desconhecida"),
+        "preco": item.get("preco"),
+        "url_fonte": item.get("url_fonte"),
+        "id_origem": item.get("id"),
+    }
 
-    # Usa o registro mais completo como base, mas exibe o menor preço encontrado.
+
+def unique_offers(group: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    offers = []
+    seen = set()
+    for item in group:
+        offer = offer_from_item(item)
+        key = (
+            offer.get("fonte"),
+            offer.get("url_fonte") or offer.get("id_origem"),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        offers.append(offer)
+    return sorted(offers, key=lambda x: x.get("preco") or 10**30)
+
+
+def merge_records(group: list[dict[str, Any]]) -> dict[str, Any]:
     base = max(group, key=completeness_score)
     result = copy.deepcopy(base)
-    offers = []
-    sources = []
-    for item in group:
-        src = source_name(item, "Fonte desconhecida")
-        if src not in sources:
-            sources.append(src)
-        offers.append({
-            "fonte": src,
-            "preco": item.get("preco"),
-            "url_fonte": item.get("url_fonte"),
-            "id_origem": item.get("id"),
-        })
 
-    priced = [item for item in group if isinstance(item.get("preco"), (int, float))]
+    offers = unique_offers(group)
+    sources = []
+    for offer in offers:
+        if offer["fonte"] not in sources:
+            sources.append(offer["fonte"])
+
+    priced = [
+        item for item in group
+        if isinstance(item.get("preco"), (int, float))
+    ]
     if priced:
         cheapest = min(priced, key=lambda item: item["preco"])
         result["preco"] = cheapest["preco"]
-        result["fonte"] = source_name(cheapest, source_name(result, ""))
+        result["fonte"] = source_name(
+            cheapest,
+            source_name(result, "Fonte desconhecida"),
+        )
         result["url_fonte"] = cheapest.get("url_fonte")
 
     result["fontes_encontradas"] = sources
-    result["ofertas"] = sorted(offers, key=lambda x: x.get("preco") or 10**30)
-    result["duplicado_multifonte"] = True
+    result["ofertas"] = offers
+    result["quantidade_ofertas"] = len(offers)
     result["quantidade_fontes"] = len(sources)
+    result["duplicado"] = len(group) > 1
+    result["duplicado_multifonte"] = len(sources) > 1
+    result["duplicado_mesma_fonte"] = len(group) > 1 and len(sources) == 1
+    result["quantidade_anuncios_agrupados"] = len(group)
+
     return result
 
 
-def deduplicate(items: list[dict[str, Any]], settings: dict[str, Any]) -> tuple[list[dict[str, Any]], int]:
-    # Primeiro remove IDs exatamente repetidos.
+def deduplicate(
+    items: list[dict[str, Any]],
+    settings: dict[str, Any],
+) -> tuple[list[dict[str, Any]], dict[str, int]]:
+    # Remove IDs exatamente repetidos.
     by_id: dict[str, dict[str, Any]] = {}
     no_id = []
     for item in items:
@@ -286,30 +351,64 @@ def deduplicate(items: list[dict[str, Any]], settings: dict[str, Any]) -> tuple[
     pool = list(by_id.values()) + no_id
     used = set()
     groups: list[list[dict[str, Any]]] = []
-    duplicate_groups = 0
+
+    stats = {
+        "total_grupos": 0,
+        "mesma_fonte": 0,
+        "multifonte": 0,
+        "anuncios_agrupados": 0,
+    }
 
     for i, item in enumerate(pool):
         if i in used:
             continue
+
         group = [item]
         used.add(i)
 
-        for j in range(i + 1, len(pool)):
-            if j in used:
-                continue
-            match, confidence, reason = same_property(item, pool[j], settings)
-            if match:
-                candidate = copy.deepcopy(pool[j])
-                candidate["_dedupe_confidence"] = confidence
-                candidate["_dedupe_reason"] = reason
-                group.append(candidate)
-                used.add(j)
+        # Faz expansão do grupo para capturar relações transitivas conservadoras.
+        changed = True
+        while changed:
+            changed = False
+            for j, candidate in enumerate(pool):
+                if j in used:
+                    continue
+
+                matched = False
+                best_confidence = 0
+                best_reason = ""
+
+                for member in group:
+                    match, confidence, reason = same_property(
+                        member,
+                        candidate,
+                        settings,
+                    )
+                    if match and confidence > best_confidence:
+                        matched = True
+                        best_confidence = confidence
+                        best_reason = reason
+
+                if matched:
+                    current = copy.deepcopy(candidate)
+                    current["_dedupe_confidence"] = best_confidence
+                    current["_dedupe_reason"] = best_reason
+                    group.append(current)
+                    used.add(j)
+                    changed = True
 
         if len(group) > 1:
-            duplicate_groups += 1
+            sources = {source_name(x, "") for x in group}
+            stats["total_grupos"] += 1
+            stats["anuncios_agrupados"] += len(group)
+            if len(sources) > 1:
+                stats["multifonte"] += 1
+            else:
+                stats["mesma_fonte"] += 1
+
         groups.append(group)
 
-    return [merge_records(group) for group in groups], duplicate_groups
+    return [merge_records(group) for group in groups], stats
 
 
 def main() -> int:
@@ -317,7 +416,10 @@ def main() -> int:
     parser.add_argument(
         "--ingest-current-as",
         metavar="NOME",
-        help="Salva o data/imoveis.json atual como data/fontes/NOME.json antes de consolidar.",
+        help=(
+            "Salva o data/imoveis.json atual como data/fontes/NOME.json "
+            "antes de consolidar."
+        ),
     )
     args = parser.parse_args()
 
@@ -331,7 +433,9 @@ def main() -> int:
     if args.ingest_current_as:
         current = load_json(FINAL_FILE, [])
         if not isinstance(current, list) or not current:
-            raise SystemExit("A base recém-coletada está vazia; consolidação cancelada.")
+            raise SystemExit(
+                "A base recém-coletada está vazia; consolidação cancelada."
+            )
         source_path = SOURCES_DIR / f"{args.ingest_current_as}.json"
         save_json(source_path, current)
         print(f"[ingestão] {len(current)} registros salvos em {source_path}")
@@ -343,9 +447,15 @@ def main() -> int:
     included: list[dict[str, Any]] = []
     excluded: list[dict[str, Any]] = []
     non_comparable: list[dict[str, Any]] = []
-    source_stats: dict[str, dict[str, int]] = defaultdict(lambda: {
-        "capturados": 0, "incluidos": 0, "excluidos": 0, "nao_comparaveis": 0
-    })
+
+    source_stats: dict[str, dict[str, int]] = defaultdict(
+        lambda: {
+            "capturados": 0,
+            "incluidos": 0,
+            "excluidos": 0,
+            "nao_comparaveis": 0,
+        }
+    )
     exclusion_reasons: Counter[str] = Counter()
 
     for path in source_files:
@@ -360,6 +470,7 @@ def main() -> int:
         for raw in records:
             if not isinstance(raw, dict):
                 continue
+
             item = copy.deepcopy(raw)
             src = source_name(item, fallback_source)
             source_stats[src]["capturados"] += 1
@@ -386,9 +497,8 @@ def main() -> int:
             included.append(item)
             source_stats[src]["incluidos"] += 1
 
-    # Itens não comparáveis ficam preservados na base, mas não entram na aba tradicional.
     candidates = included + non_comparable
-    consolidated, duplicate_groups = deduplicate(
+    consolidated, dedupe_stats = deduplicate(
         candidates,
         rules.get("deduplicacao", {}),
     )
@@ -405,16 +515,25 @@ def main() -> int:
     save_json(FINAL_FILE, consolidated)
     save_json(EXCLUDED_FILE, excluded)
 
-    precision_counter = Counter(item.get("localizacao_precisao") or "nao_localizado" for item in consolidated)
-    market_counter = Counter(item.get("mercado") or "tradicional" for item in consolidated)
+    precision_counter = Counter(
+        item.get("localizacao_precisao") or "nao_localizado"
+        for item in consolidated
+    )
+    market_counter = Counter(
+        item.get("mercado") or "tradicional"
+        for item in consolidated
+    )
 
     meta = {
         "updated_at": datetime.now(TZ_BR).isoformat(),
         "status": "base_multifuente_processada",
         "records": len(consolidated),
-        "captured_before_filters": sum(v["capturados"] for v in source_stats.values()),
+        "captured_before_filters": sum(
+            v["capturados"] for v in source_stats.values()
+        ),
         "excluded_records": len(excluded),
-        "duplicate_groups": duplicate_groups,
+        "duplicate_groups": dedupe_stats["total_grupos"],
+        "deduplication": dedupe_stats,
         "markets": {
             "tradicional": market_counter.get("tradicional", 0),
             "leilao": market_counter.get("leilao", 0),
@@ -422,14 +541,17 @@ def main() -> int:
         },
         "mapped_records": sum(
             1 for item in consolidated
-            if item.get("latitude") is not None and item.get("longitude") is not None
+            if item.get("latitude") is not None
+            and item.get("longitude") is not None
         ),
         "location_precision": dict(precision_counter),
         "sources": dict(source_stats),
         "exclusion_reasons": dict(exclusion_reasons),
         "note": (
-            "Base processada por pipeline multifuente. Conteúdo irrelevante é separado em "
-            "data/excluidos.json; itens não comparáveis são preservados fora do mercado tradicional."
+            "Base processada por pipeline multifuente. Conteúdo irrelevante é "
+            "separado em data/excluidos.json; itens não comparáveis ficam fora "
+            "do mercado tradicional; duplicidades são agrupadas preservando "
+            "todas as ofertas e links originais."
         ),
     }
     save_json(META_FILE, meta)
@@ -438,7 +560,13 @@ def main() -> int:
     print(f"  Capturados: {meta['captured_before_filters']}")
     print(f"  Excluídos: {len(excluded)}")
     print(f"  Base final: {len(consolidated)}")
-    print(f"  Grupos de duplicidade multifuente: {duplicate_groups}")
+    print(
+        "  Duplicidades: "
+        f"{dedupe_stats['total_grupos']} grupos "
+        f"({dedupe_stats['mesma_fonte']} mesma fonte; "
+        f"{dedupe_stats['multifonte']} multifonte)"
+    )
+
     if exclusion_reasons:
         print("  Motivos de exclusão:")
         for reason, count in exclusion_reasons.most_common():
