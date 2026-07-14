@@ -1,1 +1,113 @@
-[]
+[
+  {
+    "id": "timtim-1863c3b3f8967bfa",
+    "mercado": "tradicional",
+    "titulo": "OPORTUNIDADE",
+    "bairro": "Não identificado",
+    "tipo": "Casa",
+    "preco": 260000,
+    "area_construida": null,
+    "area_terreno": null,
+    "quartos": null,
+    "vagas": null,
+    "fonte": "Classificados TIMTIM",
+    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
+    "telefone_anunciante": "34996737014",
+    "descricao": "OPORTUNIDADE! VENDE-SE CARTA CONTEMPLADA. CRÉDITO: R$260.000,00 ENTRADA MAIS PARCELAS DE R$1.505,10. OPÇÃO DE COMPRA IMÓVEL NOVO, USADO OU CONSTRUÇÃO. TR.: (34) 99673-7014 (WHATSAPP).",
+    "confianca": 64,
+    "nota_oportunidade": 50,
+    "novo": false,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-03T00:00:00-03:00",
+    "ultima_captura": "2026-07-14T11:44:05.278912-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "endereco_extraido": null,
+    "geocoding_query": null,
+    "geocoding_display_name": null,
+    "historico_precos": [
+      {
+        "data": "2026-07-14",
+        "preco": 260000
+      }
+    ],
+    "classificacao_processada_em": "2026-07-14T11:46:07.775038-03:00",
+    "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
+    "codigo_exclusao": "consorcio_carta_credito"
+  },
+  {
+    "id": "timtim-1ffe3b5e00e9d42c",
+    "mercado": "tradicional",
+    "titulo": "OPORTUNIDADE",
+    "bairro": "Não identificado",
+    "tipo": "Casa",
+    "preco": 190000,
+    "area_construida": null,
+    "area_terreno": null,
+    "quartos": null,
+    "vagas": null,
+    "fonte": "Classificados TIMTIM",
+    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
+    "telefone_anunciante": "34996737014",
+    "descricao": "OPORTUNIDADE! VENDE-SE CARTA CONTEMPLADA. CRÉDITO: R$190.000,00 ENTRADA MAIS PARCELAS DE R$1.120,00. OPÇÃO DE COMPRA IMÓVEL NOVO, USADO OU CONSTRUÇÃO. TR.: (34) 99673-7014 (WHATSAPP).",
+    "confianca": 64,
+    "nota_oportunidade": 50,
+    "novo": false,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-03T00:00:00-03:00",
+    "ultima_captura": "2026-07-14T11:44:06.316659-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "endereco_extraido": null,
+    "geocoding_query": null,
+    "geocoding_display_name": null,
+    "historico_precos": [
+      {
+        "data": "2026-07-14",
+        "preco": 190000
+      }
+    ],
+    "classificacao_processada_em": "2026-07-14T11:46:07.779008-03:00",
+    "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
+    "codigo_exclusao": "consorcio_carta_credito"
+  },
+  {
+    "id": "timtim-b4f02f3320cbf049",
+    "mercado": "tradicional",
+    "titulo": "CARTA DE CRÉDITO, COMPRA CASA, APARTAMENTO, LOTE E CONSTRUÇÃO",
+    "bairro": "Não identificado",
+    "tipo": "Casa",
+    "preco": 180000,
+    "area_construida": null,
+    "area_terreno": null,
+    "quartos": null,
+    "vagas": null,
+    "fonte": "Classificados TIMTIM",
+    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
+    "telefone_anunciante": "34996379555",
+    "descricao": "VENDE-SE CARTA DE CRÉDITO, COMPRA CASA, APARTAMENTO, LOTE E CONSTRUÇÃO. VALOR CRÉDITO: R$180.000,00; PARCELA: R$765,00. VALOR CRÉDITO: R$220.000,00; PARCELA: R$938,00. VALOR CRÉDITO: R$300.000,00; PARCELA: R$1.276,00. VALOR CRÉDITO: R$350.000,00; PARCELA: R$1.489,00. VALOR CRÉDITO: R$400.000,00; PARCELA: R$1.703,00. PLANO MAIS POR MENOS PARCELA REDUZIDA, SEM JUROS, SEM SCORE - COMPRA IMÓVEL NOVO OU USADO, CREDITO JÁ CONTEMPLADO BANCO BRASIL - ITAÚ - C.EF - GROSCOM - ANCORA - PORTO SEGURO. TRATAR WHATSAPP (34) 99637-9555 (SÉRGIO COM 41 ANOS EXPERIÊNCIA SISTEMA FINANCEIRO BANKINVEST).",
+    "confianca": 64,
+    "nota_oportunidade": 50,
+    "novo": false,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-07T00:00:00-03:00",
+    "ultima_captura": "2026-07-14T11:44:26.085292-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "endereco_extraido": null,
+    "geocoding_query": null,
+    "geocoding_display_name": null,
+    "historico_precos": [
+      {
+        "data": "2026-07-14",
+        "preco": 180000
+      }
+    ],
+    "classificacao_processada_em": "2026-07-14T11:46:07.780185-03:00",
+    "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
+    "codigo_exclusao": "consorcio_carta_credito"
+  }
+]

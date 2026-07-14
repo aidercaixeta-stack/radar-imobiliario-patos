@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-14T11:34:35.062393-03:00",
+  "updated_at": "2026-07-14T11:46:07.790597-03:00",
   "status": "base_multifuente_processada",
-  "records": 76,
+  "records": 73,
   "captured_before_filters": 76,
-  "excluded_records": 0,
+  "excluded_records": 3,
   "duplicate_groups": 0,
   "markets": {
-    "tradicional": 76,
+    "tradicional": 73,
     "leilao": 0,
     "nao_comparavel": 0
   },
   "mapped_records": 48,
   "location_precision": {
-    "nao_localizado": 28,
+    "nao_localizado": 25,
     "bairro_aproximada": 35,
     "rua_aproximada": 11,
     "alta": 2
@@ -20,11 +20,13 @@
   "sources": {
     "Classificados TIMTIM": {
       "capturados": 76,
-      "incluidos": 76,
-      "excluidos": 0,
+      "incluidos": 73,
+      "excluidos": 3,
       "nao_comparaveis": 0
     }
   },
-  "exclusion_reasons": {},
+  "exclusion_reasons": {
+    "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado": 3
+  },
   "note": "Base processada por pipeline multifuente. Conteúdo irrelevante é separado em data/excluidos.json; itens não comparáveis são preservados fora do mercado tradicional."
 }

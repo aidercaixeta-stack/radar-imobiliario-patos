@@ -19,7 +19,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:09.556172-03:00",
+    "ultima_captura": "2026-07-14T11:45:42.164876-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -32,7 +32,7 @@
         "preco": 1650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.030816-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.757095-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -67,7 +67,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:10.234349-03:00",
+    "ultima_captura": "2026-07-14T11:44:41.749332-03:00",
     "latitude": -18.586210065958184,
     "longitude": -46.52232900577488,
     "localizacao_precisao": "bairro_aproximada",
@@ -80,7 +80,7 @@
         "preco": 1300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031109-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.757437-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -115,7 +115,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:02.666900-03:00",
+    "ultima_captura": "2026-07-14T11:43:33.477702-03:00",
     "latitude": -18.60762777458485,
     "longitude": -46.51979132628121,
     "localizacao_precisao": "bairro_aproximada",
@@ -128,7 +128,7 @@
         "preco": 1100000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031443-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.757801-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -163,7 +163,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:25.387502-03:00",
+    "ultima_captura": "2026-07-14T11:43:56.262460-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -176,7 +176,7 @@
         "preco": 950000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031784-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.758180-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -211,7 +211,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:52.957389-03:00",
+    "ultima_captura": "2026-07-14T11:44:24.158056-03:00",
     "latitude": -18.583453076411647,
     "longitude": -46.532294334901096,
     "localizacao_precisao": "bairro_aproximada",
@@ -224,7 +224,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.032098-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.758531-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -259,7 +259,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:21.058480-03:00",
+    "ultima_captura": "2026-07-14T11:45:54.012877-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -272,7 +272,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.032835-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.759324-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -307,7 +307,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:25.504743-03:00",
+    "ultima_captura": "2026-07-14T11:45:58.537807-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -320,7 +320,7 @@
         "preco": 850000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033159-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.759696-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -355,7 +355,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:03.357624-03:00",
+    "ultima_captura": "2026-07-14T11:45:35.756909-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -368,7 +368,7 @@
         "preco": 760000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033386-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.759933-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -403,7 +403,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:01.713120-03:00",
+    "ultima_captura": "2026-07-14T11:43:32.468229-03:00",
     "latitude": -18.61788351651246,
     "longitude": -46.5000582,
     "localizacao_precisao": "bairro_aproximada",
@@ -416,7 +416,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033758-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.760344-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -451,7 +451,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:11.305931-03:00",
+    "ultima_captura": "2026-07-14T11:43:42.486010-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -464,7 +464,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033969-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.760570-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -499,7 +499,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:58.690688-03:00",
+    "ultima_captura": "2026-07-14T11:44:29.937172-03:00",
     "latitude": -18.582254685163512,
     "longitude": -46.49838826334058,
     "localizacao_precisao": "bairro_aproximada",
@@ -512,7 +512,7 @@
         "preco": 750000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.034363-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.761019-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -547,7 +547,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:31:56.866160-03:00",
+    "ultima_captura": "2026-07-14T11:43:27.518762-03:00",
     "latitude": -18.5830771123947,
     "longitude": -46.49919356590507,
     "localizacao_precisao": "bairro_aproximada",
@@ -560,7 +560,7 @@
         "preco": 700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.034793-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.761491-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -595,7 +595,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:36.252231-03:00",
+    "ultima_captura": "2026-07-14T11:44:07.333236-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -608,7 +608,7 @@
         "preco": 700000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035086-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.761826-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -643,7 +643,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:03.622448-03:00",
+    "ultima_captura": "2026-07-14T11:43:34.475182-03:00",
     "latitude": -18.609293708273437,
     "longitude": -46.50939312993228,
     "localizacao_precisao": "bairro_aproximada",
@@ -656,7 +656,7 @@
         "preco": 670000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035475-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.762236-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -691,7 +691,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:46.065489-03:00",
+    "ultima_captura": "2026-07-14T11:44:17.170516-03:00",
     "latitude": -18.60966879639203,
     "longitude": -46.50957983451546,
     "localizacao_precisao": "bairro_aproximada",
@@ -704,7 +704,7 @@
         "preco": 670000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035836-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.762652-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -739,7 +739,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:22.442508-03:00",
+    "ultima_captura": "2026-07-14T11:43:53.269317-03:00",
     "latitude": -18.616941120776794,
     "longitude": -46.49975308766337,
     "localizacao_precisao": "bairro_aproximada",
@@ -752,7 +752,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036304-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.763162-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -787,7 +787,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:05.258593-03:00",
+    "ultima_captura": "2026-07-14T11:44:36.716744-03:00",
     "latitude": -18.6133991,
     "longitude": -46.5162543,
     "localizacao_precisao": "rua_aproximada",
@@ -800,7 +800,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036654-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.763550-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -835,7 +835,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:19.148876-03:00",
+    "ultima_captura": "2026-07-14T11:44:50.726037-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -848,7 +848,7 @@
         "preco": 650000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036881-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.763817-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -883,7 +883,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:05.553724-03:00",
+    "ultima_captura": "2026-07-14T11:43:36.500805-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -896,7 +896,7 @@
         "preco": 630000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037230-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.764193-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -931,7 +931,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:50.978950-03:00",
+    "ultima_captura": "2026-07-14T11:44:22.141271-03:00",
     "latitude": -18.5834043,
     "longitude": -46.5178014,
     "localizacao_precisao": "alta",
@@ -944,7 +944,7 @@
         "preco": 600000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037545-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.764542-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -979,7 +979,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:36.942316-03:00",
+    "ultima_captura": "2026-07-14T11:45:08.690580-03:00",
     "latitude": -18.585547301002528,
     "longitude": -46.50264379775229,
     "localizacao_precisao": "bairro_aproximada",
@@ -992,7 +992,7 @@
         "preco": 600000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037894-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.764959-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1027,7 +1027,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:16.376277-03:00",
+    "ultima_captura": "2026-07-14T11:43:47.417695-03:00",
     "latitude": -18.582627597708118,
     "longitude": -46.49847243699708,
     "localizacao_precisao": "bairro_aproximada",
@@ -1040,7 +1040,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.038256-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.765347-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1075,7 +1075,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:08.665872-03:00",
+    "ultima_captura": "2026-07-14T11:45:41.265360-03:00",
     "latitude": -18.588838465490962,
     "longitude": -46.50808204278996,
     "localizacao_precisao": "bairro_aproximada",
@@ -1088,7 +1088,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.038699-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.765850-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1123,7 +1123,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:19.269126-03:00",
+    "ultima_captura": "2026-07-14T11:45:52.167885-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1136,7 +1136,7 @@
         "preco": 550000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039155-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.766364-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1171,7 +1171,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:51.974535-03:00",
+    "ultima_captura": "2026-07-14T11:44:23.123702-03:00",
     "latitude": -18.5841595,
     "longitude": -46.5098626,
     "localizacao_precisao": "rua_aproximada",
@@ -1184,7 +1184,7 @@
         "preco": 530000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039444-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.766677-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1219,7 +1219,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:26.383427-03:00",
+    "ultima_captura": "2026-07-14T11:43:57.257201-03:00",
     "latitude": -18.5851203,
     "longitude": -46.5179735,
     "localizacao_precisao": "rua_aproximada",
@@ -1232,7 +1232,7 @@
         "preco": 500000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039823-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.767102-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1267,7 +1267,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:37.825411-03:00",
+    "ultima_captura": "2026-07-14T11:45:09.591195-03:00",
     "latitude": -18.6001255,
     "longitude": -46.5220283,
     "localizacao_precisao": "rua_aproximada",
@@ -1280,7 +1280,7 @@
         "preco": 490000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040305-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.767654-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1315,7 +1315,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-30T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:59.625178-03:00",
+    "ultima_captura": "2026-07-14T11:44:30.911856-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1328,7 +1328,7 @@
         "preco": 480000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040533-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.767915-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1363,7 +1363,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:57.146356-03:00",
+    "ultima_captura": "2026-07-14T11:45:29.363066-03:00",
     "latitude": -18.5978964,
     "longitude": -46.5281072,
     "localizacao_precisao": "alta",
@@ -1376,7 +1376,7 @@
         "preco": 470000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040979-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.768410-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1411,7 +1411,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:17.386514-03:00",
+    "ultima_captura": "2026-07-14T11:43:48.399259-03:00",
     "latitude": -18.5723601,
     "longitude": -46.5199973,
     "localizacao_precisao": "rua_aproximada",
@@ -1424,7 +1424,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041383-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.768859-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1459,7 +1459,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:25.376990-03:00",
+    "ultima_captura": "2026-07-14T11:44:57.088735-03:00",
     "latitude": -18.5709877,
     "longitude": -46.5099331,
     "localizacao_precisao": "rua_aproximada",
@@ -1472,7 +1472,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041673-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.769181-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1507,7 +1507,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:07.755515-03:00",
+    "ultima_captura": "2026-07-14T11:45:40.334443-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1520,7 +1520,7 @@
         "preco": 450000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041935-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.769476-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1555,7 +1555,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:23.724786-03:00",
+    "ultima_captura": "2026-07-14T11:45:56.735458-03:00",
     "latitude": -18.59782206514708,
     "longitude": -46.50253216219153,
     "localizacao_precisao": "bairro_aproximada",
@@ -1568,7 +1568,7 @@
         "preco": 425000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042326-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.769914-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1603,7 +1603,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:06.893145-03:00",
+    "ultima_captura": "2026-07-14T11:45:39.414140-03:00",
     "latitude": -18.573640607999163,
     "longitude": -46.5147667438059,
     "localizacao_precisao": "bairro_aproximada",
@@ -1616,7 +1616,7 @@
         "preco": 420000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042620-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.770238-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1651,7 +1651,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:59.804756-03:00",
+    "ultima_captura": "2026-07-14T11:45:32.110382-03:00",
     "latitude": -18.5849413,
     "longitude": -46.5181796,
     "localizacao_precisao": "rua_aproximada",
@@ -1664,7 +1664,7 @@
         "preco": 410000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042967-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.770645-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1699,7 +1699,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-30T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:00.588855-03:00",
+    "ultima_captura": "2026-07-14T11:44:31.891502-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1712,7 +1712,7 @@
         "preco": 400000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043177-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.770879-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1747,7 +1747,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:31.277656-03:00",
+    "ultima_captura": "2026-07-14T11:44:02.228200-03:00",
     "latitude": -18.555662651177666,
     "longitude": -46.5309327,
     "localizacao_precisao": "bairro_aproximada",
@@ -1760,7 +1760,7 @@
         "preco": 395000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043556-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.771284-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1795,7 +1795,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:13.971852-03:00",
+    "ultima_captura": "2026-07-14T11:45:46.742116-03:00",
     "latitude": -18.578734403505447,
     "longitude": -46.506111906431,
     "localizacao_precisao": "bairro_aproximada",
@@ -1808,7 +1808,7 @@
         "preco": 350000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043827-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.771585-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1843,7 +1843,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:16.623317-03:00",
+    "ultima_captura": "2026-07-14T11:45:49.457312-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -1856,7 +1856,7 @@
         "preco": 350000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.044288-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.772104-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1891,7 +1891,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:45.104754-03:00",
+    "ultima_captura": "2026-07-14T11:44:16.203691-03:00",
     "latitude": -18.6260803,
     "longitude": -46.5083747,
     "localizacao_precisao": "rua_aproximada",
@@ -1904,7 +1904,7 @@
         "preco": 330000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.044701-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.772565-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1939,7 +1939,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:17.509062-03:00",
+    "ultima_captura": "2026-07-14T11:45:50.354182-03:00",
     "latitude": -18.576943275534294,
     "longitude": -46.53138084774854,
     "localizacao_precisao": "bairro_aproximada",
@@ -1952,7 +1952,7 @@
         "preco": 320000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045102-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.773021-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -1987,7 +1987,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:26.244732-03:00",
+    "ultima_captura": "2026-07-14T11:44:57.991945-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2000,7 +2000,7 @@
         "preco": 300000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045317-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.773239-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2035,7 +2035,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:24.642262-03:00",
+    "ultima_captura": "2026-07-14T11:45:57.639359-03:00",
     "latitude": -18.583137036511143,
     "longitude": -46.52248934167995,
     "localizacao_precisao": "bairro_aproximada",
@@ -2048,7 +2048,7 @@
         "preco": 285000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045645-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.773596-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2083,7 +2083,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:47.042414-03:00",
+    "ultima_captura": "2026-07-14T11:44:18.172289-03:00",
     "latitude": -18.564987346600567,
     "longitude": -46.53686195555966,
     "localizacao_precisao": "bairro_aproximada",
@@ -2096,7 +2096,7 @@
         "preco": 270000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046101-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.774124-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2131,7 +2131,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:10.435960-03:00",
+    "ultima_captura": "2026-07-14T11:45:43.100885-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2144,7 +2144,7 @@
         "preco": 270000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046411-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.774460-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2179,7 +2179,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:18.383604-03:00",
+    "ultima_captura": "2026-07-14T11:45:51.283775-03:00",
     "latitude": -18.623368270494282,
     "longitude": -46.508270026114815,
     "localizacao_precisao": "bairro_aproximada",
@@ -2192,7 +2192,7 @@
         "preco": 265000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046853-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.774965-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2203,54 +2203,6 @@
         "preco": 265000,
         "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
         "id_origem": "timtim-746d7835186707c8"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "timtim-1863c3b3f8967bfa",
-    "mercado": "tradicional",
-    "titulo": "OPORTUNIDADE",
-    "bairro": "Não identificado",
-    "tipo": "Casa",
-    "preco": 260000,
-    "area_construida": null,
-    "area_terreno": null,
-    "quartos": null,
-    "vagas": null,
-    "fonte": "Classificados TIMTIM",
-    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-    "telefone_anunciante": "34996737014",
-    "descricao": "OPORTUNIDADE! VENDE-SE CARTA CONTEMPLADA. CRÉDITO: R$260.000,00 ENTRADA MAIS PARCELAS DE R$1.505,10. OPÇÃO DE COMPRA IMÓVEL NOVO, USADO OU CONSTRUÇÃO. TR.: (34) 99673-7014 (WHATSAPP).",
-    "confianca": 64,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:34.242652-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 260000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047075-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 260000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-1863c3b3f8967bfa"
       }
     ],
     "duplicado_multifonte": false
@@ -2275,7 +2227,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:15.757044-03:00",
+    "ultima_captura": "2026-07-14T11:45:48.530937-03:00",
     "latitude": -18.622375431855666,
     "longitude": -46.508486795490036,
     "localizacao_precisao": "bairro_aproximada",
@@ -2288,7 +2240,7 @@
         "preco": 260000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047468-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.775459-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2323,7 +2275,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:02.485672-03:00",
+    "ultima_captura": "2026-07-14T11:44:33.881112-03:00",
     "latitude": -18.595629940653094,
     "longitude": -46.49827318108396,
     "localizacao_precisao": "bairro_aproximada",
@@ -2336,7 +2288,7 @@
         "preco": 255000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047760-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.775795-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2371,7 +2323,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:31:57.849888-03:00",
+    "ultima_captura": "2026-07-14T11:43:28.516454-03:00",
     "latitude": -18.5751333,
     "longitude": -46.52567678348754,
     "localizacao_precisao": "bairro_aproximada",
@@ -2384,7 +2336,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048048-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.776121-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2419,7 +2371,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:11.137344-03:00",
+    "ultima_captura": "2026-07-14T11:44:42.654689-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2432,7 +2384,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048281-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.776367-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2467,7 +2419,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:41.357642-03:00",
+    "ultima_captura": "2026-07-14T11:45:13.188763-03:00",
     "latitude": -18.576300461180754,
     "longitude": -46.53014022533483,
     "localizacao_precisao": "bairro_aproximada",
@@ -2480,7 +2432,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048524-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.776642-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2515,7 +2467,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:45.764554-03:00",
+    "ultima_captura": "2026-07-14T11:45:17.684975-03:00",
     "latitude": -18.5979365,
     "longitude": -46.499116,
     "localizacao_precisao": "rua_aproximada",
@@ -2528,7 +2480,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048798-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.776948-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2563,7 +2515,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:46.653748-03:00",
+    "ultima_captura": "2026-07-14T11:45:18.570265-03:00",
     "latitude": -18.583329896266708,
     "longitude": -46.53279410291015,
     "localizacao_precisao": "bairro_aproximada",
@@ -2576,7 +2528,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049119-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.777302-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2611,7 +2563,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:47.543624-03:00",
+    "ultima_captura": "2026-07-14T11:45:19.457952-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2624,7 +2576,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049368-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.777561-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2659,7 +2611,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:54.475628-03:00",
+    "ultima_captura": "2026-07-14T11:45:26.642655-03:00",
     "latitude": -18.577286315635085,
     "longitude": -46.53034546296934,
     "localizacao_precisao": "bairro_aproximada",
@@ -2672,7 +2624,7 @@
         "preco": 250000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049712-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.777980-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2707,7 +2659,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:34:00.712719-03:00",
+    "ultima_captura": "2026-07-14T11:45:33.034504-03:00",
     "latitude": -18.5882948,
     "longitude": -46.506329,
     "localizacao_precisao": "rua_aproximada",
@@ -2720,7 +2672,7 @@
         "preco": 239000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050182-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.778515-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2755,7 +2707,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:58.059273-03:00",
+    "ultima_captura": "2026-07-14T11:45:30.300559-03:00",
     "latitude": -18.622555261899144,
     "longitude": -46.508777287876065,
     "localizacao_precisao": "bairro_aproximada",
@@ -2768,7 +2720,7 @@
         "preco": 230000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050544-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.778935-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2779,54 +2731,6 @@
         "preco": 230000,
         "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
         "id_origem": "timtim-b596d1a9d9e08df1"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "timtim-1ffe3b5e00e9d42c",
-    "mercado": "tradicional",
-    "titulo": "OPORTUNIDADE",
-    "bairro": "Não identificado",
-    "tipo": "Casa",
-    "preco": 190000,
-    "area_construida": null,
-    "area_terreno": null,
-    "quartos": null,
-    "vagas": null,
-    "fonte": "Classificados TIMTIM",
-    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-    "telefone_anunciante": "34996737014",
-    "descricao": "OPORTUNIDADE! VENDE-SE CARTA CONTEMPLADA. CRÉDITO: R$190.000,00 ENTRADA MAIS PARCELAS DE R$1.120,00. OPÇÃO DE COMPRA IMÓVEL NOVO, USADO OU CONSTRUÇÃO. TR.: (34) 99673-7014 (WHATSAPP).",
-    "confianca": 64,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:35.247888-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 190000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050769-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 190000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-1ffe3b5e00e9d42c"
       }
     ],
     "duplicado_multifonte": false
@@ -2851,7 +2755,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:20.046474-03:00",
+    "ultima_captura": "2026-07-14T11:44:51.626494-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -2864,7 +2768,7 @@
         "preco": 189000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051083-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.779360-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2899,7 +2803,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:53.593029-03:00",
+    "ultima_captura": "2026-07-14T11:45:25.769893-03:00",
     "latitude": -18.59396610769431,
     "longitude": -46.52549746892421,
     "localizacao_precisao": "bairro_aproximada",
@@ -2912,7 +2816,7 @@
         "preco": 185000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051383-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.779685-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2947,7 +2851,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:07.458603-03:00",
+    "ultima_captura": "2026-07-14T11:43:38.490888-03:00",
     "latitude": -18.56241390530923,
     "longitude": -46.52834126399928,
     "localizacao_precisao": "bairro_aproximada",
@@ -2960,7 +2864,7 @@
         "preco": 180000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051703-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.780042-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -2971,54 +2875,6 @@
         "preco": 180000,
         "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
         "id_origem": "timtim-ef231af9edc14568"
-      }
-    ],
-    "duplicado_multifonte": false
-  },
-  {
-    "id": "timtim-b4f02f3320cbf049",
-    "mercado": "tradicional",
-    "titulo": "CARTA DE CRÉDITO, COMPRA CASA, APARTAMENTO, LOTE E CONSTRUÇÃO",
-    "bairro": "Não identificado",
-    "tipo": "Casa",
-    "preco": 180000,
-    "area_construida": null,
-    "area_terreno": null,
-    "quartos": null,
-    "vagas": null,
-    "fonte": "Classificados TIMTIM",
-    "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-    "telefone_anunciante": "34996379555",
-    "descricao": "VENDE-SE CARTA DE CRÉDITO, COMPRA CASA, APARTAMENTO, LOTE E CONSTRUÇÃO. VALOR CRÉDITO: R$180.000,00; PARCELA: R$765,00. VALOR CRÉDITO: R$220.000,00; PARCELA: R$938,00. VALOR CRÉDITO: R$300.000,00; PARCELA: R$1.276,00. VALOR CRÉDITO: R$350.000,00; PARCELA: R$1.489,00. VALOR CRÉDITO: R$400.000,00; PARCELA: R$1.703,00. PLANO MAIS POR MENOS PARCELA REDUZIDA, SEM JUROS, SEM SCORE - COMPRA IMÓVEL NOVO OU USADO, CREDITO JÁ CONTEMPLADO BANCO BRASIL - ITAÚ - C.EF - GROSCOM - ANCORA - PORTO SEGURO. TRATAR WHATSAPP (34) 99637-9555 (SÉRGIO COM 41 ANOS EXPERIÊNCIA SISTEMA FINANCEIRO BANKINVEST).",
-    "confianca": 64,
-    "nota_oportunidade": 50,
-    "novo": false,
-    "preco_reduzido": false,
-    "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:54.889514-03:00",
-    "latitude": null,
-    "longitude": null,
-    "localizacao_precisao": "nao_localizado",
-    "endereco_extraido": null,
-    "geocoding_query": null,
-    "geocoding_display_name": null,
-    "historico_precos": [
-      {
-        "data": "2026-07-14",
-        "preco": 180000
-      }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052251-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 180000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-b4f02f3320cbf049"
       }
     ],
     "duplicado_multifonte": false
@@ -3043,7 +2899,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:38.709986-03:00",
+    "ultima_captura": "2026-07-14T11:45:10.489501-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3056,7 +2912,7 @@
         "preco": 160000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052446-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.780397-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3091,7 +2947,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:13.811921-03:00",
+    "ultima_captura": "2026-07-14T11:44:45.327949-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3104,7 +2960,7 @@
         "preco": 145000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052795-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.780803-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3139,7 +2995,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:36.058023-03:00",
+    "ultima_captura": "2026-07-14T11:45:07.805767-03:00",
     "latitude": -18.58076429138228,
     "longitude": -46.53250091745942,
     "localizacao_precisao": "bairro_aproximada",
@@ -3152,7 +3008,7 @@
         "preco": 140000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053098-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.781140-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3187,7 +3043,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:31:58.806796-03:00",
+    "ultima_captura": "2026-07-14T11:43:29.507872-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3200,7 +3056,7 @@
         "preco": 135000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053494-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.781570-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3235,7 +3091,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:14.693872-03:00",
+    "ultima_captura": "2026-07-14T11:44:46.222839-03:00",
     "latitude": -18.594609615929798,
     "longitude": -46.4802053684436,
     "localizacao_precisao": "bairro_aproximada",
@@ -3248,7 +3104,7 @@
         "preco": 125000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053723-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.781828-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3283,7 +3139,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:21.809606-03:00",
+    "ultima_captura": "2026-07-14T11:44:53.473376-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3296,7 +3152,7 @@
         "preco": 110000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053926-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.782050-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3331,7 +3187,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:32.512934-03:00",
+    "ultima_captura": "2026-07-14T11:45:04.253039-03:00",
     "latitude": -18.560126229531622,
     "longitude": -46.521184594835184,
     "localizacao_precisao": "bairro_aproximada",
@@ -3344,7 +3200,7 @@
         "preco": 107000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054163-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.782309-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3379,7 +3235,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-03T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:40.465681-03:00",
+    "ultima_captura": "2026-07-14T11:45:12.293384-03:00",
     "latitude": -18.56070110456693,
     "longitude": -46.52080409334982,
     "localizacao_precisao": "bairro_aproximada",
@@ -3392,7 +3248,7 @@
         "preco": 99000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054390-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.782542-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3427,7 +3283,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:33.408824-03:00",
+    "ultima_captura": "2026-07-14T11:45:05.140107-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3440,7 +3296,7 @@
         "preco": 50000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054690-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.782888-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3475,7 +3331,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:49.329860-03:00",
+    "ultima_captura": "2026-07-14T11:45:21.258801-03:00",
     "latitude": -18.551411236558845,
     "longitude": -46.53391248832789,
     "localizacao_precisao": "bairro_aproximada",
@@ -3488,7 +3344,7 @@
         "preco": 26000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055097-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.783344-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3523,7 +3379,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-07T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:32:28.339716-03:00",
+    "ultima_captura": "2026-07-14T11:43:59.205251-03:00",
     "latitude": -18.6043005,
     "longitude": -46.5150423,
     "localizacao_precisao": "rua_aproximada",
@@ -3536,7 +3392,7 @@
         "preco": 10000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055532-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.783830-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3571,7 +3427,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-06-26T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:03.418276-03:00",
+    "ultima_captura": "2026-07-14T11:44:34.853195-03:00",
     "latitude": -18.583723410545712,
     "longitude": -46.53239618479108,
     "localizacao_precisao": "bairro_aproximada",
@@ -3584,7 +3440,7 @@
         "preco": 2500
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055996-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.784345-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
@@ -3619,7 +3475,7 @@
     "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-10T00:00:00-03:00",
-    "ultima_captura": "2026-07-14T11:33:16.483290-03:00",
+    "ultima_captura": "2026-07-14T11:44:48.010870-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
@@ -3632,7 +3488,7 @@
         "preco": 1400
       }
     ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.056400-03:00",
+    "classificacao_processada_em": "2026-07-14T11:46:07.784789-03:00",
     "status": "ativo",
     "fontes_encontradas": [
       "Classificados TIMTIM"
