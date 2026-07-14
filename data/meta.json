@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-14T10:16:01.391759-03:00",
+  "updated_at": "2026-07-14T10:35:24.456344-03:00",
   "status": "dados_reais_timtim",
   "source": "Classificados TIMTIM",
   "records": 76,
-  "note": "Coleta experimental por navegador automatizado; revisar os primeiros resultados antes de ativar agendamento diário."
+  "mapped_records": 48,
+  "location_precision": {
+    "alta": 2,
+    "rua_aproximada": 11,
+    "bairro_aproximada": 35,
+    "nao_localizado": 28
+  },
+  "note": "Coleta experimental com geocodificação em níveis de precisão; revisar os resultados antes de ativar agendamento diário."
 }
