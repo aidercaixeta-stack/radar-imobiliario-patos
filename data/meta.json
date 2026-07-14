@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-07-14T11:19:51.042522-03:00",
-  "status": "dados_reais_timtim",
-  "source": "Classificados TIMTIM",
+  "updated_at": "2026-07-14T11:34:35.062393-03:00",
+  "status": "base_multifuente_processada",
   "records": 76,
+  "captured_before_filters": 76,
+  "excluded_records": 0,
+  "duplicate_groups": 0,
+  "markets": {
+    "tradicional": 76,
+    "leilao": 0,
+    "nao_comparavel": 0
+  },
   "mapped_records": 48,
   "location_precision": {
-    "alta": 2,
-    "rua_aproximada": 11,
+    "nao_localizado": 28,
     "bairro_aproximada": 35,
-    "nao_localizado": 28
+    "rua_aproximada": 11,
+    "alta": 2
   },
-  "note": "Coleta experimental com geocodificação em níveis de precisão; revisar os resultados antes de ativar agendamento diário."
+  "sources": {
+    "Classificados TIMTIM": {
+      "capturados": 76,
+      "incluidos": 76,
+      "excluidos": 0,
+      "nao_comparaveis": 0
+    }
+  },
+  "exclusion_reasons": {},
+  "note": "Base processada por pipeline multifuente. Conteúdo irrelevante é separado em data/excluidos.json; itens não comparáveis são preservados fora do mercado tradicional."
 }

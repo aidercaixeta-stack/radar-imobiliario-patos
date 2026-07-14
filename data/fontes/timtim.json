@@ -31,21 +31,7 @@
         "data": "2026-07-14",
         "preco": 1650000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.030816-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 1650000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-9882af106f8f0cf9"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-795f8e4fb87bc893",
@@ -79,21 +65,7 @@
         "data": "2026-07-14",
         "preco": 1300000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031109-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 1300000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-795f8e4fb87bc893"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-263e038d431acc56",
@@ -127,21 +99,7 @@
         "data": "2026-07-14",
         "preco": 1100000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031443-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 1100000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-263e038d431acc56"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-3cd7dc0641fb3ba5",
@@ -175,21 +133,7 @@
         "data": "2026-07-14",
         "preco": 950000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.031784-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 950000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-3cd7dc0641fb3ba5"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-18f7fda9cadc5669",
@@ -223,21 +167,7 @@
         "data": "2026-07-14",
         "preco": 850000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.032098-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 850000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-18f7fda9cadc5669"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-93ee55346d300143",
@@ -271,21 +201,7 @@
         "data": "2026-07-14",
         "preco": 850000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.032835-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 850000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-93ee55346d300143"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-79810a9ba9273f63",
@@ -319,21 +235,7 @@
         "data": "2026-07-14",
         "preco": 850000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033159-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 850000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-79810a9ba9273f63"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-362d3b0c17a9588d",
@@ -367,21 +269,7 @@
         "data": "2026-07-14",
         "preco": 760000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033386-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 760000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-362d3b0c17a9588d"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-ecd6c84ffd1c50f4",
@@ -415,21 +303,7 @@
         "data": "2026-07-14",
         "preco": 750000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033758-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 750000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-ecd6c84ffd1c50f4"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-795d0c56a6401752",
@@ -463,21 +337,7 @@
         "data": "2026-07-14",
         "preco": 750000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.033969-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 750000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-795d0c56a6401752"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-7bc1df7ded940cfe",
@@ -511,21 +371,7 @@
         "data": "2026-07-14",
         "preco": 750000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.034363-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 750000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-7bc1df7ded940cfe"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-9e892fe4fc3ea915",
@@ -559,21 +405,7 @@
         "data": "2026-07-14",
         "preco": 700000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.034793-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 700000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-9e892fe4fc3ea915"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-7357fbd9a3f3b892",
@@ -607,21 +439,7 @@
         "data": "2026-07-14",
         "preco": 700000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035086-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 700000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-7357fbd9a3f3b892"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-6f8a82b6228b2b16",
@@ -655,21 +473,7 @@
         "data": "2026-07-14",
         "preco": 670000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035475-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 670000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-6f8a82b6228b2b16"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-f35a3277d1ea627c",
@@ -703,21 +507,7 @@
         "data": "2026-07-14",
         "preco": 670000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.035836-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 670000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-f35a3277d1ea627c"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-898aa75591afed09",
@@ -751,21 +541,7 @@
         "data": "2026-07-14",
         "preco": 650000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036304-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 650000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-898aa75591afed09"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-9deadc0fb5a110aa",
@@ -799,21 +575,7 @@
         "data": "2026-07-14",
         "preco": 650000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036654-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 650000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-9deadc0fb5a110aa"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-753469df22d870db",
@@ -847,21 +609,7 @@
         "data": "2026-07-14",
         "preco": 650000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.036881-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 650000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-753469df22d870db"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-69de415c4d276b57",
@@ -895,21 +643,7 @@
         "data": "2026-07-14",
         "preco": 630000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037230-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 630000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-69de415c4d276b57"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-a20dea63719fef47",
@@ -943,21 +677,7 @@
         "data": "2026-07-14",
         "preco": 600000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037545-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 600000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-a20dea63719fef47"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-d37b8ed372ae994b",
@@ -991,21 +711,7 @@
         "data": "2026-07-14",
         "preco": 600000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.037894-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 600000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-d37b8ed372ae994b"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-4839e17eef29415f",
@@ -1039,21 +745,7 @@
         "data": "2026-07-14",
         "preco": 550000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.038256-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 550000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-4839e17eef29415f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-015704e5984f31b6",
@@ -1087,21 +779,7 @@
         "data": "2026-07-14",
         "preco": 550000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.038699-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 550000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-015704e5984f31b6"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-5bc86463f5e3f2f9",
@@ -1135,21 +813,7 @@
         "data": "2026-07-14",
         "preco": 550000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039155-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 550000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-5bc86463f5e3f2f9"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-fced55620f28b34f",
@@ -1183,21 +847,7 @@
         "data": "2026-07-14",
         "preco": 530000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039444-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 530000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-fced55620f28b34f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-dda99aad127ca791",
@@ -1231,21 +881,7 @@
         "data": "2026-07-14",
         "preco": 500000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.039823-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 500000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-dda99aad127ca791"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-84b1637048b9cd32",
@@ -1279,21 +915,7 @@
         "data": "2026-07-14",
         "preco": 490000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040305-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 490000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-84b1637048b9cd32"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-927033d244ee303e",
@@ -1327,21 +949,7 @@
         "data": "2026-07-14",
         "preco": 480000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040533-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 480000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-927033d244ee303e"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-abd2a4a0dd9325ee",
@@ -1375,21 +983,7 @@
         "data": "2026-07-14",
         "preco": 470000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.040979-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 470000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-abd2a4a0dd9325ee"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-c1f4ed97febc536e",
@@ -1423,21 +1017,7 @@
         "data": "2026-07-14",
         "preco": 450000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041383-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 450000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-c1f4ed97febc536e"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-6f2d721d1185eae0",
@@ -1471,21 +1051,7 @@
         "data": "2026-07-14",
         "preco": 450000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041673-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 450000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-6f2d721d1185eae0"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-66543d144eeb1e12",
@@ -1519,21 +1085,7 @@
         "data": "2026-07-14",
         "preco": 450000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.041935-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 450000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-66543d144eeb1e12"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-a2e26b7dfc542f57",
@@ -1567,21 +1119,7 @@
         "data": "2026-07-14",
         "preco": 425000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042326-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 425000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-a2e26b7dfc542f57"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-29d9d61c530b11c1",
@@ -1615,21 +1153,7 @@
         "data": "2026-07-14",
         "preco": 420000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042620-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 420000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-29d9d61c530b11c1"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-ddec47f740ff258f",
@@ -1663,21 +1187,7 @@
         "data": "2026-07-14",
         "preco": 410000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.042967-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 410000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-ddec47f740ff258f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-425f1ea810f23d67",
@@ -1711,21 +1221,7 @@
         "data": "2026-07-14",
         "preco": 400000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043177-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 400000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-425f1ea810f23d67"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-7befb7a45c41135a",
@@ -1759,21 +1255,7 @@
         "data": "2026-07-14",
         "preco": 395000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043556-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 395000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-7befb7a45c41135a"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-cec44a8b88318bac",
@@ -1807,21 +1289,7 @@
         "data": "2026-07-14",
         "preco": 350000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.043827-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 350000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-cec44a8b88318bac"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-4dd92c1b3f4f0e8e",
@@ -1855,21 +1323,7 @@
         "data": "2026-07-14",
         "preco": 350000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.044288-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 350000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-4dd92c1b3f4f0e8e"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-e6e0f86318ac853f",
@@ -1903,21 +1357,7 @@
         "data": "2026-07-14",
         "preco": 330000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.044701-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 330000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-e6e0f86318ac853f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-99441f833978a072",
@@ -1951,21 +1391,7 @@
         "data": "2026-07-14",
         "preco": 320000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045102-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 320000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-99441f833978a072"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-def6612d5e19f55d",
@@ -1999,21 +1425,7 @@
         "data": "2026-07-14",
         "preco": 300000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045317-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 300000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-def6612d5e19f55d"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-5d55910e2ec7754f",
@@ -2047,21 +1459,7 @@
         "data": "2026-07-14",
         "preco": 285000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.045645-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 285000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-5d55910e2ec7754f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-03b1d2b0c7a78b1b",
@@ -2095,21 +1493,7 @@
         "data": "2026-07-14",
         "preco": 270000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046101-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 270000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-03b1d2b0c7a78b1b"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-f6491076dcc3d72f",
@@ -2143,21 +1527,7 @@
         "data": "2026-07-14",
         "preco": 270000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046411-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 270000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-f6491076dcc3d72f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-746d7835186707c8",
@@ -2191,21 +1561,7 @@
         "data": "2026-07-14",
         "preco": 265000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.046853-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 265000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-746d7835186707c8"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-1863c3b3f8967bfa",
@@ -2239,21 +1595,7 @@
         "data": "2026-07-14",
         "preco": 260000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047075-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 260000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-1863c3b3f8967bfa"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-43827b57f8325355",
@@ -2287,21 +1629,7 @@
         "data": "2026-07-14",
         "preco": 260000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047468-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 260000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-43827b57f8325355"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-0978fe163230e672",
@@ -2335,21 +1663,7 @@
         "data": "2026-07-14",
         "preco": 255000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.047760-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 255000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-0978fe163230e672"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-a8e0904fdaeaed7f",
@@ -2383,21 +1697,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048048-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-a8e0904fdaeaed7f"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-864c61389d2b4970",
@@ -2431,21 +1731,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048281-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-864c61389d2b4970"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-46b7476cc8d54bee",
@@ -2479,21 +1765,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048524-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-46b7476cc8d54bee"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-9e97c233f78f7264",
@@ -2527,21 +1799,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.048798-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-9e97c233f78f7264"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-f300cf5fa17b07f3",
@@ -2575,21 +1833,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049119-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-f300cf5fa17b07f3"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-53e11ed1d84c98ef",
@@ -2623,21 +1867,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049368-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-53e11ed1d84c98ef"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-3d92d918189966c4",
@@ -2671,21 +1901,7 @@
         "data": "2026-07-14",
         "preco": 250000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.049712-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 250000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-3d92d918189966c4"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-e0f8ae14c6df6838",
@@ -2719,21 +1935,7 @@
         "data": "2026-07-14",
         "preco": 239000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050182-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 239000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-e0f8ae14c6df6838"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-b596d1a9d9e08df1",
@@ -2767,21 +1969,7 @@
         "data": "2026-07-14",
         "preco": 230000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050544-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 230000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-b596d1a9d9e08df1"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-1ffe3b5e00e9d42c",
@@ -2815,21 +2003,7 @@
         "data": "2026-07-14",
         "preco": 190000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.050769-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 190000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-1ffe3b5e00e9d42c"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-ea24ad4a94e7a90e",
@@ -2863,21 +2037,7 @@
         "data": "2026-07-14",
         "preco": 189000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051083-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 189000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-ea24ad4a94e7a90e"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-44246da52bc1b7b2",
@@ -2911,21 +2071,7 @@
         "data": "2026-07-14",
         "preco": 185000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051383-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 185000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=apartamento-venda",
-        "id_origem": "timtim-44246da52bc1b7b2"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-ef231af9edc14568",
@@ -2959,21 +2105,7 @@
         "data": "2026-07-14",
         "preco": 180000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.051703-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 180000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-ef231af9edc14568"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-b4f02f3320cbf049",
@@ -3007,21 +2139,7 @@
         "data": "2026-07-14",
         "preco": 180000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052251-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 180000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-b4f02f3320cbf049"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-7206356438dea44c",
@@ -3055,21 +2173,7 @@
         "data": "2026-07-14",
         "preco": 160000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052446-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 160000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-7206356438dea44c"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-9ca51f2446100320",
@@ -3103,21 +2207,7 @@
         "data": "2026-07-14",
         "preco": 145000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.052795-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 145000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-9ca51f2446100320"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-a330833951bbdc9c",
@@ -3151,21 +2241,7 @@
         "data": "2026-07-14",
         "preco": 140000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053098-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 140000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-a330833951bbdc9c"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-9ed1f22c65e70a0b",
@@ -3199,21 +2275,7 @@
         "data": "2026-07-14",
         "preco": 135000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053494-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 135000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-9ed1f22c65e70a0b"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-3d26f18d95aba246",
@@ -3247,21 +2309,7 @@
         "data": "2026-07-14",
         "preco": 125000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053723-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 125000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-3d26f18d95aba246"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-4a1fc4f6b6fc2639",
@@ -3295,21 +2343,7 @@
         "data": "2026-07-14",
         "preco": 110000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.053926-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 110000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-4a1fc4f6b6fc2639"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-a02c980477b176b6",
@@ -3343,21 +2377,7 @@
         "data": "2026-07-14",
         "preco": 107000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054163-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 107000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-a02c980477b176b6"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-b746a3466dcd7d90",
@@ -3391,21 +2411,7 @@
         "data": "2026-07-14",
         "preco": 99000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054390-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 99000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-b746a3466dcd7d90"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-83d7dd4ce051e83e",
@@ -3439,21 +2445,7 @@
         "data": "2026-07-14",
         "preco": 50000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.054690-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 50000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-83d7dd4ce051e83e"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-3c3d1fca1c476179",
@@ -3487,21 +2479,7 @@
         "data": "2026-07-14",
         "preco": 26000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055097-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 26000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-3c3d1fca1c476179"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-980b07f30526a822",
@@ -3535,21 +2513,7 @@
         "data": "2026-07-14",
         "preco": 10000
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055532-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 10000,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-980b07f30526a822"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-5293919a7a4a19b6",
@@ -3583,21 +2547,7 @@
         "data": "2026-07-14",
         "preco": 2500
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.055996-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 2500,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=imoveis-venda",
-        "id_origem": "timtim-5293919a7a4a19b6"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   },
   {
     "id": "timtim-08a3d8f7db8c0f62",
@@ -3631,20 +2581,6 @@
         "data": "2026-07-14",
         "preco": 1400
       }
-    ],
-    "classificacao_processada_em": "2026-07-14T11:34:35.056400-03:00",
-    "status": "ativo",
-    "fontes_encontradas": [
-      "Classificados TIMTIM"
-    ],
-    "ofertas": [
-      {
-        "fonte": "Classificados TIMTIM",
-        "preco": 1400,
-        "url_fonte": "https://www.classificadostimtim.com.br/announcements?category=lotes",
-        "id_origem": "timtim-08a3d8f7db8c0f62"
-      }
-    ],
-    "duplicado_multifonte": false
+    ]
   }
 ]
