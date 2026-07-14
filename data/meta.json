@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-07-14T16:37:56.806187-03:00",
+  "updated_at": "2026-07-14T16:44:20.347152-03:00",
   "status": "base_multifuente_processada",
-  "records": 227,
-  "captured_before_filters": 232,
+  "records": 179,
+  "captured_before_filters": 182,
   "excluded_records": 3,
-  "duplicate_groups": 1,
+  "duplicate_groups": 0,
   "markets": {
-    "tradicional": 141,
-    "leilao": 86,
+    "tradicional": 143,
+    "leilao": 36,
     "nao_comparavel": 0
   },
-  "mapped_records": 47,
+  "mapped_records": 48,
   "location_precision": {
-    "nao_localizado": 180,
-    "bairro_aproximada": 34,
+    "nao_localizado": 131,
+    "bairro_aproximada": 35,
     "rua_aproximada": 11,
     "alta": 2
   },
   "sources": {
     "Chaves na Mão": {
-      "capturados": 156,
-      "incluidos": 156,
+      "capturados": 106,
+      "incluidos": 106,
       "excluidos": 0,
       "nao_comparaveis": 0
     },

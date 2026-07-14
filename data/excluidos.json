@@ -32,7 +32,7 @@
         "preco": 260000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:37:55.543906-03:00",
+    "classificacao_processada_em": "2026-07-14T16:44:19.295091-03:00",
     "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
     "codigo_exclusao": "consorcio_carta_credito"
   },
@@ -69,7 +69,7 @@
         "preco": 190000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:37:55.547783-03:00",
+    "classificacao_processada_em": "2026-07-14T16:44:19.298735-03:00",
     "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
     "codigo_exclusao": "consorcio_carta_credito"
   },
@@ -106,7 +106,7 @@
         "preco": 180000
       }
     ],
-    "classificacao_processada_em": "2026-07-14T16:37:55.548984-03:00",
+    "classificacao_processada_em": "2026-07-14T16:44:19.299836-03:00",
     "motivo_exclusao": "Carta de crédito ou consórcio, sem imóvel efetivamente anunciado",
     "codigo_exclusao": "consorcio_carta_credito"
   }
