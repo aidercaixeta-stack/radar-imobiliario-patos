@@ -1,5 +1,7 @@
 {
-  "updated_at": "2026-07-13T07:12:00-03:00",
-  "status": "demo",
-  "message": "Interface funcional com dados de demonstração. Coletores reais serão adicionados por fonte."
+  "updated_at": "2026-07-14T10:16:01.391759-03:00",
+  "status": "dados_reais_timtim",
+  "source": "Classificados TIMTIM",
+  "records": 76,
+  "note": "Coleta experimental por navegador automatizado; revisar os primeiros resultados antes de ativar agendamento diário."
 }
