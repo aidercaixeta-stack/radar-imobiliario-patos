@@ -15,8 +15,13 @@ from __future__ import annotations
 
 import hashlib
 import json
+import math
+import os
 import re
 import sys
+import time
+import urllib.parse
+import urllib.request
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -39,6 +44,31 @@ TZ_BR = timezone(timedelta(hours=-3))
 
 RENT_TERMS = re.compile(r"\b(aluguel|aluga-se|alugar|loca[cç][aã]o|loca-se)\b", re.I)
 AUCTION_TERMS = re.compile(r"\b(leil[aã]o|hasta|aliena[cç][aã]o fiduci[aá]ria|2[ºo]\s*leil[aã]o)\b", re.I)
+
+# Geocodificação: no teste manual usamos uma cadência conservadora abaixo do limite
+# absoluto do serviço público. Antes de ativar rotina periódica, o workflow deverá
+# usar um intervalo maior para novas consultas. Resultados já encontrados são
+# reaproveitados dos próprios registros existentes.
+NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
+NOMINATIM_DELAY_SECONDS = float(os.getenv("NOMINATIM_DELAY_SECONDS", "1.15"))
+NOMINATIM_USER_AGENT = (
+    "RadarImobiliarioPatos/0.2 "
+    "(+https://github.com/aidercaixeta-stack/radar-imobiliario-patos)"
+)
+PATOS_BOUNDS = {
+    "min_lat": -18.80,
+    "max_lat": -18.35,
+    "min_lon": -46.70,
+    "max_lon": -46.30,
+}
+
+STREET_RE = re.compile(
+    r"\b((?:Rua|R\.?|Avenida|Av\.?|Alameda|Travessa|Tv\.?|Praça|Pça\.?|Rodovia|BR[- ]?\d{2,3})"
+    r"\s+[A-Za-zÁÀÂÃÉÊÍÓÔÕÚÜÇáàâãéêíóôõúüç0-9'ºª.\- ]{2,80}?)"
+    r"(?:\s*,?\s*(?:n(?:º|°|o)?\.?\s*)?(\d{1,5}))?"
+    r"(?=\s*,|\s*\.|\s*;|\s+-\s+|\s+(?:bairro|pr[oó]xim|com|esquina|lote|área|aceita|tr\.)\b|$)",
+    re.I,
+)
 
 
 def clean(text: str | None) -> str:
@@ -98,6 +128,171 @@ def extract_area(text: str, kind: str) -> int | None:
     except ValueError:
         return None
 
+
+
+def extract_generic_area(text: str) -> int | None:
+    """Primeira metragem solta em m², útil para lotes e apartamentos."""
+    m = re.search(r"(?<!\d)(\d{2,5}(?:[\.,]\d+)?)\s*m[²2]\b", text, re.I)
+    if not m:
+        return None
+    try:
+        return int(round(float(m.group(1).replace(".", "").replace(",", "."))))
+    except ValueError:
+        return None
+
+
+def extract_street_and_number(text: str) -> tuple[str | None, str | None]:
+    m = STREET_RE.search(text)
+    if not m:
+        return None, None
+    street = clean(m.group(1)).rstrip(" ,.-")
+    number = clean(m.group(2)) if m.group(2) else None
+    # Evita capturar frases excessivamente genéricas como "Rua tranquila".
+    if len(street.split()) < 2:
+        return None, None
+    return street, number
+
+
+def build_location_candidate(item: dict[str, Any]) -> tuple[str | None, str | None, str | None]:
+    """Retorna (consulta, precisão, endereço extraído)."""
+    description = item.get("descricao") or ""
+    bairro = item.get("bairro")
+    if bairro == "Não identificado":
+        bairro = None
+    street, number = extract_street_and_number(description)
+
+    if street and number:
+        parts = [f"{street}, {number}"]
+        if bairro:
+            parts.append(bairro)
+        parts.extend(["Patos de Minas", "MG", "Brasil"])
+        return ", ".join(parts), "alta", f"{street}, {number}"
+
+    if street:
+        parts = [street]
+        if bairro:
+            parts.append(bairro)
+        parts.extend(["Patos de Minas", "MG", "Brasil"])
+        return ", ".join(parts), "rua_aproximada", street
+
+    if bairro:
+        return f"{bairro}, Patos de Minas, MG, Brasil", "bairro_aproximada", bairro
+
+    return None, None, None
+
+
+def _inside_patos(lat: float, lon: float, display_name: str) -> bool:
+    return (
+        PATOS_BOUNDS["min_lat"] <= lat <= PATOS_BOUNDS["max_lat"]
+        and PATOS_BOUNDS["min_lon"] <= lon <= PATOS_BOUNDS["max_lon"]
+        and "patos de minas" in display_name.lower()
+    )
+
+
+def geocode_query(query: str, last_request_at: float) -> tuple[dict[str, Any] | None, float]:
+    elapsed = time.monotonic() - last_request_at
+    if last_request_at and elapsed < NOMINATIM_DELAY_SECONDS:
+        time.sleep(NOMINATIM_DELAY_SECONDS - elapsed)
+
+    params = urllib.parse.urlencode({
+        "q": query,
+        "format": "jsonv2",
+        "addressdetails": 1,
+        "limit": 1,
+        "countrycodes": "br",
+        "layer": "address",
+        "viewbox": "-46.70,-18.35,-46.30,-18.80",
+        "bounded": 1,
+        "accept-language": "pt-BR,pt",
+    })
+    request = urllib.request.Request(
+        f"{NOMINATIM_URL}?{params}",
+        headers={
+            "User-Agent": NOMINATIM_USER_AGENT,
+            "Accept": "application/json",
+        },
+    )
+    requested_at = time.monotonic()
+    try:
+        with urllib.request.urlopen(request, timeout=25) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except Exception as exc:
+        print(f"[geocode] erro em {query!r}: {type(exc).__name__}: {exc}")
+        return None, requested_at
+
+    if not payload:
+        return None, requested_at
+    result = payload[0]
+    try:
+        lat = float(result["lat"])
+        lon = float(result["lon"])
+    except (KeyError, TypeError, ValueError):
+        return None, requested_at
+    display_name = clean(result.get("display_name"))
+    if not _inside_patos(lat, lon, display_name):
+        return None, requested_at
+    return {
+        "latitude": lat,
+        "longitude": lon,
+        "geocoding_display_name": display_name,
+    }, requested_at
+
+
+def _jitter_bairro(lat: float, lon: float, item_id: str) -> tuple[float, float]:
+    """Espalha pontos de bairro em ~30–100 m para evitar sobreposição total."""
+    seed = int(hashlib.sha1(item_id.encode("utf-8")).hexdigest()[:8], 16)
+    angle = (seed % 360) * math.pi / 180
+    radius = 0.00028 + ((seed >> 9) % 50) / 100000.0
+    return lat + math.sin(angle) * radius, lon + math.cos(angle) * radius
+
+
+def geocode_items(items: list[dict[str, Any]], existing: dict[str, dict[str, Any]]) -> None:
+    """Enriquece itens com coordenadas, reaproveitando resultados já conhecidos."""
+    cache: dict[str, dict[str, Any]] = {}
+    for old in existing.values():
+        query = old.get("geocoding_query")
+        if query and old.get("latitude") is not None and old.get("longitude") is not None:
+            cache[query] = {
+                "latitude": old["latitude"],
+                "longitude": old["longitude"],
+                "geocoding_display_name": old.get("geocoding_display_name"),
+            }
+
+    last_request_at = 0.0
+    found = 0
+    for index, item in enumerate(items, start=1):
+        if item.get("latitude") is not None and item.get("longitude") is not None:
+            found += 1
+            continue
+
+        query, precision, extracted = build_location_candidate(item)
+        item["localizacao_precisao"] = precision or "nao_localizado"
+        item["endereco_extraido"] = extracted
+        item["geocoding_query"] = query
+        if not query:
+            continue
+
+        result = cache.get(query)
+        if result is None:
+            print(f"[geocode {index}/{len(items)}] {precision}: {query}")
+            result, last_request_at = geocode_query(query, last_request_at)
+            if result:
+                cache[query] = result
+
+        if not result:
+            item["localizacao_precisao"] = "nao_localizado"
+            continue
+
+        lat = float(result["latitude"])
+        lon = float(result["longitude"])
+        if precision == "bairro_aproximada":
+            lat, lon = _jitter_bairro(lat, lon, item["id"])
+        item["latitude"] = lat
+        item["longitude"] = lon
+        item["geocoding_display_name"] = result.get("geocoding_display_name")
+        found += 1
+
+    print(f"[geocode] {found}/{len(items)} imóveis com ponto no mapa")
 
 def infer_bairro(text: str) -> str | None:
     patterns = [
@@ -243,6 +438,11 @@ def parse_modal(text: str, tipo_hint: str, source_url: str) -> dict[str, Any] | 
     published = parse_date(text)
     area_built = extract_area(description, "construida")
     area_land = extract_area(description, "terreno")
+    generic_area = extract_generic_area(description)
+    if tipo_hint == "Apartamento" and not area_built:
+        area_built = generic_area
+    if tipo_hint == "Lote" and not area_land:
+        area_land = generic_area
     quartos = extract_number([r"(\d{1,2})\s*(?:quartos?|dormit[oó]rios?)"], description)
     vagas = extract_number([
         r"(?:garagens?|vagas?)(?:\s+para|\s+de|:)?\s*(?:at[eé]\s*)?(\d{1,2})\s*(?:carros?|vagas?)?",
@@ -278,6 +478,10 @@ def parse_modal(text: str, tipo_hint: str, source_url: str) -> dict[str, Any] | 
         "ultima_captura": datetime.now(TZ_BR).isoformat(),
         "latitude": None,
         "longitude": None,
+        "localizacao_precisao": "nao_localizado",
+        "endereco_extraido": None,
+        "geocoding_query": None,
+        "geocoding_display_name": None,
         "historico_precos": [{"data": datetime.now(TZ_BR).date().isoformat(), "preco": price}],
     }
 
@@ -347,6 +551,12 @@ def merge_history(items: list[dict[str, Any]], existing: dict[str, dict[str, Any
             item["historico_precos"] = history[-12:]
             item["preco_reduzido"] = bool(previous_price and item["preco"] < previous_price)
             item["primeira_captura"] = old.get("primeira_captura", item["primeira_captura"])
+            for field in [
+                "latitude", "longitude", "localizacao_precisao", "endereco_extraido",
+                "geocoding_query", "geocoding_display_name"
+            ]:
+                if old.get(field) is not None:
+                    item[field] = old.get(field)
             item["novo"] = False
         merged.append(item)
     return merged
@@ -402,6 +612,7 @@ def main() -> int:
 
     existing = load_existing()
     items = merge_history(items, existing)
+    geocode_items(items, existing)
     score_opportunities(items)
     items.sort(key=lambda x: (x.get("nota_oportunidade", 0), x.get("preco", 0)), reverse=True)
 
@@ -411,7 +622,14 @@ def main() -> int:
         "status": "dados_reais_timtim",
         "source": "Classificados TIMTIM",
         "records": len(items),
-        "note": "Coleta experimental por navegador automatizado; revisar os primeiros resultados antes de ativar agendamento diário."
+        "mapped_records": sum(1 for item in items if item.get("latitude") is not None and item.get("longitude") is not None),
+        "location_precision": {
+            "alta": sum(1 for item in items if item.get("localizacao_precisao") == "alta"),
+            "rua_aproximada": sum(1 for item in items if item.get("localizacao_precisao") == "rua_aproximada"),
+            "bairro_aproximada": sum(1 for item in items if item.get("localizacao_precisao") == "bairro_aproximada"),
+            "nao_localizado": sum(1 for item in items if item.get("localizacao_precisao") == "nao_localizado"),
+        },
+        "note": "Coleta experimental com geocodificação em níveis de precisão; revisar os resultados antes de ativar agendamento diário."
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n[sucesso] {len(items)} imóveis válidos gravados em {DATA_FILE}")
     return 0
