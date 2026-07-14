@@ -6,13 +6,12 @@ const state = {
   favorites: new Set(JSON.parse(localStorage.getItem("radar-favoritos") || "[]")),
   map: null,
   markers: null,
-  installPrompt: null
+  installPrompt: null,
+  filtersCollapsed: false
 };
 
 const $ = (id) => document.getElementById(id);
-const money = (n) => new Intl.NumberFormat("pt-BR", {
-  style: "currency", currency: "BRL", maximumFractionDigits: 0
-}).format(n || 0);
+const money = (n) => new Intl.NumberFormat("pt-BR", {style: "currency", currency: "BRL", maximumFractionDigits: 0}).format(n || 0);
 const number = (n) => new Intl.NumberFormat("pt-BR").format(n || 0);
 const escapeHtml = (value) => String(value ?? "")
   .replaceAll("&", "&amp;").replaceAll("<", "&lt;")
@@ -58,10 +57,8 @@ async function loadData() {
 function populateFilters() {
   const bairros = [...new Set(state.all.map(x => x.bairro).filter(Boolean))].sort();
   const tipos = [...new Set(state.all.map(x => x.tipo).filter(Boolean))].sort();
-  $("bairro").innerHTML = `<option value="">Todos</option>` +
-    bairros.map(x => `<option>${escapeHtml(x)}</option>`).join("");
-  $("tipo").innerHTML = `<option value="">Todos</option>` +
-    tipos.map(x => `<option>${escapeHtml(x)}</option>`).join("");
+  $("bairro").innerHTML = `<option value="">Todos</option>` + bairros.map(x => `<option>${escapeHtml(x)}</option>`).join("");
+  $("tipo").innerHTML = `<option value="">Todos</option>` + tipos.map(x => `<option>${escapeHtml(x)}</option>`).join("");
 }
 
 function baseMarketFilter(item) {
@@ -104,12 +101,12 @@ function renderAll() {
   renderCards();
   renderMap();
   const titles = {
-    tradicional: "Oportunidades do mercado tradicional",
-    leilao: "Oportunidades em leilões",
-    favoritos: "Seus imóveis favoritos"
+    tradicional: "Painel do mercado tradicional",
+    leilao: "Painel de leilões",
+    favoritos: "Painel de favoritos"
   };
   $("heroTitle").textContent = titles[state.market];
-  $("resultTitle").textContent = state.market === "leilao" ? "Leilões encontrados" : "Imóveis encontrados";
+  $("resultTitle").textContent = state.market === "leilao" ? "Leilões encontrados" : state.market === "favoritos" ? "Favoritos encontrados" : "Imóveis encontrados";
   $("resultCount").textContent = number(state.visible.length);
   $("bestScore").textContent = state.visible.length ? Math.max(...state.visible.map(x => x.nota_oportunidade)) : "—";
 }
@@ -119,10 +116,17 @@ function renderKpis() {
     const area = x.area_construida || x.area_terreno;
     return area ? x.preco / area : NaN;
   });
-  $("kpiTotal").textContent = number(state.visible.length);
-  $("kpiNew").textContent = number(state.visible.filter(x => x.novo).length);
-  $("kpiReduced").textContent = number(state.visible.filter(x => x.preco_reduzido).length);
-  $("kpiOpp").textContent = number(state.visible.filter(x => x.nota_oportunidade >= 80).length);
+  const total = state.visible.length;
+  const novos = state.visible.filter(x => x.novo).length;
+  const reduzidos = state.visible.filter(x => x.preco_reduzido).length;
+  const opp = state.visible.filter(x => x.nota_oportunidade >= 80).length;
+  $("kpiTotal").textContent = number(total);
+  $("kpiNew").textContent = number(novos);
+  $("kpiReduced").textContent = number(reduzidos);
+  $("kpiOpp").textContent = number(opp);
+  $("metricNew").textContent = number(novos);
+  $("metricReduced").textContent = number(reduzidos);
+  $("metricOpp").textContent = number(opp);
   const med = median(valuesM2);
   $("kpiM2").textContent = med ? money(med) : "—";
 }
@@ -135,64 +139,69 @@ function historyHtml(item) {
   `).join("")}</div>`;
 }
 
+function cardPhotoTag(item) {
+  if (item.mercado === 'leilao') return item.modalidade_leilao || 'Leilão';
+  if (item.nota_oportunidade >= 85) return 'Alta oportunidade';
+  if (item.preco_reduzido) return 'Preço reduzido';
+  return 'Mercado tradicional';
+}
+
 function cardHtml(item) {
   const area = item.area_construida || item.area_terreno || 0;
   const perM2 = area ? item.preco / area : null;
   const isFavorite = state.favorites.has(item.id);
   return `
     <article class="card" data-id="${escapeHtml(item.id)}">
-      <div class="card-head">
-        <div>
-          <h4>${escapeHtml(item.titulo)}</h4>
-          <div class="subtitle">${escapeHtml(item.bairro)} • ${escapeHtml(item.tipo)}</div>
+      <div class="card-photo">
+        <span class="photo-tag">${escapeHtml(cardPhotoTag(item))}</span>
+        <div class="score-bubble" title="Nota de oportunidade">${number(item.nota_oportunidade)}</div>
+      </div>
+      <div class="card-body">
+        <h4>${escapeHtml(item.titulo)}</h4>
+        <div class="subtitle-row">${escapeHtml(item.bairro)} • ${escapeHtml(item.tipo)}</div>
+
+        <div class="price-row">
+          <div class="price">${money(item.preco)}</div>
+          <div class="per-m2">${perM2 ? `${money(perM2)}/m²` : "área não informada"}</div>
         </div>
-        <div class="score" title="Nota de oportunidade">${number(item.nota_oportunidade)}</div>
-      </div>
 
-      <div class="price-row">
-        <div class="price">${money(item.preco)}</div>
-        <div class="per-m2">${perM2 ? `${money(perM2)}/m²` : "área não informada"}</div>
-      </div>
+        <div class="features">
+          ${item.area_construida ? `<span class="feature">${number(item.area_construida)} m² construídos</span>` : ""}
+          ${item.area_terreno ? `<span class="feature">${number(item.area_terreno)} m² terreno</span>` : ""}
+          ${item.quartos ? `<span class="feature">${number(item.quartos)} quartos</span>` : ""}
+          ${item.vagas ? `<span class="feature">${number(item.vagas)} vagas</span>` : ""}
+        </div>
 
-      <div class="features">
-        ${item.area_construida ? `<span class="feature">${number(item.area_construida)} m² construídos</span>` : ""}
-        ${item.area_terreno ? `<span class="feature">${number(item.area_terreno)} m² terreno</span>` : ""}
-        ${item.quartos ? `<span class="feature">${number(item.quartos)} quartos</span>` : ""}
-        ${item.vagas ? `<span class="feature">${number(item.vagas)} vagas</span>` : ""}
-      </div>
+        <div class="badges">
+          ${item.novo ? `<span class="badge new">Novo anúncio</span>` : ""}
+          ${item.preco_reduzido ? `<span class="badge down">Preço reduzido</span>` : ""}
+          ${item.mercado === "leilao" ? `<span class="badge auction">${escapeHtml(item.modalidade_leilao || "Leilão")}</span>` : ""}
+          ${item.ocupado ? `<span class="badge auction">Ocupado</span>` : ""}
+        </div>
 
-      <div class="badges">
-        ${item.novo ? `<span class="badge new">Novo anúncio</span>` : ""}
-        ${item.preco_reduzido ? `<span class="badge down">Preço reduzido</span>` : ""}
-        ${item.mercado === "leilao" ? `<span class="badge auction">${escapeHtml(item.modalidade_leilao || "Leilão")}</span>` : ""}
-        ${item.ocupado ? `<span class="badge auction">Ocupado</span>` : ""}
-      </div>
+        ${historyHtml(item)}
 
-      ${historyHtml(item)}
-
-      <div class="card-footer">
-        <span class="source">Fonte: ${escapeHtml(item.fonte)} • confiança ${number(item.confianca)}%</span>
-        <button class="favorite ${isFavorite ? "active" : ""}" data-favorite="${escapeHtml(item.id)}">
-          ${isFavorite ? "★ Favorito" : "☆ Favoritar"}
-        </button>
+        <div class="card-footer">
+          <span class="source">Fonte: ${escapeHtml(item.fonte)} • confiança ${number(item.confianca)}%</span>
+          <button class="favorite ${isFavorite ? "active" : ""}" data-favorite="${escapeHtml(item.id)}">
+            ${isFavorite ? "★ Favorito" : "☆ Favoritar"}
+          </button>
+        </div>
       </div>
     </article>
   `;
 }
 
 function renderCards() {
-  $("cards").innerHTML = state.visible.length
-    ? state.visible.map(cardHtml).join("")
-    : `<div class="empty">Nenhum imóvel encontrado com esses filtros.</div>`;
-
+  $("cards").innerHTML = state.visible.length ? state.visible.map(cardHtml).join("") : `<div class="empty">Nenhum imóvel encontrado com esses filtros.</div>`;
   document.querySelectorAll("[data-favorite]").forEach(button => {
     button.addEventListener("click", () => toggleFavorite(button.dataset.favorite));
   });
 }
 
 function markerColor(item) {
-  if (item.mercado === "leilao") return "#e59741";
-  if (item.nota_oportunidade >= 85) return "#3eaf7c";
+  if (item.mercado === "leilao") return "#d68a2c";
+  if (item.nota_oportunidade >= 85) return "#2f9f71";
   return "#4f8fd8";
 }
 
@@ -236,9 +245,15 @@ function clearFilters() {
   applyFilters();
 }
 
-document.querySelectorAll(".tab").forEach(tab => {
+function toggleFilters() {
+  state.filtersCollapsed = !state.filtersCollapsed;
+  $("filtersBody").classList.toggle('collapsed', state.filtersCollapsed);
+  $("toggleFilters").textContent = state.filtersCollapsed ? 'Expandir' : 'Recolher';
+}
+
+document.querySelectorAll(".nav-chip").forEach(tab => {
   tab.addEventListener("click", () => {
-    document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+    document.querySelectorAll(".nav-chip").forEach(x => x.classList.remove("active"));
     tab.classList.add("active");
     state.market = tab.dataset.market;
     applyFilters();
@@ -249,6 +264,7 @@ document.querySelectorAll(".tab").forEach(tab => {
   $(id).addEventListener(id === "maxPrice" || id === "minArea" ? "input" : "change", applyFilters);
 });
 $("clearFilters").addEventListener("click", clearFilters);
+$("toggleFilters").addEventListener("click", toggleFilters);
 
 window.addEventListener("beforeinstallprompt", event => {
   event.preventDefault();

@@ -3,8 +3,8 @@
   "short_name": "Radar Patos",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#06111d",
-  "theme_color": "#071827",
+  "background_color": "#f5f1e8",
+  "theme_color": "#f5f1e8",
   "description": "Radar de imóveis e leilões de Patos de Minas.",
   "icons": [
     {

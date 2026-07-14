@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#071827">
+  <meta name="theme-color" content="#f5f1e8">
   <meta name="description" content="Radar de imóveis e leilões de Patos de Minas.">
   <title>Radar Imobiliário Patos</title>
   <link rel="manifest" href="manifest.webmanifest">
@@ -13,132 +13,125 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="topbar">
-    <div class="brand">
-      <div class="brand-mark">R</div>
-      <div>
-        <h1>Radar Imobiliário Patos</h1>
-        <p id="lastUpdate">Carregando dados...</p>
-      </div>
-    </div>
-    <div class="header-actions">
-      <span class="demo-badge">DADOS DE DEMONSTRAÇÃO</span>
-      <button id="installBtn" class="ghost" hidden>Instalar</button>
-    </div>
-  </header>
-
-  <nav class="tabs" aria-label="Categoria de mercado">
-    <button class="tab active" data-market="tradicional">Mercado tradicional</button>
-    <button class="tab" data-market="leilao">Leilões</button>
-    <button class="tab" data-market="favoritos">Favoritos</button>
-  </nav>
-
-  <section class="hero">
-    <div>
-      <span class="eyebrow">PATOS DE MINAS • MG</span>
-      <h2 id="heroTitle">Oportunidades do mercado tradicional</h2>
-      <p>Filtros, mapa, histórico de preços e classificação separada entre venda comum e leilão.</p>
-    </div>
-    <div class="hero-score">
-      <span>Melhor nota visível</span>
-      <strong id="bestScore">—</strong>
-    </div>
-  </section>
-
-  <section class="filters" aria-label="Filtros">
-    <label>
-      <span>Bairro</span>
-      <select id="bairro"><option value="">Todos</option></select>
-    </label>
-    <label>
-      <span>Tipo</span>
-      <select id="tipo"><option value="">Todos</option></select>
-    </label>
-    <label>
-      <span>Destaque</span>
-      <select id="destaque">
-        <option value="">Todos</option>
-        <option value="oportunidade">Oportunidades</option>
-        <option value="novo">Novos anúncios</option>
-        <option value="reduzido">Preço reduzido</option>
-      </select>
-    </label>
-    <label>
-      <span>Preço máximo</span>
-      <input id="maxPrice" type="number" inputmode="numeric" placeholder="Ex.: 900000">
-    </label>
-    <label>
-      <span>Área mínima</span>
-      <input id="minArea" type="number" inputmode="numeric" placeholder="Ex.: 180">
-    </label>
-    <label>
-      <span>Ordenar</span>
-      <select id="order">
-        <option value="score">Melhor nota</option>
-        <option value="newest">Mais recentes</option>
-        <option value="priceAsc">Menor preço</option>
-        <option value="priceDesc">Maior preço</option>
-      </select>
-    </label>
-    <button id="clearFilters" class="clear">Limpar</button>
-  </section>
-
-  <section class="kpis">
-    <article>
-      <span>Imóveis ativos</span>
-      <strong id="kpiTotal">0</strong>
-    </article>
-    <article>
-      <span>Novos</span>
-      <strong id="kpiNew">0</strong>
-    </article>
-    <article>
-      <span>Reduções</span>
-      <strong id="kpiReduced">0</strong>
-    </article>
-    <article>
-      <span>Oportunidades</span>
-      <strong id="kpiOpp">0</strong>
-    </article>
-    <article>
-      <span>Mediana R$/m²</span>
-      <strong id="kpiM2">—</strong>
-    </article>
-  </section>
-
-  <main class="layout">
-    <section class="map-panel">
-      <div class="panel-title">
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="logo-block">
+        <div class="logo-mark">R</div>
         <div>
-          <span class="eyebrow">LOCALIZAÇÃO</span>
-          <h3>Mapa dos imóveis</h3>
+          <h1>Radar Imobiliário Patos</h1>
+          <p>Patos de Minas • MG</p>
         </div>
-        <span id="mapCount" class="count-pill">0 pontos</span>
       </div>
-      <div id="map" aria-label="Mapa dos imóveis"></div>
-      <p class="map-note">Os pontos de demonstração são aproximados e não representam endereços reais.</p>
-    </section>
 
-    <section class="list-panel">
-      <div class="panel-title">
+      <nav class="side-nav">
+        <button class="nav-chip active" data-market="tradicional">Mercado tradicional</button>
+        <button class="nav-chip" data-market="leilao">Leilões</button>
+        <button class="nav-chip" data-market="favoritos">Favoritos</button>
+      </nav>
+
+      <section class="sidebar-card compact">
+        <span class="small-label">STATUS</span>
+        <strong class="gold">Dados de demonstração</strong>
+        <p id="lastUpdate">Carregando...</p>
+      </section>
+
+      <section class="sidebar-card compact">
+        <span class="small-label">VISÃO RÁPIDA</span>
+        <div class="mini-kpis">
+          <div><span>Ativos</span><strong id="kpiTotal">0</strong></div>
+          <div><span>Novos</span><strong id="kpiNew">0</strong></div>
+          <div><span>Reduções</span><strong id="kpiReduced">0</strong></div>
+          <div><span>Oportunidades</span><strong id="kpiOpp">0</strong></div>
+        </div>
+      </section>
+
+      <section class="sidebar-card compact">
+        <span class="small-label">REGRA ESTRUTURAL</span>
+        <p>Leilões, alienações, direitos e frações ideais nunca entram nas médias do mercado tradicional.</p>
+      </section>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
         <div>
-          <span class="eyebrow">RESULTADOS</span>
-          <h3 id="resultTitle">Imóveis encontrados</h3>
+          <span class="small-label">PLATAFORMA IMOBILIÁRIA</span>
+          <h2 id="heroTitle">Painel do mercado tradicional</h2>
+          <p class="subtitle">Mapa, cards visuais, indicadores e filtros em uma interface mais limpa e profissional.</p>
         </div>
-        <span id="resultCount" class="count-pill">0</span>
-      </div>
-      <div id="cards" class="cards"></div>
-    </section>
-  </main>
+        <div class="top-actions">
+          <div class="best-score-card">
+            <span>Melhor nota visível</span>
+            <strong id="bestScore">—</strong>
+          </div>
+          <button id="installBtn" class="secondary" hidden>Instalar</button>
+        </div>
+      </header>
 
-  <section class="rules">
-    <strong>Regra estrutural:</strong>
-    leilões, alienações, direitos, frações ideais e imóveis bancários não entram nas médias do mercado tradicional.
-  </section>
+      <section class="filters-panel">
+        <div class="panel-head">
+          <div>
+            <span class="small-label">FILTROS</span>
+            <h3>Refinar pesquisa</h3>
+          </div>
+          <button id="toggleFilters" class="secondary small">Recolher</button>
+        </div>
+        <div id="filtersBody" class="filters-grid">
+          <label><span>Bairro</span><select id="bairro"><option value="">Todos</option></select></label>
+          <label><span>Tipo</span><select id="tipo"><option value="">Todos</option></select></label>
+          <label><span>Destaque</span><select id="destaque"><option value="">Todos</option><option value="oportunidade">Oportunidades</option><option value="novo">Novos anúncios</option><option value="reduzido">Preço reduzido</option></select></label>
+          <label><span>Preço máximo</span><input id="maxPrice" type="number" inputmode="numeric" placeholder="Ex.: 900000"></label>
+          <label><span>Área mínima</span><input id="minArea" type="number" inputmode="numeric" placeholder="Ex.: 180"></label>
+          <label><span>Ordenar</span><select id="order"><option value="score">Melhor nota</option><option value="newest">Mais recentes</option><option value="priceAsc">Menor preço</option><option value="priceDesc">Maior preço</option></select></label>
+          <button id="clearFilters" class="clear">Limpar</button>
+        </div>
+      </section>
 
-  <footer>
-    Radar Imobiliário Patos • versão inicial para validação da interface
-  </footer>
+      <section class="analytics-grid">
+        <article class="metric-card big">
+          <span>Mediana R$/m²</span>
+          <strong id="kpiM2">—</strong>
+          <p>Referência do grupo visível, sempre separando mercado tradicional e leilões.</p>
+        </article>
+        <article class="metric-card">
+          <span>Novos anúncios</span>
+          <strong id="metricNew">0</strong>
+        </article>
+        <article class="metric-card">
+          <span>Quedas de preço</span>
+          <strong id="metricReduced">0</strong>
+        </article>
+        <article class="metric-card">
+          <span>Oportunidades</span>
+          <strong id="metricOpp">0</strong>
+        </article>
+      </section>
+
+      <section class="content-grid">
+        <section class="panel map-panel">
+          <div class="panel-head">
+            <div>
+              <span class="small-label">LOCALIZAÇÃO</span>
+              <h3>Mapa dos imóveis</h3>
+            </div>
+            <span id="mapCount" class="pill">0 pontos</span>
+          </div>
+          <div id="map"></div>
+          <p class="footnote">Os pontos de demonstração são aproximados e não representam endereços reais.</p>
+        </section>
+
+        <section class="panel results-panel">
+          <div class="panel-head">
+            <div>
+              <span class="small-label">RESULTADOS</span>
+              <h3 id="resultTitle">Imóveis encontrados</h3>
+            </div>
+            <span id="resultCount" class="pill">0</span>
+          </div>
+          <div id="cards" class="cards"></div>
+        </section>
+      </section>
+    </main>
+  </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="app.js"></script>

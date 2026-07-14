@@ -31,3 +31,12 @@ Depois de enviar os arquivos ao GitHub:
 3. Em `Build and deployment`, escolha `Deploy from a branch`
 4. Selecione `main` e a pasta `/ (root)`
 5. Clique em `Save`
+
+
+## Atualização visual 1.1
+
+- layout premium mais claro
+- painel lateral fixo
+- cards mais visuais
+- filtros recolhíveis
+- visual híbrido B + C (imobiliário premium + dashboard analítico)
