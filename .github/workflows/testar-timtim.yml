@@ -13,7 +13,7 @@ concurrency:
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 35
 
     steps:
       - name: Baixar repositório
@@ -31,17 +31,20 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: Executar coleta experimental
+      - name: Executar coleta TIMTIM
         run: python scripts/coletar_timtim.py
+
+      - name: Classificar, excluir e consolidar a base
+        run: python scripts/processar_base.py --ingest-current-as timtim
 
       - name: Salvar resultado no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/imoveis.json data/meta.json
+          git add data/imoveis.json data/meta.json data/excluidos.json data/fontes/
           if git diff --cached --quiet; then
             echo "Nenhuma alteração de dados para salvar."
           else
-            git commit -m "Atualiza dados reais do TIMTIM"
+            git commit -m "Atualiza e processa base imobiliária"
             git push
           fi
