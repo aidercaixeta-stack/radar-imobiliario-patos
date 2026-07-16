@@ -4857,6 +4857,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2437646",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 92.037,34 R$ 177.500,00 48% Apartamento Caixa em Araraquara / SP - 2437646 AV PROF GUSTAVO FLEURY CHARMIL,N. 604 APTO. 32 BL A TORRE 2, JARDIM RESIDENCIAL PARAISO - CEP: 14804-012, ARARAQUARA - SAO PAULO Encerra em: 1",
+    "bairro": "Não identificado",
+    "cidade": "Araraquara",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 92037,
+    "valor_avaliacao": 177500,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/araraquara/residencial-vitta-ipe-rosa-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2437646-8787703198550-venda-direta-caixa",
+    "descricao": "R$ 92.037,34 R$ 177.500,00 48% Apartamento Caixa em Araraquara / SP - 2437646 AV PROF GUSTAVO FLEURY CHARMIL,N. 604 APTO. 32 BL A TORRE 2, JARDIM RESIDENCIAL PARAISO - CEP: 14804-012, ARARAQUARA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:20.958334-03:00",
+    "ultima_captura": "2026-07-16T16:56:20.958334-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 92037
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2533235",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -4919,6 +4951,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2672660",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 135.326,01 R$ 215.000,00 37% Casa Caixa em Itapira / SP - 2672660 RUA 08,N. SN QD A LT 02, LOTEAMENTO JOSE BORSATO (BARAO ATAL - CEP: 13986-120, ITAPIRA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Itapira",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 135326,
+    "valor_avaliacao": 215000,
+    "desconto_percentual": 37,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/itapira/residencial-loteamento-jose-borsato-barao-atal-imovel-caixa-economica-federal-cef-2672660-8030858383522-venda-direta-caixa",
+    "descricao": "R$ 135.326,01 R$ 215.000,00 37% Casa Caixa em Itapira / SP - 2672660 RUA 08,N. SN QD A LT 02, LOTEAMENTO JOSE BORSATO (BARAO ATAL - CEP: 13986-120, ITAPIRA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.593662-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.593662-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 135326
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2380349",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.013,70 R$ 160.000,00 46% Apartamento Caixa em Jaboticabal / SP - 2380349 AV CARLOS BERCHIERI,N. 2338 APTO. 13 TORRE 4, BL C, SOROCABANO - CEP: 14871-000, JABOTICABAL - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Jaboticabal",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 86013,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/jaboticabal/residencial-cond-vitta-jardim-das-rosas-2-quartos-1-vaga-na-garagem-area-de-servico-w-imovel-caixa-economica-federal-cef-2380349-8787709443840-venda-direta-caixa",
+    "descricao": "R$ 86.013,70 R$ 160.000,00 46% Apartamento Caixa em Jaboticabal / SP - 2380349 AV CARLOS BERCHIERI,N. 2338 APTO. 13 TORRE 4, BL C, SOROCABANO - CEP: 14871-000, JABOTICABAL - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.506434-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.506434-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 86013
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2533333",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -4946,6 +5042,38 @@
       {
         "data": "2026-07-15",
         "preco": 88000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2300162",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 103.465,80 R$ 199.000,00 48% Casa Caixa em Mongaguá / SP - 2300162 RUA AMAZONAS,N. 32 CS 10 LT 09, PARQUE DAS OLIVEIRAS - CEP: 11730-000, MONGAGUA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Mongaguá",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 103465,
+    "valor_avaliacao": 199000,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/mongagua/residencial-conjunto-residencial-parque-das-oliveiras-quarto-1-vaga-na-garagem-area-de-imovel-caixa-economica-federal-cef-2300162-8444430913649-venda-direta-caixa",
+    "descricao": "R$ 103.465,80 R$ 199.000,00 48% Casa Caixa em Mongaguá / SP - 2300162 RUA AMAZONAS,N. 32 CS 10 LT 09, PARQUE DAS OLIVEIRAS - CEP: 11730-000, MONGAGUA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.398087-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.398087-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 103465
       }
     ]
   },
@@ -5012,6 +5140,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2345523",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.937,68 R$ 168.000,00 48% Casa Caixa em Ouro Verde / SP - 2345523 RUA IGUAÇU,N. 571 LT 03 QD 130, NOVA ESPERANCA - CEP: 17920-000, OURO VERDE - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Ouro Verde",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 87937,
+    "valor_avaliacao": 168000,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ouro-verde/residencial-nova-esperanca-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2345523-8444420137310-venda-direta-caixa",
+    "descricao": "R$ 87.937,68 R$ 168.000,00 48% Casa Caixa em Ouro Verde / SP - 2345523 RUA IGUAÇU,N. 571 LT 03 QD 130, NOVA ESPERANCA - CEP: 17920-000, OURO VERDE - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:22.075065-03:00",
+    "ultima_captura": "2026-07-16T16:56:22.075065-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87937
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2555999",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5074,6 +5234,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2302873",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 81.486,66 R$ 160.000,00 49% Apartamento Caixa em Ribeirão Preto / SP - 2302873 ESTRADA MUNICIPAL - RPR 432,N. 100 APTO. 24 2 PAV TORRE 6 VERONA, RECANTO DAS PALMEIRAS - CEP: 14000-000, RIBEIRAO PRETO - SAO PAULO Encer",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 81486,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-lar-italia-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2302873-8555538503613-venda-direta-caixa",
+    "descricao": "R$ 81.486,66 R$ 160.000,00 49% Apartamento Caixa em Ribeirão Preto / SP - 2302873 ESTRADA MUNICIPAL - RPR 432,N. 100 APTO. 24 2 PAV TORRE 6 VERONA, RECANTO DAS PALMEIRAS - CEP: 14000-000, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.147850-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.147850-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 81486
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2326181",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 98.786,44 R$ 190.000,00 48% Apartamento Caixa em Ribeirão Preto / SP - 2326181 RUA JOSE DE ALCANTARA,N. 1075 APTO. 01 TORRE 02 BL B, JARDIM HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 98786,
+    "valor_avaliacao": 190000,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-heitor-rigon-1-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2326181-8555539130314-venda-direta-caixa",
+    "descricao": "R$ 98.786,44 R$ 190.000,00 48% Apartamento Caixa em Ribeirão Preto / SP - 2326181 RUA JOSE DE ALCANTARA,N. 1075 APTO. 01 TORRE 02 BL B, JARDIM HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:22.702358-03:00",
+    "ultima_captura": "2026-07-16T16:56:22.702358-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 98786
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2520859",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5131,6 +5355,70 @@
     "historico_precos": [
       {
         "data": "2026-07-15",
+        "preco": 90933
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2435052",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 88.000,29 R$ 165.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2435052 AVENIDA GOVERNADOR MARIO COVAS,N. 7555 APTO. 33 BL C TORRE 5, VALENTINA FIGUEIREDO - CEP: 14061-800, RIBEIRAO PRETO - SAO PAULO Encerra em",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 88000,
+    "valor_avaliacao": 165000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-parque-dos-lirios-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2435052-8787711210105-venda-direta-caixa",
+    "descricao": "R$ 88.000,29 R$ 165.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2435052 AVENIDA GOVERNADOR MARIO COVAS,N. 7555 APTO. 33 BL C TORRE 5, VALENTINA FIGUEIREDO - CEP: 14061-800, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.298317-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.298317-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 88000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2423548",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 90.933,64 R$ 170.500,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2423548 RUA TITO BONAGAMBA,N. 350 APTO. 13 BL C TORRE 1, VALENTINA FIGUEIREDO - CEP: 14061-660, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 90933,
+    "valor_avaliacao": 170500,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-valentina-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2423548-8787702959239-venda-direta-caixa",
+    "descricao": "R$ 90.933,64 R$ 170.500,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2423548 RUA TITO BONAGAMBA,N. 350 APTO. 13 BL C TORRE 1, VALENTINA FIGUEIREDO - CEP: 14061-660, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.439340-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.439340-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
         "preco": 90933
       }
     ]
@@ -5229,6 +5517,166 @@
     ]
   },
   {
+    "id": "leilaoimovel-2431257",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.074,56 R$ 195.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2431257 RUA MARIA AUXILIA ABRANCHES FARIA,N. 565 APTO. 24 BL B TORRE 1, VILA ABRANCHES - CEP: 14093-150, RIBEIRAO PRETO - SAO PAULO Encerra em: 1",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 106074,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-toplife-orlando-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2431257-8787708806876-venda-direta-caixa",
+    "descricao": "R$ 106.074,56 R$ 195.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2431257 RUA MARIA AUXILIA ABRANCHES FARIA,N. 565 APTO. 24 BL B TORRE 1, VILA ABRANCHES - CEP: 14093-150, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.377182-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.377182-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 106074
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2371087",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.013,70 R$ 160.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2371087 RUA MARIA AUXILIA ABRANCHES FARIA,N. 565 APTO. 13 BL F TORRE 03, VILA ABRANCHES - CEP: 14093-150, RIBEIRAO PRETO - SAO PAULO Encerra em: 1",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 86013,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-toplife-orlando-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-coz-imovel-caixa-economica-federal-cef-2371087-8787708108567-venda-direta-caixa",
+    "descricao": "R$ 86.013,70 R$ 160.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2371087 RUA MARIA AUXILIA ABRANCHES FARIA,N. 565 APTO. 13 BL F TORRE 03, VILA ABRANCHES - CEP: 14093-150, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.568690-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.568690-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 86013
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2594314",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 94.015,13 R$ 167.000,00 44% Apartamento Caixa em Ribeirão Preto / SP - 2594314 RUA ANTONIO ROSSANESE,N. 220 APTO. 203 BL 2, 2º PAV, VG 22, CHACARAS BONACORSI - CEP: 14061-306, RIBEIRAO PRETO - SAO PAULO Encerra em: 17",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 94015,
+    "valor_avaliacao": 167000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-chacaras-bonacorsi-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2594314-8787715671514-venda-direta-caixa",
+    "descricao": "R$ 94.015,13 R$ 167.000,00 44% Apartamento Caixa em Ribeirão Preto / SP - 2594314 RUA ANTONIO ROSSANESE,N. 220 APTO. 203 BL 2, 2º PAV, VG 22, CHACARAS BONACORSI - CEP: 14061-306, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.799529-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.799529-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 94015
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2646966",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Santa Bárbara D'Oeste / SP - 2646966 RUA ALECIO BIONDI,N. 345 APTO. 104 BL 01, RECREIO ALVORADA - CEP: 13458-455, SANTA BARBARA D'OESTE - SAO PAULO Encerra em: 16/07/2",
+    "bairro": "Não identificado",
+    "cidade": "Santa Bárbara D'Oeste",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/santa-barbara-d-oeste/residencial-cond-resid-conquista-nature-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2646966-8787715186756-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Santa Bárbara D'Oeste / SP - 2646966 RUA ALECIO BIONDI,N. 345 APTO. 104 BL 01, RECREIO ALVORADA - CEP: 13458-455, SANTA BARBARA D'OESTE - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.694705-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.694705-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 120882
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2435096",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 101.178,81 R$ 186.000,00 46% Apartamento Caixa em Sertãozinho / SP - 2435096 RUA ANTONIO MILAN,N. 314 APTO. SN PAV TERREO VG 04, JARDIM SANTA BARBARA - CEP: 14165-486, SERTAOZINHO - SAO PAULO Encerra em: 17/07/2026 18",
+    "bairro": "Não identificado",
+    "cidade": "Sertãozinho",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 101178,
+    "valor_avaliacao": 186000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sertaozinho/residencial-cond-res-multifamiliar-copaiba-2-quartos-1-vaga-na-garagem-wc-sala-cozin-imovel-caixa-economica-federal-cef-2435096-8444427174121-venda-direta-caixa",
+    "descricao": "R$ 101.178,81 R$ 186.000,00 46% Apartamento Caixa em Sertãozinho / SP - 2435096 RUA ANTONIO MILAN,N. 314 APTO. SN PAV TERREO VG 04, JARDIM SANTA BARBARA - CEP: 14165-486, SERTAOZINHO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:21.217690-03:00",
+    "ultima_captura": "2026-07-16T16:56:21.217690-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 101178
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2636128",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5322,6 +5770,134 @@
     ]
   },
   {
+    "id": "leilaoimovel-2555901",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 115.412,75 R$ 201.000,00 43% Apartamento Caixa em São Paulo / SP - 2555901 RUA AURORA DO TOCANTINS,N. 311 APTO. 14 TORRE 02, JARDIM DA LARANJEIRA (ZONA LESTE) - CEP: 08381-172, SAO PAULO - SAO PAULO Encerra em: 17/07/",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 115412,
+    "valor_avaliacao": 201000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-jardim-da-laranjeira-zona-leste-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2555901-8787709391360-venda-direta-caixa",
+    "descricao": "R$ 115.412,75 R$ 201.000,00 43% Apartamento Caixa em São Paulo / SP - 2555901 RUA AURORA DO TOCANTINS,N. 311 APTO. 14 TORRE 02, JARDIM DA LARANJEIRA (ZONA LESTE) - CEP: 08381-172, SAO PAULO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.849161-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.849161-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 115412
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726165",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 137.450,23 R$ 227.410,92 40% Apartamento Caixa em São Paulo / SP - 2726165 AVENIDA DOUTOR JOSE MANIERO,N. 85 APTO. 23 T 14, VILA NOVA PARADA - CEP: 02997-200, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 137450,
+    "valor_avaliacao": 227410,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-cond-res-meu-lar-cantareira-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2726165-8787703473488-venda-direta-caixa",
+    "descricao": "R$ 137.450,23 R$ 227.410,92 40% Apartamento Caixa em São Paulo / SP - 2726165 AVENIDA DOUTOR JOSE MANIERO,N. 85 APTO. 23 T 14, VILA NOVA PARADA - CEP: 02997-200, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.469840-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.469840-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 137450
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2681809",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 135.993,04 R$ 225.000,00 40% Apartamento Caixa em São Paulo / SP - 2681809 RUA HIROVO KAMINOBO,N. 980 APTO. 72 BL 03, COLONIA (ZONA LESTE) - CEP: 08260-160, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 135993,
+    "valor_avaliacao": 225000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-flor-de-cerejeira-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2681809-8787713296643-venda-direta-caixa",
+    "descricao": "R$ 135.993,04 R$ 225.000,00 40% Apartamento Caixa em São Paulo / SP - 2681809 RUA HIROVO KAMINOBO,N. 980 APTO. 72 BL 03, COLONIA (ZONA LESTE) - CEP: 08260-160, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.530979-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.530979-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 135993
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2636187",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em São Paulo / SP - 2636187 RUA ACOMAYO,N. 180 APTO. 44 BL 02, 29 SUBDIST STO AMARO - CEP: 05886-010, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-residencial-monte-azul-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2636187-8555536409393-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em São Paulo / SP - 2636187 RUA ACOMAYO,N. 180 APTO. 44 BL 02, 29 SUBDIST STO AMARO - CEP: 05886-010, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.749137-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.749137-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 120882
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2593352",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5380,6 +5956,38 @@
       {
         "data": "2026-07-15",
         "preco": 810727
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2664977",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 522.597,73 R$ 820.000,00 36% Terreno Caixa em Vargem Grande Paulista / SP - 2664977 RUA SANTA BARBARA,N. SN LOTE 08 QUADRA AK, TIJUCO PRETO - CEP: 06742-128, VARGEM GRANDE PAULISTA - SAO PAULO Encerra em: 16/07/2026 1",
+    "bairro": "Não identificado",
+    "cidade": "Vargem Grande Paulista",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 522597,
+    "valor_avaliacao": 820000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/vargem-grande-paulista/terreno-tijuco-preto-imovel-caixa-economica-federal-cef-2664977-1444407011881-venda-direta-caixa",
+    "descricao": "R$ 522.597,73 R$ 820.000,00 36% Terreno Caixa em Vargem Grande Paulista / SP - 2664977 RUA SANTA BARBARA,N. SN LOTE 08 QUADRA AK, TIJUCO PRETO - CEP: 06742-128, VARGEM GRANDE PAULISTA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T16:56:23.645095-03:00",
+    "ultima_captura": "2026-07-16T16:56:23.645095-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 522597
       }
     ]
   },
