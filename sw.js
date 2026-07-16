@@ -1,13 +1,17 @@
-
-const CACHE = "radar-patos-v1";
+const CACHE = "radar-patos-v15";
 const ASSETS = [
   "./",
   "index.html",
   "styles.css",
+  "v14.css",
+  "v15.css",
   "app.js",
+  "interactions-v14.js",
   "manifest.webmanifest",
   "data/imoveis.json",
   "data/meta.json",
+  "data/fontes/leilaoimovel_index.json",
+  "data/fontes/leilaoimovel_meta.json",
   "assets/icon-192.png",
   "assets/icon-512.png"
 ];
