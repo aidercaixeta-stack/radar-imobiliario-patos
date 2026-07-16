@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="v14.css">
+  <link rel="stylesheet" href="v15.css">
 </head>
 <body>
   <div class="shell">
@@ -32,7 +33,7 @@
 
       <section class="sidebar-card compact">
         <span class="small-label">STATUS</span>
-        <strong class="gold">Dados de demonstração</strong>
+        <strong id="dataStatus" class="gold">Carregando base...</strong>
         <p id="lastUpdate">Carregando...</p>
       </section>
 
@@ -40,8 +41,8 @@
         <span class="small-label">VISÃO RÁPIDA</span>
         <div class="mini-kpis">
           <div><span>Ativos</span><strong id="kpiTotal">0</strong></div>
-          <div><span>Novos</span><strong id="kpiNew">0</strong></div>
-          <div><span>Reduções</span><strong id="kpiReduced">0</strong></div>
+          <div><span>Novos/ativos</span><strong id="kpiNew">0</strong></div>
+          <div><span>Reduções/prazo</span><strong id="kpiReduced">0</strong></div>
           <div><span>Oportunidades</span><strong id="kpiOpp">0</strong></div>
         </div>
       </section>
@@ -57,11 +58,11 @@
         <div>
           <span class="small-label">PLATAFORMA IMOBILIÁRIA</span>
           <h2 id="heroTitle">Painel do mercado tradicional</h2>
-          <p class="subtitle">Mapa, cards visuais, indicadores e filtros em uma interface mais limpa e profissional.</p>
+          <p id="heroSubtitle" class="subtitle">Mapa, cards visuais, indicadores e filtros em uma interface mais limpa e profissional.</p>
         </div>
         <div class="top-actions">
           <div class="best-score-card">
-            <span>Melhor nota visível</span>
+            <span id="bestScoreLabel">Melhor nota visível</span>
             <strong id="bestScore">—</strong>
           </div>
           <button id="installBtn" class="secondary" hidden>Instalar</button>
@@ -77,32 +78,35 @@
           <button id="toggleFilters" class="secondary small">Recolher</button>
         </div>
         <div id="filtersBody" class="filters-grid">
-          <label><span>Bairro</span><select id="bairro"><option value="">Todos</option></select></label>
+          <label><span>UF</span><select id="uf"><option value="">Todos</option></select></label>
+          <label><span>Cidade</span><select id="cidade"><option value="">Todas</option></select></label>
+          <label id="bairroLabel"><span>Bairro</span><select id="bairro"><option value="">Todos</option></select></label>
           <label><span>Tipo</span><select id="tipo"><option value="">Todos</option></select></label>
           <label><span>Destaque</span><select id="destaque"><option value="">Todos</option><option value="oportunidade">Oportunidades</option><option value="novo">Novos anúncios</option><option value="reduzido">Preço reduzido</option></select></label>
+          <label id="auctionSituationLabel" hidden><span>Situação do leilão</span><select id="situacao"><option value="ativos">Somente ativos</option><option value="todos">Todos</option><option value="encerrados">Encerrados</option></select></label>
           <label><span>Preço máximo</span><input id="maxPrice" type="number" inputmode="numeric" placeholder="Ex.: 900000"></label>
-          <label><span>Área mínima</span><input id="minArea" type="number" inputmode="numeric" placeholder="Ex.: 180"></label>
-          <label><span>Ordenar</span><select id="order"><option value="score">Melhor nota</option><option value="newest">Mais recentes</option><option value="priceAsc">Menor preço</option><option value="priceDesc">Maior preço</option></select></label>
+          <label id="minAreaLabel"><span>Área mínima</span><input id="minArea" type="number" inputmode="numeric" placeholder="Ex.: 180"></label>
+          <label><span>Ordenar</span><select id="order"><option value="score">Melhor indicador</option><option value="ending">Encerramento mais próximo</option><option value="newest">Mais recentes</option><option value="priceAsc">Menor preço</option><option value="priceDesc">Maior preço</option></select></label>
           <button id="clearFilters" class="clear">Limpar</button>
         </div>
       </section>
 
       <section class="analytics-grid">
         <article class="metric-card big">
-          <span>Mediana R$/m²</span>
+          <span id="mainMetricLabel">Mediana R$/m²</span>
           <strong id="kpiM2">—</strong>
-          <p>Referência do grupo visível, sempre separando mercado tradicional e leilões.</p>
+          <p id="mainMetricHelp">Referência do grupo visível, sempre separando mercado tradicional e leilões.</p>
         </article>
         <article class="metric-card">
-          <span>Novos anúncios</span>
+          <span id="metricNewLabel">Novos anúncios</span>
           <strong id="metricNew">0</strong>
         </article>
         <article class="metric-card">
-          <span>Quedas de preço</span>
+          <span id="metricReducedLabel">Quedas de preço</span>
           <strong id="metricReduced">0</strong>
         </article>
         <article class="metric-card">
-          <span>Oportunidades</span>
+          <span id="metricOppLabel">Oportunidades</span>
           <strong id="metricOpp">0</strong>
         </article>
       </section>
