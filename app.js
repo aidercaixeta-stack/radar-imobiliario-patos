@@ -114,6 +114,28 @@ async function loadAuctionData() {
   return fetchOptional("data/fontes/leilaoimovel.json", []);
 }
 
+function updateStatusPanel() {
+  const dates = [state.meta.updated_at, state.auctionMeta.updated_at]
+    .map(parseDate).filter(Boolean).sort((a,b) => b-a);
+  const updatedText = dates.length
+    ? `Atualizado em ${dates[0].toLocaleString("pt-BR")}`
+    : "Base inicial carregada";
+
+  if (state.market === "leilao") {
+    const allAuctions = state.all.filter(x => x.mercado === "leilao");
+    const activeAuctions = allAuctions.filter(x => !auctionIsClosed(x)).length;
+    const sourceTotal = Number(state.auctionMeta.records || 0);
+    const stateCount = state.auctionMeta.states
+      ? Object.keys(state.auctionMeta.states).filter(Boolean).length
+      : new Set(allAuctions.map(x => x.uf).filter(Boolean)).size;
+    $("dataStatus").textContent = `Base parcial: ${number(allAuctions.length)} leilões cadastrados`;
+    $("lastUpdate").textContent = `${updatedText} • ${number(activeAuctions)} ativos agora • fonte nacional: ${number(sourceTotal)} em ${number(stateCount)} UFs`;
+  } else {
+    $("dataStatus").textContent = "Dados reais multifuente";
+    $("lastUpdate").textContent = updatedText;
+  }
+}
+
 async function loadData() {
   try {
     const [base, auctions, meta, auctionMeta] = await Promise.all([
@@ -133,13 +155,6 @@ async function loadData() {
     });
     state.meta = meta;
     state.auctionMeta = auctionMeta;
-
-    const dates = [meta.updated_at, auctionMeta.updated_at]
-      .map(parseDate).filter(Boolean).sort((a,b) => b-a);
-    $("lastUpdate").textContent = dates.length
-      ? `Atualizado em ${dates[0].toLocaleString("pt-BR")}`
-      : "Base inicial carregada";
-    $("dataStatus").textContent = "Dados reais multifuente";
 
     configureMarketUi();
     populateFilters();
@@ -202,7 +217,7 @@ function configureMarketUi() {
   };
   $("heroTitle").textContent = titles[state.market];
   $("heroSubtitle").textContent = isAuction
-    ? "Ofertas de leilão separadas do mercado tradicional, com desconto, encerramento e acesso direto à fonte."
+    ? "Coleta nacional em expansão automática, separada do mercado tradicional, com desconto, encerramento e acesso direto à fonte."
     : "Mapa, cards visuais, indicadores e filtros em uma interface limpa e profissional.";
 
   $("mainMetricLabel").textContent = isAuction ? "Desconto mediano" : "Mediana R$/m²";
@@ -213,6 +228,7 @@ function configureMarketUi() {
   $("metricReducedLabel").textContent = isAuction ? "Encerram em 7 dias" : "Quedas de preço";
   $("metricOppLabel").textContent = isAuction ? "Desconto ≥ 40%" : "Oportunidades";
   $("bestScoreLabel").textContent = isAuction ? "Maior desconto visível" : "Melhor nota visível";
+  updateStatusPanel();
 }
 
 function baseMarketFilter(item) {
@@ -270,7 +286,14 @@ function renderAll() {
   renderKpis();
   renderCards();
   renderMap();
-  $("resultTitle").textContent = state.market === "leilao" ? "Leilões encontrados" : state.market === "favoritos" ? "Favoritos encontrados" : "Imóveis encontrados";
+  if (state.market === "leilao") {
+    const situation = $("situacao").value;
+    $("resultTitle").textContent = situation === "ativos"
+      ? "Leilões ativos encontrados"
+      : situation === "encerrados" ? "Leilões encerrados encontrados" : "Todos os leilões encontrados";
+  } else {
+    $("resultTitle").textContent = state.market === "favoritos" ? "Favoritos encontrados" : "Imóveis encontrados";
+  }
   $("resultCount").textContent = number(state.visible.length);
   if (state.market === "leilao") {
     const maxDiscount = Math.max(0, ...state.visible.map(x => Number(x.desconto_percentual || 0)));
@@ -285,6 +308,8 @@ function renderKpis() {
   const isAuction = state.market === "leilao";
 
   if (isAuction) {
+    const situation = $("situacao").value;
+    $("kpiTotalLabel").textContent = situation === "ativos" ? "Ativos visíveis" : situation === "encerrados" ? "Encerrados visíveis" : "Leilões visíveis";
     const discounts = state.visible.map(x => Number(x.desconto_percentual)).filter(Number.isFinite);
     const active = state.visible.filter(x => !auctionIsClosed(x)).length;
     const ending = state.visible.filter(x => endsWithinDays(x, 7)).length;
@@ -297,6 +322,7 @@ function renderKpis() {
     $("kpiReduced").textContent = number(ending);
     $("kpiOpp").textContent = number(highDiscount);
   } else {
+    $("kpiTotalLabel").textContent = "Imóveis visíveis";
     const valuesM2 = state.visible.map(x => {
       const area = x.area_construida || x.area_terreno;
       return area ? x.preco / area : NaN;
@@ -399,9 +425,12 @@ function cardHtml(item) {
 
         <div class="card-footer">
           <span class="source">Fonte: ${escapeHtml(item.fonte || "Fonte original")}${confidence}</span>
-          <button class="favorite ${isFavorite ? "active" : ""}" data-favorite="${escapeHtml(item.id)}">
-            ${isFavorite ? "★ Favorito" : "☆ Favoritar"}
-          </button>
+          <div class="card-actions">
+            ${item.url_fonte ? `<a class="source-link" href="${escapeHtml(item.url_fonte)}" target="_blank" rel="noopener noreferrer">Abrir na fonte</a>` : ""}
+            <button class="favorite ${isFavorite ? "active" : ""}" data-favorite="${escapeHtml(item.id)}">
+              ${isFavorite ? "★ Favorito" : "☆ Favoritar"}
+            </button>
+          </div>
         </div>
       </div>
     </article>
