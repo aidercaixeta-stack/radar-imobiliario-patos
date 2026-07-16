@@ -608,6 +608,134 @@
     ]
   },
   {
+    "id": "leilaoimovel-2318014",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 63.191,15 R$ 137.000,00 54% Apartamento Caixa em Cidade Ocidental / GO - 2318014 AVENIDA JOAQUIM GILBERTO,N. SN APTO. 102 QD 29A, LT 21, PQ ARAGUARI A - CEP: 72885-286, CIDADE OCIDENTAL - GOIAS Encerra em: 16/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "Cidade Ocidental",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 63191,
+    "valor_avaliacao": 137000,
+    "desconto_percentual": 54,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/cidade-ocidental/residencial-cond-res-village-v-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2318014-8444415560200-venda-direta-caixa",
+    "descricao": "R$ 63.191,15 R$ 137.000,00 54% Apartamento Caixa em Cidade Ocidental / GO - 2318014 AVENIDA JOAQUIM GILBERTO,N. SN APTO. 102 QD 29A, LT 21, PQ ARAGUARI A - CEP: 72885-286, CIDADE OCIDENTAL - GOIAS Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.958413-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.958413-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 63191
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2395254",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 82.103,98 R$ 163.000,00 50% Casa Caixa em Cidade Ocidental / GO - 2395254 RUA RUI BARBOSA,N. SN CS 72, QD 02, LT 03, MANSOES RECREIO MOSSORO - CEP: 72885-600, CIDADE OCIDENTAL - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Cidade Ocidental",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 82103,
+    "valor_avaliacao": 163000,
+    "desconto_percentual": 50,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/cidade-ocidental/residencial-cond-res-trust-enjoy-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2395254-8787715367041-venda-direta-caixa",
+    "descricao": "R$ 82.103,98 R$ 163.000,00 50% Casa Caixa em Cidade Ocidental / GO - 2395254 RUA RUI BARBOSA,N. SN CS 72, QD 02, LT 03, MANSOES RECREIO MOSSORO - CEP: 72885-600, CIDADE OCIDENTAL - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.670218-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.670218-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 82103
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269626",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 96.186,79 R$ 185.000,00 48% Apartamento Caixa em Cidade Ocidental / GO - 2269626 QUADRA 03,N. SN APTO. 1211 BL 12 2º PAV VG 1211 QD 03 LT 20, , MANSOES RECREIO MOSSORO - CEP: 72885-480, CIDADE OCIDENTAL - GOIAS Encerr",
+    "bairro": "Não identificado",
+    "cidade": "Cidade Ocidental",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 96186,
+    "valor_avaliacao": 185000,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/cidade-ocidental/residencial-cond-resd-villa-nova-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2269626-8787717073029-venda-direta-caixa",
+    "descricao": "R$ 96.186,79 R$ 185.000,00 48% Apartamento Caixa em Cidade Ocidental / GO - 2269626 QUADRA 03,N. SN APTO. 1211 BL 12 2º PAV VG 1211 QD 03 LT 20, , MANSOES RECREIO MOSSORO - CEP: 72885-480, CIDADE OCIDENTAL - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.911375-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.911375-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 96186
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269625",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 97.107,07 R$ 186.770,00 48% Apartamento Caixa em Cidade Ocidental / GO - 2269625 RUA OSVALDO CRUZ,N. SN APTO. 1107 BL 11 LT 20 QD 03, , MANSOES RECREIO MOSSORO - CEP: 72885-480, CIDADE OCIDENTAL - GOIAS Encerra em: 17",
+    "bairro": "Não identificado",
+    "cidade": "Cidade Ocidental",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 97107,
+    "valor_avaliacao": 186770,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/cidade-ocidental/residencial-cond-resd-villa-nova-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2269625-8787717152247-venda-direta-caixa",
+    "descricao": "R$ 97.107,07 R$ 186.770,00 48% Apartamento Caixa em Cidade Ocidental / GO - 2269625 RUA OSVALDO CRUZ,N. SN APTO. 1107 BL 11 LT 20 QD 03, , MANSOES RECREIO MOSSORO - CEP: 72885-480, CIDADE OCIDENTAL - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.214277-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.214277-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 97107
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2457390",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -670,6 +798,198 @@
     ]
   },
   {
+    "id": "leilaoimovel-2285629",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 77.945,34 R$ 155.000,00 50% Casa Caixa em Luziânia / GO - 2285629 QUADRA 40,N. SN CS 02 LT 09 RUA 18, PARQUE SOL NASCENTE - CEP: 72855-818, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 77945,
+    "valor_avaliacao": 155000,
+    "desconto_percentual": 50,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-con-minuano-ville-ix-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2285629-8444402262965-venda-direta-caixa",
+    "descricao": "R$ 77.945,34 R$ 155.000,00 50% Casa Caixa em Luziânia / GO - 2285629 QUADRA 40,N. SN CS 02 LT 09 RUA 18, PARQUE SOL NASCENTE - CEP: 72855-818, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.344860-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.344860-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 77945
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2288668",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.190,73 R$ 171.200,00 49% Casa Caixa em Luziânia / GO - 2288668 QUADRA 391,N. SN CASA 02, LOTE 8A, RUA 186, PARQUE ESTRELA DALVA IX - CEP: 72853-391, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 87190,
+    "valor_avaliacao": 171200,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-cond-res-bela-vida-81-2-quartos-1-vaga-na-garagem-2-varandas-sacadas-area-imovel-caixa-economica-federal-cef-2288668-8444426883668-venda-direta-caixa",
+    "descricao": "R$ 87.190,73 R$ 171.200,00 49% Casa Caixa em Luziânia / GO - 2288668 QUADRA 391,N. SN CASA 02, LOTE 8A, RUA 186, PARQUE ESTRELA DALVA IX - CEP: 72853-391, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.125434-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.125434-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87190
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269572",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.088,86 R$ 171.000,00 49% Apartamento Caixa em Luziânia / GO - 2269572 RUA ARAGUAIA,N. S/N APTO. 201 BL 46 GLEBA GA5, , JARDIM FLAMBOYANT - CEP: 72852-565, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 87088,
+    "valor_avaliacao": 171000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-res-grab-acropolis-ii-2-quartos-1-vaga-na-garagem-varanda-sacada-area-de-imovel-caixa-economica-federal-cef-2269572-8787712910399-venda-direta-caixa",
+    "descricao": "R$ 87.088,86 R$ 171.000,00 49% Apartamento Caixa em Luziânia / GO - 2269572 RUA ARAGUAIA,N. S/N APTO. 201 BL 46 GLEBA GA5, , JARDIM FLAMBOYANT - CEP: 72852-565, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.283809-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.283809-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87088
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269556",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 89.126,03 R$ 175.000,00 49% Apartamento Caixa em Luziânia / GO - 2269556 RUA ALEXANDRE POLONIO,N. S/N APTO. 02 LT 29 QD 57, , JARDIM DO INGA - CEP: 72850-230, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 89126,
+    "valor_avaliacao": 175000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-cond-resd-vila-do-sol-xii-2-quartos-1-vaga-na-garagem-area-de-servico-wc-imovel-caixa-economica-federal-cef-2269556-8444429284986-venda-direta-caixa",
+    "descricao": "R$ 89.126,03 R$ 175.000,00 49% Apartamento Caixa em Luziânia / GO - 2269556 RUA ALEXANDRE POLONIO,N. S/N APTO. 02 LT 29 QD 57, , JARDIM DO INGA - CEP: 72850-230, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.348052-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.348052-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 89126
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269545",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.070,28 R$ 169.000,00 49% Casa Caixa em Luziânia / GO - 2269545 RUA LEME,N. S/N CS 04 CHACARA 02 QD 08, CHACARAS MARAJOARA - CEP: 72858-135, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 86070,
+    "valor_avaliacao": 169000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-condominio-jmj-ville-2022-i-2-quartos-varanda-sacada-area-de-servico-imovel-caixa-economica-federal-cef-2269545-8444427958912-venda-direta-caixa",
+    "descricao": "R$ 86.070,28 R$ 169.000,00 49% Casa Caixa em Luziânia / GO - 2269545 RUA LEME,N. S/N CS 04 CHACARA 02 QD 08, CHACARAS MARAJOARA - CEP: 72858-135, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.398092-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.398092-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 86070
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2279682",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 78.807,30 R$ 150.000,00 47% Casa Caixa em Luziânia / GO - 2279682 QUADRA QUADRA 1,N. S/N LT 12 QD 01A, VILA SAO JOSE - CEP: 72813-510, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 78807,
+    "valor_avaliacao": 150000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-vila-sao-jose-3-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2279682-8444404454365-venda-direta-caixa",
+    "descricao": "R$ 78.807,30 R$ 150.000,00 47% Casa Caixa em Luziânia / GO - 2279682 QUADRA QUADRA 1,N. S/N LT 12 QD 01A, VILA SAO JOSE - CEP: 72813-510, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.606128-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.606128-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 78807
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2464706",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -728,6 +1048,38 @@
       {
         "data": "2026-07-15",
         "preco": 80691
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2326591",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 69.000,68 R$ 128.000,00 46% Casa Caixa em Luziânia / GO - 2326591 RUA 11,N. SN LT 07 QD 16, CIDADE INDUSTRIAL FRACAROLI - CEP: 72855-720, LUZIANIA - GOIAS Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 69000,
+    "valor_avaliacao": 128000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-cidade-industrial-fracaroli-3-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2326591-8555508886999-venda-direta-caixa",
+    "descricao": "R$ 69.000,68 R$ 128.000,00 46% Casa Caixa em Luziânia / GO - 2326591 RUA 11,N. SN LT 07 QD 16, CIDADE INDUSTRIAL FRACAROLI - CEP: 72855-720, LUZIANIA - GOIAS Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.901036-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.901036-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 69000
       }
     ]
   },
@@ -821,6 +1173,70 @@
       {
         "data": "2026-07-15",
         "preco": 435052
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2312058",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.598,16 R$ 172.000,00 49% Casa Caixa em Santo Antônio Do Descoberto / GO - 2312058 RUA RIBEIRO COUTO,N. S/N LT 02 QD 6, VILA RAIO DE LUZ - CEP: 72904-266, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 1",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Descoberto",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 87598,
+    "valor_avaliacao": 172000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/santo-antonio-do-descoberto/residencial-loteamento-vila-raio-de-luz-2-quartos-varanda-sacada-area-de-servico-wc-imovel-caixa-economica-federal-cef-2312058-8444415880034-venda-direta-caixa",
+    "descricao": "R$ 87.598,16 R$ 172.000,00 49% Casa Caixa em Santo Antônio Do Descoberto / GO - 2312058 RUA RIBEIRO COUTO,N. S/N LT 02 QD 6, VILA RAIO DE LUZ - CEP: 72904-266, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.080281-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.080281-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87598
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2269517",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 79.958,79 R$ 157.000,00 49% Casa Caixa em Santo Antônio Do Descoberto / GO - 2269517 RUA 19,N. SN LT 04-B QD 23, PARQUE SANTO ANTONIO - CEP: 72901-544, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Descoberto",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 79958,
+    "valor_avaliacao": 157000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/santo-antonio-do-descoberto/residencial-parque-santo-antonio-2-quartos-varanda-sacada-area-de-servico-wc-sala-c-imovel-caixa-economica-federal-cef-2269517-8444428593004-venda-direta-caixa",
+    "descricao": "R$ 79.958,79 R$ 157.000,00 49% Casa Caixa em Santo Antônio Do Descoberto / GO - 2269517 RUA 19,N. SN LT 04-B QD 23, PARQUE SANTO ANTONIO - CEP: 72901-544, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.457721-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.457721-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 79958
       }
     ]
   },
@@ -1073,6 +1489,134 @@
     ]
   },
   {
+    "id": "leilaoimovel-2269412",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 76.054,21 R$ 168.000,00 55% Apartamento Caixa em Valparaíso De Goiás / GO - 2269412 RUA RIO DE JANEIRO,N. SN APTO. 108 BL A, QD 06, CH 07, , SETOR DE CHACARAS ANHANGUERA A - CEP: 72871-513, VALPARAISO DE GOIAS - GOIAS",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 76054,
+    "valor_avaliacao": 168000,
+    "desconto_percentual": 55,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-cond-res-beta-ville-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2269412-8555534876598-venda-direta-caixa",
+    "descricao": "R$ 76.054,21 R$ 168.000,00 55% Apartamento Caixa em Valparaíso De Goiás / GO - 2269412 RUA RIO DE JANEIRO,N. SN APTO. 108 BL A, QD 06, CH 07, , SETOR DE CHACARAS ANHANGUERA A - CEP: 72871-513, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.506658-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.506658-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 76054
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2395148",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 80.592,86 R$ 160.000,00 50% Apartamento Caixa em Valparaíso De Goiás / GO - 2395148 RUA 8,N. SN APTO. 112 BL C, LT 05, QD 09, CHACARAS E MANSOES SANTA MARIA - CEP: 72875-256, VALPARAISO DE GOIAS - GOIAS Encerra em: 17",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 80592,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 50,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-res-mcastro-ix-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2395148-8787715419327-venda-direta-caixa",
+    "descricao": "R$ 80.592,86 R$ 160.000,00 50% Apartamento Caixa em Valparaíso De Goiás / GO - 2395148 RUA 8,N. SN APTO. 112 BL C, LT 05, QD 09, CHACARAS E MANSOES SANTA MARIA - CEP: 72875-256, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.747260-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.747260-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 80592
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2395147",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 111.997,81 R$ 218.000,00 49% Apartamento Caixa em Valparaíso De Goiás / GO - 2395147 VIA DE ACESSO,N. SN APTO. 102 BL 24, GLEBA A2, FAZENDA TAVEIRA - CEP: 72875-035, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 111997,
+    "valor_avaliacao": 218000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-varandas-res-meridian-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sal-imovel-caixa-economica-federal-cef-2395147-8787710698309-venda-direta-caixa",
+    "descricao": "R$ 111.997,81 R$ 218.000,00 49% Apartamento Caixa em Valparaíso De Goiás / GO - 2395147 VIA DE ACESSO,N. SN APTO. 102 BL 24, GLEBA A2, FAZENDA TAVEIRA - CEP: 72875-035, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.843892-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.843892-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 111997
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2312098",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 84.033,11 R$ 165.000,00 49% Apartamento Caixa em Valparaíso De Goiás / GO - 2312098 RUA 8,N. SN APTO. 2 BL 44, CH 37, QD 08, CHACARAS E MANSOES SANTA MARIA - CEP: 72875-256, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 84033,
+    "valor_avaliacao": 165000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-res-gran-agropolis-iv-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sal-imovel-caixa-economica-federal-cef-2312098-8787716082601-venda-direta-caixa",
+    "descricao": "R$ 84.033,11 R$ 165.000,00 49% Apartamento Caixa em Valparaíso De Goiás / GO - 2312098 RUA 8,N. SN APTO. 2 BL 44, CH 37, QD 08, CHACARAS E MANSOES SANTA MARIA - CEP: 72875-256, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:20.017325-03:00",
+    "ultima_captura": "2026-07-16T17:08:20.017325-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 84033
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2041466",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -1100,6 +1644,70 @@
       {
         "data": "2026-07-15",
         "preco": 286554
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2395258",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 82.103,98 R$ 163.000,00 50% Apartamento Caixa em Águas Lindas De Goiás / GO - 2395258 RUA ARAGUAIA,N. SN APTO. 101 LT 26, QD 45, CJ A, SETOR 08, PARQUE DA BARRAGEM SETOR 08 - CEP: 72910-049, AGUAS LINDAS DE GOIAS - GO",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 82103,
+    "valor_avaliacao": 163000,
+    "desconto_percentual": 50,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-girassol-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-c-imovel-caixa-economica-federal-cef-2395258-8444429234920-venda-direta-caixa",
+    "descricao": "R$ 82.103,98 R$ 163.000,00 50% Apartamento Caixa em Águas Lindas De Goiás / GO - 2395258 RUA ARAGUAIA,N. SN APTO. 101 LT 26, QD 45, CJ A, SETOR 08, PARQUE DA BARRAGEM SETOR 08 - CEP: 72910-049, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:19.598498-03:00",
+    "ultima_captura": "2026-07-16T17:08:19.598498-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 82103
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2252800",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 80.468,08 R$ 158.000,00 49% Apartamento Caixa em Águas Lindas De Goiás / GO - 2252800 RUA 12,N. SN APTO. 202 QD 38, LT 14-B, JARDIM PEROLA DA BARRAGEM II - CEP: 72911-346, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 80468,
+    "valor_avaliacao": 158000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-solares-iii-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2252800-8444421983362-venda-direta-caixa",
+    "descricao": "R$ 80.468,08 R$ 158.000,00 49% Apartamento Caixa em Águas Lindas De Goiás / GO - 2252800 RUA 12,N. SN APTO. 202 QD 38, LT 14-B, JARDIM PEROLA DA BARRAGEM II - CEP: 72911-346, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:08:21.562914-03:00",
+    "ultima_captura": "2026-07-16T17:08:21.562914-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 80468
       }
     ]
   },
