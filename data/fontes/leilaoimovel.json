@@ -4842,13 +4842,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/araraquara/residencial-parque-acanto-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2520822-8555539311483-venda-direta-caixa",
     "descricao": "R$ 86.592,88 R$ 167.000,00 48% Apartamento Caixa em Araraquara / SP - 2520822 AVENIDA MIGUEL BUCALEM,N. 468 APTO. 101 BL 18, PARQUE RESIDENCIAL IGUATEMI - CEP: 14808-264, ARARAQUARA - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.569749-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.569749-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.947620-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -4905,13 +4906,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/aracatuba/residencial-residencial-amaranto-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-2-terr-imovel-caixa-economica-federal-cef-2533235-8787720873464-venda-direta-caixa",
     "descricao": "R$ 108.794,43 R$ 200.000,00 46% Apartamento Caixa em Araçatuba / SP - 2533235 RUA NOEL ROSA,N. 719 APTO. 701 BL 08, VAGA 164, PARQUE INDUSTRIAL - CEP: 16075-477, ARACATUBA - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.449917-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.449917-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.774271-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -4936,17 +4938,50 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/bauru/residencial-chacaras-cornelia-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2533341-8444420746197-venda-direta-caixa",
     "descricao": "R$ 113.690,17 R$ 209.000,00 46% Casa Caixa em Bauru / SP - 2533341 RUA FUMIO YAMASHITA,N. 1-159, CHACARAS CORNELIA - CEP: 17055-590, BAURU - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.369350-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.369350-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.683236-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
         "preco": 113690
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2636099",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.349.194,37 R$ 2.117.000,00 36% Casa Caixa em Guarujá / SP - 2636099 RUA GUSTAVO HENRIQUE GOMES MARTINS,N. 92, JARDIM PERNAMBUCO II - CEP: 11444-808, GUARUJA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Guarujá",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 1349194,
+    "valor_avaliacao": 2117000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/guaruja/residencial-loteamento-jardim-pernambuco-ii-3-quartos-2-vagas-na-garagem-area-de-servi-imovel-caixa-economica-federal-cef-2636099-1600000121626-venda-direta-caixa",
+    "descricao": "R$ 1.349.194,37 R$ 2.117.000,00 36% Casa Caixa em Guarujá / SP - 2636099 RUA GUSTAVO HENRIQUE GOMES MARTINS,N. 92, JARDIM PERNAMBUCO II - CEP: 11444-808, GUARUJA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:20.546601-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.546601-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 1349194
       }
     ]
   },
@@ -4979,6 +5014,38 @@
       {
         "data": "2026-07-16",
         "preco": 135326
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2095287",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 700.510,04 R$ 1.765.000,00 60% Casa Caixa em Itupeva / SP - 2095287 TRAVESSA C,N. 109 LOTE 14, QUADRA 12, SAO VENANCIO - CEP: 13296-355, ITUPEVA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Itupeva",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 700510,
+    "valor_avaliacao": 1765000,
+    "desconto_percentual": 60,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/itupeva/residencial-sao-venancio-4-quartos-area-de-servico-3-wc-3-salas-cozinha-terraco-imovel-caixa-economica-federal-cef-2095287-1444416315197-venda-direta-caixa",
+    "descricao": "R$ 700.510,04 R$ 1.765.000,00 60% Casa Caixa em Itupeva / SP - 2095287 TRAVESSA C,N. 109 LOTE 14, QUADRA 12, SAO VENANCIO - CEP: 13296-355, ITUPEVA - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:20.430193-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.430193-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 700510
       }
     ]
   },
@@ -5031,13 +5098,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/lins/residencial-conjunto-habitacional-ana-carolina-2-quartos-area-de-servico-wc-sala-coz-imovel-caixa-economica-federal-cef-2533333-8787716808688-venda-direta-caixa",
     "descricao": "R$ 88.000,29 R$ 165.000,00 47% Casa Caixa em Lins / SP - 2533333 RUA DANTE JORDANI,N. 1599, CONJUNTO HABITACIONAL ANA CAROLINA - CEP: 16401-470, LINS - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.403626-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.403626-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.726938-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5234,6 +5302,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2095281",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 297.972,45 R$ 610.000,00 51% Casa Caixa em Ribeirão Preto / SP - 2095281 RUA COLOMBIA,N. S/N QD 23, LOTE 06, VILA CARVALHO - CEP: 14000-000, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 297972,
+    "valor_avaliacao": 610000,
+    "desconto_percentual": 51,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vila-carvalho-construcao-100-nao-averbada-regularizacao-por-conta-do-adqui-imovel-caixa-economica-federal-cef-2095281-1444406914128-venda-direta-caixa",
+    "descricao": "R$ 297.972,45 R$ 610.000,00 51% Casa Caixa em Ribeirão Preto / SP - 2095281 RUA COLOMBIA,N. S/N QD 23, LOTE 06, VILA CARVALHO - CEP: 14000-000, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:20.497716-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.497716-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 297972
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2302873",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5262,6 +5362,38 @@
       {
         "data": "2026-07-16",
         "preco": 81486
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2437686",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 78.378,86 R$ 153.000,00 49% Apartamento Caixa em Ribeirão Preto / SP - 2437686 RUA JOSE DE ALCANTARA,N. 1075 APTO. 02 BL B TORRE 1, VITTA HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/202",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 78378,
+    "valor_avaliacao": 153000,
+    "desconto_percentual": 49,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-heitor-rigon-1-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2437686-8444430263636-venda-direta-caixa",
+    "descricao": "R$ 78.378,86 R$ 153.000,00 49% Apartamento Caixa em Ribeirão Preto / SP - 2437686 RUA JOSE DE ALCANTARA,N. 1075 APTO. 02 BL B TORRE 1, VITTA HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:22.342162-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.342162-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 78378
       }
     ]
   },
@@ -5314,13 +5446,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-residencial-cromo-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2520859-8787714779109-venda-direta-caixa",
     "descricao": "R$ 91.733,64 R$ 172.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2520859 RUA PROFESSOR AYLTON RICOY DE OLIVEIRA,N. 925 APTO. 403 BL 4, JARDIM OURO BRANCO - CEP: 14079-792, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.488211-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.488211-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.821528-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5345,13 +5478,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-recanto-das-palmeiras-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2464398-8555539364013-venda-direta-caixa",
     "descricao": "R$ 90.933,64 R$ 170.500,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2464398 AVENIDA DOUTOR FERNANDO MENDES GARCIA,N. 2720 APTO. 24 BLCO C TORRE 01, JARDIM DIVA TARLA DE CARVALHO - CEP: 14079-370, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.750462-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.750462-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.141185-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5424,6 +5558,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2456694",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.933,62 R$ 163.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2456694 RUA JERONIMO ALFREDO AMOR ESPIN,N. 400 APTO. 2 BL C TORRE 1, JARDIM FLORESTAN FERNANDES - CEP: 14079-303, RIBEIRAO PRETO - SAO PAULO Encer",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 86933,
+    "valor_avaliacao": 163000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-recanto-da-mata-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sal-imovel-caixa-economica-federal-cef-2456694-8787709293970-venda-direta-caixa",
+    "descricao": "R$ 86.933,62 R$ 163.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2456694 RUA JERONIMO ALFREDO AMOR ESPIN,N. 400 APTO. 2 BL C TORRE 1, JARDIM FLORESTAN FERNANDES - CEP: 14079-303, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:22.191609-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.191609-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 86933
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2452111",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 79.037,50 R$ 150.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2452111 RUA JOSE DE ALCANTARA,N. 765 APTO. 12 BL C TORRE 5, JARDIM HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/202",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 79037,
+    "valor_avaliacao": 150000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-heitor-rigon-3-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2452111-8787706693802-venda-direta-caixa",
+    "descricao": "R$ 79.037,50 R$ 150.000,00 47% Apartamento Caixa em Ribeirão Preto / SP - 2452111 RUA JOSE DE ALCANTARA,N. 765 APTO. 12 BL C TORRE 5, JARDIM HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:22.292096-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.292096-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 79037
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2507639",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5440,13 +5638,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2507639-8787710094110-venda-direta-caixa",
     "descricao": "R$ 82.316,10 R$ 152.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2507639 RUA ADEMIR SPAGNOL MILUZZI,N. 700 APTO. 24 BLOCO E, TORRE 3, JARDIM DIVA TARLA DE CARVALHO - CEP: 14079-402, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.604024-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.604024-03:00",
+    "ultima_captura": "2026-07-16T17:02:21.202455-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5471,13 +5670,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-heitor-rigon-3-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2507632-8787706318556-venda-direta-caixa",
     "descricao": "R$ 81.232,99 R$ 150.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2507632 RUA JOSE DE ALCANTARA,N. 765 APTO. 24 TORRE 1 - BL C, 2º PAVIMENTO, JARDIM HEITOR RIGON - CEP: 14062-100, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.635270-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.635270-03:00",
+    "ultima_captura": "2026-07-16T17:02:21.550766-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5502,13 +5702,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-parque-dos-pinus-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2507598-8787707581030-venda-direta-caixa",
     "descricao": "R$ 80.691,44 R$ 149.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2507598 AV ERNESTO GUEVARA LA SERNA,N. 1150 APTO. 12 TORRE 1 BLOCO C, PARQUE DOS PINUS - CEP: 14062-232, RIBEIRAO PRETO - SAO PAULO Encerra em: 16/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.719833-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.719833-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.076941-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5577,6 +5778,38 @@
       {
         "data": "2026-07-16",
         "preco": 86013
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2452169",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 101.120,15 R$ 185.892,16 46% Apartamento Caixa em Ribeirão Preto / SP - 2452169 RUA PROFESSOR AYLTON RICOY DE OLIVEIRA,N. 925 APTO. 402 BL 3 ANTIGA RUA 1, RESERVA OURO BRANCO - CEP: 14079-792, RIBEIRAO PRETO - SAO PAU",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 101120,
+    "valor_avaliacao": 185892,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-residencial-cromo-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2452169-8787717452879-venda-direta-caixa",
+    "descricao": "R$ 101.120,15 R$ 185.892,16 46% Apartamento Caixa em Ribeirão Preto / SP - 2452169 RUA PROFESSOR AYLTON RICOY DE OLIVEIRA,N. 925 APTO. 402 BL 3 ANTIGA RUA 1, RESERVA OURO BRANCO - CEP: 14079-792, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:22.241614-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.241614-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 101120
       }
     ]
   },
@@ -5724,13 +5957,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-jose-do-rio-preto/residencial-parque-rio-parana-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2507622-8787704062961-venda-direta-caixa",
     "descricao": "R$ 90.666,97 R$ 170.000,00 47% Apartamento Caixa em São José Do Rio Preto / SP - 2507622 RUA ALFREDO RICARDO DA COSTA,N. 2195 APTO. 203 1º PAVIMENTO, BL 16, JARDIM NUNES - CEP: 15046-813, SAO JOSE DO RIO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.685565-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.685565-03:00",
+    "ultima_captura": "2026-07-16T17:02:22.005034-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5755,17 +5989,50 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-cond-res-plano-amp-iguatemi-santa-teresa-ii-2-quartos-area-de-servico-wc-imovel-caixa-economica-federal-cef-2520856-8787714018361-venda-direta-caixa",
     "descricao": "R$ 110.456,56 R$ 215.000,00 49% Apartamento Caixa em São Paulo / SP - 2520856 RUA JUA MIRIM,N. 385 APTO. 07 TORRE A, JARDIM PEDRA BRANCA - CEP: 08490-800, SAO PAULO - SAO PAULO Encerra em: 17/07/2026 18:00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:26:47.519469-03:00",
-    "ultima_captura": "2026-07-15T16:26:47.519469-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.866657-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
     "historico_precos": [
       {
         "data": "2026-07-15",
         "preco": 110456
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2593398",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 93.540,32 R$ 175.387,51 47% Apartamento Caixa em São Paulo / SP - 2593398 RUA BARAO CARLOS DE SOUSA ANHUMAS,N. 380 APTO. 24 BL 15, , JARDIM RECANTO VERDE - CEP: 02364-000, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 93540,
+    "valor_avaliacao": 175387,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-16T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-cond-portal-cantareira-quarto-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2593398-8787710449376-venda-direta-caixa",
+    "descricao": "R$ 93.540,32 R$ 175.387,51 47% Apartamento Caixa em São Paulo / SP - 2593398 RUA BARAO CARLOS DE SOUSA ANHUMAS,N. 380 APTO. 24 BL 15, , JARDIM RECANTO VERDE - CEP: 02364-000, SAO PAULO - SAO PAULO Encerra em: 16/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T17:02:20.602524-03:00",
+    "ultima_captura": "2026-07-16T17:02:20.602524-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 1,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 93540
       }
     ]
   },
