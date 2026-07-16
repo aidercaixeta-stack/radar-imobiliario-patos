@@ -1,0 +1,58 @@
+/* Radar v1.5 — integração de leilões nacionais */
+
+.auction-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin: 12px 0 10px;
+}
+
+.auction-facts > div {
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fbf8f0;
+  display: grid;
+  gap: 3px;
+}
+
+.auction-facts span {
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  font-weight: 700;
+}
+
+.auction-facts strong {
+  color: var(--navy);
+  font-size: 13px;
+}
+
+.badge.active-auction {
+  background: #eaf6ef;
+  color: #2f7650;
+  border-color: #cfe8da;
+}
+
+.badge.closed {
+  background: #f1eeee;
+  color: #7d6262;
+  border-color: #e2d6d6;
+}
+
+.score-bubble {
+  min-width: 46px;
+}
+
+#auctionSituationLabel[hidden],
+#bairroLabel[hidden],
+#minAreaLabel[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 680px) {
+  .auction-facts {
+    grid-template-columns: 1fr;
+  }
+}
