@@ -5243,6 +5243,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2567578",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.167,36 R$ 159.021,00 45% Apartamento Caixa em Alvorada / RS - 2567578 RUA BARAO DE COTEGIPE,N. 149 APTO. 104, MARIA REGINA - CEP: 94828-120, ALVORADA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Alvorada",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 87167,
+    "valor_avaliacao": 159021,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/alvorada/residencial-maria-regina-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2567578-8444428679626-venda-direta-caixa",
+    "descricao": "R$ 87.167,36 R$ 159.021,00 45% Apartamento Caixa em Alvorada / RS - 2567578 RUA BARAO DE COTEGIPE,N. 149 APTO. 104, MARIA REGINA - CEP: 94828-120, ALVORADA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.793657-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.793657-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87167
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2624886",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 68.744,97 R$ 123.000,00 44% Apartamento Caixa em Alvorada / RS - 2624886 RUA EDISON DE OLIVEIRA,N. 518 APTO. 304 BL 03 SUB-BL A, UMBU - CEP: 94832-128, ALVORADA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Alvorada",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 68744,
+    "valor_avaliacao": 123000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/alvorada/residencial-umbu-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2624886-8444433881063-venda-direta-caixa",
+    "descricao": "R$ 68.744,97 R$ 123.000,00 44% Apartamento Caixa em Alvorada / RS - 2624886 RUA EDISON DE OLIVEIRA,N. 518 APTO. 304 BL 03 SUB-BL A, UMBU - CEP: 94832-128, ALVORADA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.554622-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.554622-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 68744
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2401469",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5335,6 +5399,102 @@
       {
         "data": "2026-07-16",
         "preco": 69341
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2614253",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 76.246,82 R$ 135.000,00 44% Apartamento Caixa em Canoas / RS - 2614253 RUA MACHADINHO,N. 1580 APTO. 102 BL 14, RIO BRANCO - CEP: 92200-440, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Canoas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 76246,
+    "valor_avaliacao": 135000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/canoas/residencial-cond-nova-primavera-i-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2614253-8787710737266-venda-direta-caixa",
+    "descricao": "R$ 76.246,82 R$ 135.000,00 44% Apartamento Caixa em Canoas / RS - 2614253 RUA MACHADINHO,N. 1580 APTO. 102 BL 14, RIO BRANCO - CEP: 92200-440, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.650141-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.650141-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 76246
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2575523",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 115.730,07 R$ 207.000,00 44% Apartamento Caixa em Canoas / RS - 2575523 RUA DOM JOAO BECKER,N. 1852 APTO. 579 BL T PAV 05, VG 389, FATIMA - CEP: 92200-722, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Canoas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 115730,
+    "valor_avaliacao": 207000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/canoas/residencial-cond-rossi-ideal-jardim-figueira-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2575523-8555510763696-venda-direta-caixa",
+    "descricao": "R$ 115.730,07 R$ 207.000,00 44% Apartamento Caixa em Canoas / RS - 2575523 RUA DOM JOAO BECKER,N. 1852 APTO. 579 BL T PAV 05, VG 389, FATIMA - CEP: 92200-722, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.700372-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.700372-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 115730
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2567605",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 77.866,57 R$ 140.000,00 44% Apartamento Caixa em Canoas / RS - 2567605 RUA MACHADINHO,N. 1580 APTO. 101 BL 16 1º PAVIMENTO, RIO BRANCO - CEP: 92200-440, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Canoas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 77866,
+    "valor_avaliacao": 140000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/canoas/residencial-cond-ed-nova-primavera-i-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2567605-8787708314981-venda-direta-caixa",
+    "descricao": "R$ 77.866,57 R$ 140.000,00 44% Apartamento Caixa em Canoas / RS - 2567605 RUA MACHADINHO,N. 1580 APTO. 101 BL 16 1º PAVIMENTO, RIO BRANCO - CEP: 92200-440, CANOAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.747974-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.747974-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 77866
       }
     ]
   },
@@ -5563,6 +5723,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2380286",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 85.958,33 R$ 155.000,00 45% Apartamento Caixa em Pelotas / RS - 2380286 RUA MARCOS COSTA,N. 255 APTO. 441, FRAGATA - CEP: 96040-750, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Pelotas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 85958,
+    "valor_avaliacao": 155000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/pelotas/residencial-residencial-parque-velho-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2380286-1444412729752-venda-direta-caixa",
+    "descricao": "R$ 85.958,33 R$ 155.000,00 45% Apartamento Caixa em Pelotas / RS - 2380286 RUA MARCOS COSTA,N. 255 APTO. 441, FRAGATA - CEP: 96040-750, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.057233-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.057233-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 85958
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2380285",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 117.994,92 R$ 215.000,00 45% Casa Caixa em Pelotas / RS - 2380285 RUA LAGOA VERMELHA,N. 199 LT 07 QD 24, LARANJAL - CEP: 96095-150, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Pelotas",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 117994,
+    "valor_avaliacao": 215000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/pelotas/residencial-laranjal-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2380285-8444406656356-venda-direta-caixa",
+    "descricao": "R$ 117.994,92 R$ 215.000,00 45% Casa Caixa em Pelotas / RS - 2380285 RUA LAGOA VERMELHA,N. 199 LT 07 QD 24, LARANJAL - CEP: 96095-150, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.099689-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.099689-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 117994
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2624880",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 74.552,44 R$ 132.000,00 44% Apartamento Caixa em Pelotas / RS - 2624880 RUA ABRILINO FERREIRA CARDOSO,N. 2820 APTO. 502 BL A VG 34, TRES VENDAS - CEP: 96070-143, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:0",
+    "bairro": "Não identificado",
+    "cidade": "Pelotas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 74552,
+    "valor_avaliacao": 132000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/pelotas/residencial-cond-res-campinas-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2624880-8787709832773-venda-direta-caixa",
+    "descricao": "R$ 74.552,44 R$ 132.000,00 44% Apartamento Caixa em Pelotas / RS - 2624880 RUA ABRILINO FERREIRA CARDOSO,N. 2820 APTO. 502 BL A VG 34, TRES VENDAS - CEP: 96070-143, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.602232-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.602232-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 74552
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2725868",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5623,6 +5879,38 @@
       {
         "data": "2026-07-16",
         "preco": 100741
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2664451",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 81.379,36 R$ 139.000,00 41% Apartamento Caixa em Pelotas / RS - 2664451 AVENIDA MANOEL ANTONIO PERES,N. 2440 APTO. 402 BLOCO M, VAGA 255, AREAL - CEP: 96081-300, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:0",
+    "bairro": "Não identificado",
+    "cidade": "Pelotas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 81379,
+    "valor_avaliacao": 139000,
+    "desconto_percentual": 41,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/pelotas/residencial-areal-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2664451-8787715514060-venda-direta-caixa",
+    "descricao": "R$ 81.379,36 R$ 139.000,00 41% Apartamento Caixa em Pelotas / RS - 2664451 AVENIDA MANOEL ANTONIO PERES,N. 2440 APTO. 402 BLOCO M, VAGA 255, AREAL - CEP: 96081-300, PELOTAS - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.409649-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.409649-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 81379
       }
     ]
   },
@@ -5755,6 +6043,166 @@
     ]
   },
   {
+    "id": "leilaoimovel-2367814",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.738,98 R$ 220.000,00 45% Apartamento Caixa em Porto Alegre / RS - 2367814 AVENIDA FRANCISCO SILVEIRA BITENCOURT,N. 1818 APTO. 201 TORRE 30, SARANDI - CEP: 91150-010, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 120738,
+    "valor_avaliacao": 220000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-res-vida-alegre-sarandi-imovel-caixa-economica-federal-cef-2367814-8555535888719-venda-direta-caixa",
+    "descricao": "R$ 120.738,98 R$ 220.000,00 45% Apartamento Caixa em Porto Alegre / RS - 2367814 AVENIDA FRANCISCO SILVEIRA BITENCOURT,N. 1818 APTO. 201 TORRE 30, SARANDI - CEP: 91150-010, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.141451-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.141451-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 120738
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2359022",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 115.250,85 R$ 210.000,00 45% Apartamento Caixa em Porto Alegre / RS - 2359022 RUA DOLORES DURAN,N. 701 APTO. 114 BL 3, LT F, LOMBA DO PINHEIRO - CEP: 91540-220, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 115250,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-cond-res-dolores-duran-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2359022-8444428165460-venda-direta-caixa",
+    "descricao": "R$ 115.250,85 R$ 210.000,00 45% Apartamento Caixa em Porto Alegre / RS - 2359022 RUA DOLORES DURAN,N. 701 APTO. 114 BL 3, LT F, LOMBA DO PINHEIRO - CEP: 91540-220, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.183504-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.183504-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 115250
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2567492",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 78.422,76 R$ 141.000,00 44% Apartamento Caixa em Porto Alegre / RS - 2567492 ESTRADA BARRO VERMELHO,N. 799 APTO. 308 BL E VG 132 2º BOX, BELEM NOVO - CEP: 91790-100, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 78422,
+    "valor_avaliacao": 141000,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-cond-condado-de-san-telmo-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2567492-8555527712127-venda-direta-caixa",
+    "descricao": "R$ 78.422,76 R$ 141.000,00 44% Apartamento Caixa em Porto Alegre / RS - 2567492 ESTRADA BARRO VERMELHO,N. 799 APTO. 308 BL E VG 132 2º BOX, BELEM NOVO - CEP: 91790-100, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.839367-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.839367-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 78422
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2401443",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 94.521,76 R$ 168.384,45 44% Apartamento Caixa em Porto Alegre / RS - 2401443 RUA PAULO RENATO KETZER DE SOUZA,N. 300 APTO. 502 BL C, ALTO PETRÓPOLIS - CEP: 91250-554, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 94521,
+    "valor_avaliacao": 168384,
+    "desconto_percentual": 44,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-residencial-sao-francisco-de-assis-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2401443-8042810001160-venda-direta-caixa",
+    "descricao": "R$ 94.521,76 R$ 168.384,45 44% Apartamento Caixa em Porto Alegre / RS - 2401443 RUA PAULO RENATO KETZER DE SOUZA,N. 300 APTO. 502 BL C, ALTO PETRÓPOLIS - CEP: 91250-554, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.012975-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.012975-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 94521
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2359005",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.240,30 R$ 210.000,00 43% Apartamento Caixa em Porto Alegre / RS - 2359005 RUA JOAO JACOB TAGLIASSUCHI,N. 25 APTO. 402 BL 7, RUBEM BERTA - CEP: 91170-390, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 120240,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-edificio-palacio-de-alban-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2359005-8444413187110-venda-direta-caixa",
+    "descricao": "R$ 120.240,30 R$ 210.000,00 43% Apartamento Caixa em Porto Alegre / RS - 2359005 RUA JOAO JACOB TAGLIASSUCHI,N. 25 APTO. 402 BL 7, RUBEM BERTA - CEP: 91170-390, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:20.225923-03:00",
+    "ultima_captura": "2026-07-16T20:18:20.225923-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 120240
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2725861",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5787,6 +6235,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2412896",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 289.203,35 R$ 555.670,00 48% Casa Caixa em Portão / RS - 2412896 RUA VEREADOR ANTONIO RODRIGUES DA ROSA,N. 440 CS01, LT 3,4 E 5 QD 582, CENTRO - CEP: 93180-000, PORTAO - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Portão",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 289203,
+    "valor_avaliacao": 555670,
+    "desconto_percentual": 48,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/portao/residencial-condominio-residencial-das-rosas-2-quartos-1-vaga-na-garagem-area-de-servi-imovel-caixa-economica-federal-cef-2412896-8555510090837-venda-direta-caixa",
+    "descricao": "R$ 289.203,35 R$ 555.670,00 48% Casa Caixa em Portão / RS - 2412896 RUA VEREADOR ANTONIO RODRIGUES DA ROSA,N. 440 CS01, LT 3,4 E 5 QD 582, CENTRO - CEP: 93180-000, PORTAO - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.955588-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.955588-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 289203
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2632686",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 90.133,64 R$ 156.000,00 42% Apartamento Caixa em Sapucaia Do Sul / RS - 2632686 AVENIDA CORONEL THEODOMIRO PORTO DA FONS,N. 2435 APTO. 551 BL 5 LT 22 QD 1 SETOR 04H51, IPIRANGA - CEP: 93230-555, SAPUCAIA DO SUL - RIO ",
+    "bairro": "Não identificado",
+    "cidade": "Sapucaia Do Sul",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 90133,
+    "valor_avaliacao": 156000,
+    "desconto_percentual": 42,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/sapucaia-do-sul/residencial-ipiranga-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2632686-8444432178857-venda-direta-caixa",
+    "descricao": "R$ 90.133,64 R$ 156.000,00 42% Apartamento Caixa em Sapucaia Do Sul / RS - 2632686 AVENIDA CORONEL THEODOMIRO PORTO DA FONS,N. 2435 APTO. 551 BL 5 LT 22 QD 1 SETOR 04H51, IPIRANGA - CEP: 93230-555, SAPUCAIA DO SUL - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.507952-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.507952-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 90133
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2300282",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5815,6 +6327,102 @@
       {
         "data": "2026-07-16",
         "preco": 86579
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2536947",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.059,54 R$ 157.000,00 45% Apartamento Caixa em São Leopoldo / RS - 2536947 RUA RICARDO JOAO MERKER,N. 44 APTO. 203 BL 29, SANTOS DUMONT - CEP: 93115-454, SAO LEOPOLDO - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "São Leopoldo",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 86059,
+    "valor_avaliacao": 157000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/sao-leopoldo/residencial-villa-germanica-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2536947-8787706307457-venda-direta-caixa",
+    "descricao": "R$ 86.059,54 R$ 157.000,00 45% Apartamento Caixa em São Leopoldo / RS - 2536947 RUA RICARDO JOAO MERKER,N. 44 APTO. 203 BL 29, SANTOS DUMONT - CEP: 93115-454, SAO LEOPOLDO - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.886035-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.886035-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 86059
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2666412",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 126.926,84 R$ 210.000,00 40% Casa Caixa em Uruguaiana / RS - 2666412 R ESTILAC LEAL,N. 1832 CS 3, ALEXANDRE ZACHIA - CEP: 97503-124, URUGUAIANA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Uruguaiana",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 126926,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/uruguaiana/residencial-alexandre-zachia-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2666412-8555511199930-venda-direta-caixa",
+    "descricao": "R$ 126.926,84 R$ 210.000,00 40% Casa Caixa em Uruguaiana / RS - 2666412 R ESTILAC LEAL,N. 1832 CS 3, ALEXANDRE ZACHIA - CEP: 97503-124, URUGUAIANA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.348142-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.348142-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 126926
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2656222",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 111.816,50 R$ 185.000,00 40% Casa Caixa em Uruguaiana / RS - 2656222 RUA DOUTOR GREGORIO BEHREGARAY FILHO,N. 4311, CIDADE ALEGRIA - CEP: 97511-260, URUGUAIANA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Uruguaiana",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 111816,
+    "valor_avaliacao": 185000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/uruguaiana/residencial-cidade-alegria-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2656222-8444407362275-venda-direta-caixa",
+    "descricao": "R$ 111.816,50 R$ 185.000,00 40% Casa Caixa em Uruguaiana / RS - 2656222 RUA DOUTOR GREGORIO BEHREGARAY FILHO,N. 4311, CIDADE ALEGRIA - CEP: 97511-260, URUGUAIANA - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:18:19.454580-03:00",
+    "ultima_captura": "2026-07-16T20:18:19.454580-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 111816
       }
     ]
   },
