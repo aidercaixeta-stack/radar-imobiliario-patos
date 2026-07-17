@@ -5409,6 +5409,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-853895",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.356.159,46 R$ 4.261.000,00 68% Gleba Caixa em Almirante Tamandaré / PR - 853895 RODOVIA DOS MINÉRIOS,N. 6750 GLEBA, MATO DENTRO - CEP: 83513-000, ALMIRANTE TAMANDARE - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Almirante Tamandaré",
+    "uf": "PR",
+    "tipo": "Imóvel",
+    "preco": 1356159,
+    "valor_avaliacao": 4261000,
+    "desconto_percentual": 68,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/almirante-tamandare/terreno-mato-dentro-existe-averbacao-de-servidao-administrativa-de-passagem-no-registro-r6-da-imovel-caixa-economica-federal-cef-853895-10139954-venda-direta-caixa",
+    "descricao": "R$ 1.356.159,46 R$ 4.261.000,00 68% Gleba Caixa em Almirante Tamandaré / PR - 853895 RODOVIA DOS MINÉRIOS,N. 6750 GLEBA, MATO DENTRO - CEP: 83513-000, ALMIRANTE TAMANDARE - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.661028-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.661028-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 1356159
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2072811",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 69.932,52 R$ 193.384,10 64% Casa Caixa em Altônia / PR - 2072811 RUA MARECHAL ARTHUR COSTA E SILVA,N. 381 ., LOT JARDIM CAMPO BEL - CEP: 87550-000, ALTONIA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Altônia",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 69932,
+    "valor_avaliacao": 193384,
+    "desconto_percentual": 64,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/altonia/residencial-lot-jardim-campo-bel-3-quartos-1-vaga-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2072811-8444408814110-venda-direta-caixa",
+    "descricao": "R$ 69.932,52 R$ 193.384,10 64% Casa Caixa em Altônia / PR - 2072811 RUA MARECHAL ARTHUR COSTA E SILVA,N. 381 ., LOT JARDIM CAMPO BEL - CEP: 87550-000, ALTONIA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.572864-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.572864-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 69932
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726153",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 57.977,05 R$ 96.000,00 40% Casa Caixa em Alvorada Do Sul / PR - 2726153 RUA EULITO FERREIRA DA SILVA,N. 46 LT 16 QD 11, JARDIM NOVO IDEAL - CEP: 86150-000, ALVORADA DO SUL - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Alvorada Do Sul",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 57977,
+    "valor_avaliacao": 96000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/alvorada-do-sul/residencial-lot-res-i-imovel-caixa-economica-federal-cef-2726153-8555524055907-venda-direta-caixa",
+    "descricao": "R$ 57.977,05 R$ 96.000,00 40% Casa Caixa em Alvorada Do Sul / PR - 2726153 RUA EULITO FERREIRA DA SILVA,N. 46 LT 16 QD 11, JARDIM NOVO IDEAL - CEP: 86150-000, ALVORADA DO SUL - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:26.230668-03:00",
+    "ultima_captura": "2026-07-16T20:48:26.230668-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 57977
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2672146",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5437,6 +5533,102 @@
       {
         "data": "2026-07-15",
         "preco": 81964
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2266779",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 93.322,86 R$ 184.620,00 49% Casa Caixa em Arapongas / PR - 2266779 RUA BATUIRA DE BICO TORTO,N. 185 LT 36 QD 16, , LOTEAMENTO BEM VIVER ARAPONGAS - CEP: 86711-528, ARAPONGAS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Arapongas",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 93322,
+    "valor_avaliacao": 184620,
+    "desconto_percentual": 49,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/arapongas/residencial-lot-bem-viver-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-cozin-imovel-caixa-economica-federal-cef-2266779-8787715815192-venda-direta-caixa",
+    "descricao": "R$ 93.322,86 R$ 184.620,00 49% Casa Caixa em Arapongas / PR - 2266779 RUA BATUIRA DE BICO TORTO,N. 185 LT 36 QD 16, , LOTEAMENTO BEM VIVER ARAPONGAS - CEP: 86711-528, ARAPONGAS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.012599-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.012599-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 93322
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2746271",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Arapongas / PR - 2746271 RUA CHOCA DE COROA PRETA,N. 149 LT 54 QD 12, LOTEAMENTO BEM VIVER ARAPONGAS - CEP: 86711-518, ARAPONGAS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Arapongas",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 100741,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/arapongas/residencial-lot-bem-viver-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2746271-8787714245406-venda-direta-caixa",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Arapongas / PR - 2746271 RUA CHOCA DE COROA PRETA,N. 149 LT 54 QD 12, LOTEAMENTO BEM VIVER ARAPONGAS - CEP: 86711-518, ARAPONGAS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.853549-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.853549-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 100741
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726154",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 98.963,30 R$ 167.000,00 41% Casa Caixa em Arapongas / PR - 2726154 RUA MACARICO GRANDE DE PERNA AMARELA,N. 311 LT 11, QD 17, LOTEAMENTO VIVER BEM ARAPONGAS 2 - CEP: 86711-464, ARAPONGAS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Arapongas",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 98963,
+    "valor_avaliacao": 167000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/arapongas/residencial-loteamento-bem-viver-2-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sa-imovel-caixa-economica-federal-cef-2726154-8787720696406-venda-direta-caixa",
+    "descricao": "R$ 98.963,30 R$ 167.000,00 41% Casa Caixa em Arapongas / PR - 2726154 RUA MACARICO GRANDE DE PERNA AMARELA,N. 311 LT 11, QD 17, LOTEAMENTO VIVER BEM ARAPONGAS 2 - CEP: 86711-464, ARAPONGAS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:26.162892-03:00",
+    "ultima_captura": "2026-07-16T20:48:26.162892-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 98963
       }
     ]
   },
@@ -5697,6 +5889,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2216174",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 200.352,89 R$ 375.000,00 47% Terreno Caixa em Cantagalo / PR - 2216174 RUA HORÁVIO ANTÔNIO CORREIA,N. 00 QD 07, LT 01, JARDIM SANTA CRUZ - CEP: 85160-000, CANTAGALO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Cantagalo",
+    "uf": "PR",
+    "tipo": "Lote",
+    "preco": 200352,
+    "valor_avaliacao": 375000,
+    "desconto_percentual": 47,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/cantagalo/terreno-jardim-santa-cruz-o-imovel-possui-uma-estrutura-para-cobertura-de-carros-tipo-garage-imovel-caixa-economica-federal-cef-2216174-10210360-venda-direta-caixa",
+    "descricao": "R$ 200.352,89 R$ 375.000,00 47% Terreno Caixa em Cantagalo / PR - 2216174 RUA HORÁVIO ANTÔNIO CORREIA,N. 00 QD 07, LT 01, JARDIM SANTA CRUZ - CEP: 85160-000, CANTAGALO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.089534-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.089534-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 200352
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2419333",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5725,6 +5949,70 @@
       {
         "data": "2026-07-16",
         "preco": 846608
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2185328",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 51.816,11 R$ 107.000,00 52% Casa Caixa em Colorado / PR - 2185328 RUA PROJETADA B,N. 24 QD 03, LOTE 02 - DISTRITO DE ALTO ALEGRE, ALTO ALEGRE - CEP: 86690-000, COLORADO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Colorado",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 51816,
+    "valor_avaliacao": 107000,
+    "desconto_percentual": 52,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/colorado/residencial-residencial-v-imovel-caixa-economica-federal-cef-2185328-8555524633200-venda-direta-caixa",
+    "descricao": "R$ 51.816,11 R$ 107.000,00 52% Casa Caixa em Colorado / PR - 2185328 RUA PROJETADA B,N. 24 QD 03, LOTE 02 - DISTRITO DE ALTO ALEGRE, ALTO ALEGRE - CEP: 86690-000, COLORADO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.139110-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.139110-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 51816
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2746267",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 117.860,63 R$ 195.000,00 40% Casa Caixa em Contenda / PR - 2746267 RUA JAIME GOOD,N. 51 CS 05, PEPES - CEP: 83734-140, CONTENDA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Contenda",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 117860,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/contenda/residencial-res-milano-v-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2746267-8444406189855-venda-direta-caixa",
+    "descricao": "R$ 117.860,63 R$ 195.000,00 40% Casa Caixa em Contenda / PR - 2746267 RUA JAIME GOOD,N. 51 CS 05, PEPES - CEP: 83734-140, CONTENDA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.913509-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.913509-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 117860
       }
     ]
   },
@@ -5825,6 +6113,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2072847",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 226.776,58 R$ 571.000,00 60% Comercial Caixa em Guarapuava / PR - 2072847 RUA PADRE OSCAR PUHL,N. 00 ÁREA DESMEMBRADA P-28/1 - GLEBA VITÓRIA, COLONIA VITORIA - CEP: 85139-400, GUARAPUAVA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Guarapuava",
+    "uf": "PR",
+    "tipo": "Comercial",
+    "preco": 226776,
+    "valor_avaliacao": 571000,
+    "desconto_percentual": 60,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/guarapuava/comercial-colonia-vitoria-imovel-composto-por-um-galpao-e-um-escritorio-cadastro-do-imovel-n-imovel-caixa-economica-federal-cef-2072847-10199856-venda-direta-caixa",
+    "descricao": "R$ 226.776,58 R$ 571.000,00 60% Comercial Caixa em Guarapuava / PR - 2072847 RUA PADRE OSCAR PUHL,N. 00 ÁREA DESMEMBRADA P-28/1 - GLEBA VITÓRIA, COLONIA VITORIA - CEP: 85139-400, GUARAPUAVA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.517553-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.517553-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 226776
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2437390",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5889,6 +6209,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2299844",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 74.313,48 R$ 140.000,00 47% Casa Caixa em Jesuítas / PR - 2299844 RUA MANOEL RODRIGUES PARENTE,N. 110 LT 11 QD 03, LOT JARDIM SANTA FE - CEP: 85835-000, JESUITAS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Jesuítas",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 74313,
+    "valor_avaliacao": 140000,
+    "desconto_percentual": 47,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/jesuitas/residencial-lot-jardim-santa-fe-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2299844-8444426708157-venda-direta-caixa",
+    "descricao": "R$ 74.313,48 R$ 140.000,00 47% Casa Caixa em Jesuítas / PR - 2299844 RUA MANOEL RODRIGUES PARENTE,N. 110 LT 11 QD 03, LOT JARDIM SANTA FE - CEP: 85835-000, JESUITAS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:24.859730-03:00",
+    "ultima_captura": "2026-07-16T20:48:24.859730-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 74313
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2168828",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5917,6 +6269,38 @@
       {
         "data": "2026-07-15",
         "preco": 80155
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2887389",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 204.418,63 47% Apartamento em Leilão em Campo Largo / PR - 2887389 RUA CAETANO MUNHOZ DA ROCHA,N. 1080 APTO. 408 BL 05, OURO VERDE - CEP: 83606-260, CAMPO LARGO - PARA... 1ª Praça: 27/07/2026 10:00 R$ 204.418,63 2ª Pr",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 204418,
+    "valor_avaliacao": 204418,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-27T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-res-oregon-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2887389-8787715623242-venda-direta-caixa",
+    "descricao": "R$ 204.418,63 47% Apartamento em Leilão em Campo Largo / PR - 2887389 RUA CAETANO MUNHOZ DA ROCHA,N. 1080 APTO. 408 BL 05, OURO VERDE - CEP: 83606-260, CAMPO LARGO - PARA... 1ª Praça: 27/07/2026 10:00 R$ 204.418,63 2ª Praça: 31/07/2026 10:00 R$ 108.411,12",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.713936-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.713936-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 204418
       }
     ]
   },
@@ -5985,6 +6369,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2746257",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 103.704,06 R$ 175.000,00 41% Apartamento Caixa em Londrina / PR - 2746257 RUA APARECIDA FONSECA BARBOSA,N. 57 APTO. 401 BL 14 VG 145, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-380, LONDRINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 103704,
+    "valor_avaliacao": 175000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-portal-das-orquideas-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2746257-8787716449327-venda-direta-caixa",
+    "descricao": "R$ 103.704,06 R$ 175.000,00 41% Apartamento Caixa em Londrina / PR - 2746257 RUA APARECIDA FONSECA BARBOSA,N. 57 APTO. 401 BL 14 VG 145, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-380, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:26.115441-03:00",
+    "ultima_captura": "2026-07-16T20:48:26.115441-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 103704
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2635930",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -6013,6 +6429,70 @@
       {
         "data": "2026-07-15",
         "preco": 119069
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2746259",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 117.860,63 R$ 195.000,00 40% Apartamento Caixa em Londrina / PR - 2746259 AVENIDA ROSALVO MARQUES BONFIM,N. 1055 APTO. 204 BL 05, MORADAS DE PORTUGAL - CEP: 86081-538, LONDRINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 117860,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-london-park-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2746259-8787708604360-venda-direta-caixa",
+    "descricao": "R$ 117.860,63 R$ 195.000,00 40% Apartamento Caixa em Londrina / PR - 2746259 AVENIDA ROSALVO MARQUES BONFIM,N. 1055 APTO. 204 BL 05, MORADAS DE PORTUGAL - CEP: 86081-538, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.992604-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.992604-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 117860
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2746258",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 114.838,57 R$ 190.000,00 40% Apartamento Caixa em Londrina / PR - 2746258 AVENIDA GIOCONDO MATURI,N. 1500 APTO. 403 BL 03, MORADAS DE PORTUGAL - CEP: 86081-542, LONDRINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 114838,
+    "valor_avaliacao": 190000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-london-tower-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2746258-8787715795370-venda-direta-caixa",
+    "descricao": "R$ 114.838,57 R$ 190.000,00 40% Apartamento Caixa em Londrina / PR - 2746258 AVENIDA GIOCONDO MATURI,N. 1500 APTO. 403 BL 03, MORADAS DE PORTUGAL - CEP: 86081-542, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:26.058944-03:00",
+    "ultima_captura": "2026-07-16T20:48:26.058944-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 114838
       }
     ]
   },
@@ -6241,6 +6721,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-1708180",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 60.297,16 R$ 116.000,00 48% Casa Caixa em Prado Ferreira / PR - 1708180 RUA JOAO MALDONATO GARCIA,N. 82 CASA, CENTRO - CEP: 86618-000, PRADO FERREIRA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Prado Ferreira",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 60297,
+    "valor_avaliacao": 116000,
+    "desconto_percentual": 48,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/prado-ferreira/residencial-lot-residencial-mitacunha-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-1708180-8787704301672-venda-direta-caixa",
+    "descricao": "R$ 60.297,16 R$ 116.000,00 48% Casa Caixa em Prado Ferreira / PR - 1708180 RUA JOAO MALDONATO GARCIA,N. 82 CASA, CENTRO - CEP: 86618-000, PRADO FERREIRA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.615962-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.615962-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 60297
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2358408",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -6365,6 +6877,102 @@
       {
         "data": "2026-07-15",
         "preco": 94077
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2089080",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 55.946,50 R$ 135.000,00 59% Casa Caixa em Santa Mônica / PR - 2089080 RUA IGUACU,N. 275 APTO. . LT 03, QD 14 A, CENTRO - CEP: 87915-000, SANTA MONICA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Santa Mônica",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 55946,
+    "valor_avaliacao": 135000,
+    "desconto_percentual": 59,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/santa-monica/residencial-lot-cidade-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2089080-8126400012441-venda-direta-caixa",
+    "descricao": "R$ 55.946,50 R$ 135.000,00 59% Casa Caixa em Santa Mônica / PR - 2089080 RUA IGUACU,N. 275 APTO. . LT 03, QD 14 A, CENTRO - CEP: 87915-000, SANTA MONICA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:25.441165-03:00",
+    "ultima_captura": "2026-07-16T20:48:25.441165-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 55946
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2299841",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 447.259,02 R$ 751.273,73 40% Casa Caixa em Santo Antônio Da Platina / PR - 2299841 RUA FLORIANO PEIXOTO,N. 727 LT A QD 102, VILA SÃO PEDRO - CEP: 86430-000, SANTO ANTONIO DA PLATINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Da Platina",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 447259,
+    "valor_avaliacao": 751273,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/santo-antonio-da-platina/residencial-vila-sao-pedro-imovel-caixa-economica-federal-cef-2299841-1600000016830-venda-direta-caixa",
+    "descricao": "R$ 447.259,02 R$ 751.273,73 40% Casa Caixa em Santo Antônio Da Platina / PR - 2299841 RUA FLORIANO PEIXOTO,N. 727 LT A QD 102, VILA SÃO PEDRO - CEP: 86430-000, SANTO ANTONIO DA PLATINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:24.906553-03:00",
+    "ultima_captura": "2026-07-16T20:48:24.906553-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 447259
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2299837",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 74.092,89 R$ 139.584,42 47% Casa Caixa em Santo Antônio Do Caiuá / PR - 2299837 PROJETADA E,N. 287 DATA 03 QD 65, CENTRO - CEP: 87730-000, SANTO ANTONIO DO CAIUA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Caiuá",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 74092,
+    "valor_avaliacao": 139584,
+    "desconto_percentual": 47,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/santo-antonio-do-caiua/residencial-3-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2299837-8444407275895-venda-direta-caixa",
+    "descricao": "R$ 74.092,89 R$ 139.584,42 47% Casa Caixa em Santo Antônio Do Caiuá / PR - 2299837 PROJETADA E,N. 287 DATA 03 QD 65, CENTRO - CEP: 87730-000, SANTO ANTONIO DO CAIUA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:48:24.949151-03:00",
+    "ultima_captura": "2026-07-16T20:48:24.949151-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 74092
       }
     ]
   },
