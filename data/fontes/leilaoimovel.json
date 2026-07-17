@@ -64,6 +64,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2860837",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 508.800,00 R$ 819.000,00 38% Casa em Brasília / DF - 2860837 QS 06 Conjunto 05, S/N, Lote nº 27 - Quadra QS-06, Riacho Fundo II, Brasilia, DF, 71884-250",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 508800,
+    "valor_avaliacao": 819000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-riacho-fundo-ii-3-dormitorio-s-2-vaga-s-de-garagem-imovel-2860837",
+    "descricao": "R$ 508.800,00 R$ 819.000,00 38% Casa em Brasília / DF - 2860837 QS 06 Conjunto 05, S/N, Lote nº 27 - Quadra QS-06, Riacho Fundo II, Brasilia, DF, 71884-250",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:42.277446-03:00",
+    "ultima_captura": "2026-07-17T14:20:42.277446-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 508800
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2664650",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -128,6 +160,230 @@
     ]
   },
   {
+    "id": "leilaoimovel-2776452",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 272.640,00 R$ 355.000,00 23% Casa Emgea em Brasília / DF - 2776452 Q QNL-13, S/N, Bloco H, Lote 08, Taguatinga Norte, Brasilia, DF, 72151-318",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 272640,
+    "valor_avaliacao": 355000,
+    "desconto_percentual": 23,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-taguatinga-norte-1-dormitorio-s-imovel-emgea-2776452",
+    "descricao": "R$ 272.640,00 R$ 355.000,00 23% Casa Emgea em Brasília / DF - 2776452 Q QNL-13, S/N, Bloco H, Lote 08, Taguatinga Norte, Brasilia, DF, 72151-318",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:42.610129-03:00",
+    "ultima_captura": "2026-07-17T14:20:42.610129-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 272640
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2892784",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 2.030.598,00 Apartamento Banco BRB em Brasília / DF - 2892784 SQNW 304, s/n, Apartamento 306, 3° Pavimento, Bloco D - Edifício Essentia, Vagas de garagem n° 82 e 83, Setor Noroeste, Brasilia, DF, 70684-025",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 2030598,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-apartamento-residencial-setor-noroeste-2-vaga-s-de-garagem-imovel-banco-brb-2892784",
+    "descricao": "R$ 2.030.598,00 Apartamento Banco BRB em Brasília / DF - 2892784 SQNW 304, s/n, Apartamento 306, 3° Pavimento, Bloco D - Edifício Essentia, Vagas de garagem n° 82 e 83, Setor Noroeste, Brasilia, DF, 70684-025",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.770305-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.770305-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 2030598
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2736298",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 447.260,00 Apartamento Banco BRB em Brasília / DF - 2736298 CRNW 510, N° 02, Lotes 2,3 e 4, Apartamento 335, Bloco B, 3° Pavimento, Comércio Regional Noroeste 510, Vaga n° 133, Setor de Habitações Coletivas Noroeste (",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 447260,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-apartamento-residencial-setor-de-habitacoes-coletivas-noroeste-shcnw-1-vaga-s-de-garagem-imovel-banco-brb-2736298",
+    "descricao": "R$ 447.260,00 Apartamento Banco BRB em Brasília / DF - 2736298 CRNW 510, N° 02, Lotes 2,3 e 4, Apartamento 335, Bloco B, 3° Pavimento, Comércio Regional Noroeste 510, Vaga n° 133, Setor de Habitações Coletivas Noroeste (SHCNW), Brasilia, DF, 70688-170",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:42.938118-03:00",
+    "ultima_captura": "2026-07-17T14:20:42.938118-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 447260
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2550929",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 4.421.516,00 Casa Banco BRB em Brasília / DF - 2550929 SMPW Quadra 27, Casa A, Conjunto 01, Lote 07, Setor de Mansões Park Way, Brasilia, DF, 71745-700",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 4421516,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-setor-de-mansoes-park-way-imovel-banco-brb-2550929",
+    "descricao": "R$ 4.421.516,00 Casa Banco BRB em Brasília / DF - 2550929 SMPW Quadra 27, Casa A, Conjunto 01, Lote 07, Setor de Mansões Park Way, Brasilia, DF, 71745-700",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.040573-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.040573-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 4421516
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2469327",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 257.145,00 Apartamento Banco BRB em Brasília / DF - 2469327 QS 412, Conjunto E, Lote 1, Apartamento 104, Residencial Novo Tempo, Samanbaia Sul, Brasilia, DF, 72320-555",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 257145,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-apartamento-residencial-samanbaia-sul-2-dormitorio-s-1-vaga-s-de-garagem-imovel-banco-brb-2469327",
+    "descricao": "R$ 257.145,00 Apartamento Banco BRB em Brasília / DF - 2469327 QS 412, Conjunto E, Lote 1, Apartamento 104, Residencial Novo Tempo, Samanbaia Sul, Brasilia, DF, 72320-555",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.087873-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.087873-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 257145
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2385475",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.685.250,00 Casa Banco BRB em Brasília / DF - 2385475 SMPW/SUL, Lote 07, Quadra 15, Conjunto 02, Unidade B, Park Way, Brasília, DF, 70297-400",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 1685250,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-park-way-imovel-banco-brb-2385475",
+    "descricao": "R$ 1.685.250,00 Casa Banco BRB em Brasília / DF - 2385475 SMPW/SUL, Lote 07, Quadra 15, Conjunto 02, Unidade B, Park Way, Brasília, DF, 70297-400",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.141042-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.141042-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 1685250
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2241855",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 2.438.316,00 Casa Banco BRB em Brasília / DF - 2241855 Quadra 17, Conjunto 14, Lote 03, Unidade C, Setor de Mansões Park Way, Setor MSPW/SUL, Brasilia, DF, 71741-714",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 2438316,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-setor-mspw-sul-5-dormitorio-s-imovel-banco-brb-2241855",
+    "descricao": "R$ 2.438.316,00 Casa Banco BRB em Brasília / DF - 2241855 Quadra 17, Conjunto 14, Lote 03, Unidade C, Setor de Mansões Park Way, Setor MSPW/SUL, Brasilia, DF, 71741-714",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.324807-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.324807-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 2438316
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2710079",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -156,6 +412,102 @@
       {
         "data": "2026-07-16",
         "preco": 356896
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2653311",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 499.961,00 Casa Banco BRB em Ceilândia / DF - 2653311 QNP 10, s/n, Conjunto F, Lote 32, Ceilândia Sul, ceilandia, DF, 72231-106",
+    "bairro": "Não identificado",
+    "cidade": "Ceilândia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 499961,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/ceilandia/residencial-casa-residencial-ceilandia-sul-imovel-banco-brb-2653311",
+    "descricao": "R$ 499.961,00 Casa Banco BRB em Ceilândia / DF - 2653311 QNP 10, s/n, Conjunto F, Lote 32, Ceilândia Sul, ceilandia, DF, 72231-106",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:42.994202-03:00",
+    "ultima_captura": "2026-07-17T14:20:42.994202-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 499961
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2079955",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 300.670,00 Casa Banco BRB em Ceilândia / DF - 2079955 Quadra QNP 30 Conjunto B, Lote 05, Ceilândia Sul (Ceilândia), ceilandia, DF, 72236-002",
+    "bairro": "Não identificado",
+    "cidade": "Ceilândia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 300670,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/ceilandia/residencial-casa-residencial-ceilandia-sul-ceilandia-imovel-banco-brb-2079955",
+    "descricao": "R$ 300.670,00 Casa Banco BRB em Ceilândia / DF - 2079955 Quadra QNP 30 Conjunto B, Lote 05, Ceilândia Sul (Ceilândia), ceilandia, DF, 72236-002",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.372016-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.372016-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 300670
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2079954",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 262.150,00 Casa Banco BRB em Ceilândia / DF - 2079954 Quadra QNP 30, Lote 19, Conjunto F, Ceilândia Sul (Ceilândia), ceilandia, DF, 72236-006",
+    "bairro": "Não identificado",
+    "cidade": "Ceilândia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 262150,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/ceilandia/residencial-casa-residencial-ceilandia-sul-ceilandia-imovel-banco-brb-2079954",
+    "descricao": "R$ 262.150,00 Casa Banco BRB em Ceilândia / DF - 2079954 Quadra QNP 30, Lote 19, Conjunto F, Ceilândia Sul (Ceilândia), ceilandia, DF, 72236-006",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.423186-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.423186-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 262150
       }
     ]
   },
@@ -284,6 +636,38 @@
       {
         "data": "2026-07-16",
         "preco": 381749
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2650836",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 395.134,87 R$ 620.000,00 36% Casa em Leilão em Brasília / DF - 2650836 QUADRA 02 CONJUNTO 07,N. SN LT 34, SETOR HABITACIONAL VICENTE PIRES - - CEP: 72001-271, BRASILIA - D... Praça única: 20/07/2026 10:00 R$ 395.134,8",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 395134,
+    "valor_avaliacao": 620000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-07-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-setor-habitacional-vicente-pires-imovel-caixa-economica-federal-cef-2650836-1444417569087-venda-direta-caixa",
+    "descricao": "R$ 395.134,87 R$ 620.000,00 36% Casa em Leilão em Brasília / DF - 2650836 QUADRA 02 CONJUNTO 07,N. SN LT 34, SETOR HABITACIONAL VICENTE PIRES - - CEP: 72001-271, BRASILIA - D... Praça única: 20/07/2026 10:00 R$ 395.134,87",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.370534-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.370534-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 395134
       }
     ]
   },
@@ -832,6 +1216,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-223249",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 481.000,00 40% Casa em Leilão em Riacho Fundo / DF - 223249 Q QN 07 LOTE 21 CONJUNTO 18,N. SN, RIACHO FUNDO - CEP: 71805-718, RIACHO FUNDO - DISTRITO FEDERAL 1ª Praça: 13/08/2026 10:00 R$ 481.000,00 2ª Praça: 19/08/20",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Riacho Fundo",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 481000,
+    "valor_avaliacao": 481000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/riacho-fundo/residencial-2-quartos-1-vaga-na-garagem-varanda-sacada-area-de-servico-wc-sala-cozinh-imovel-caixa-economica-federal-cef-223249-1555506751613-venda-direta-caixa",
+    "descricao": "R$ 481.000,00 40% Casa em Leilão em Riacho Fundo / DF - 223249 Q QN 07 LOTE 21 CONJUNTO 18,N. SN, RIACHO FUNDO - CEP: 71805-718, RIACHO FUNDO - DISTRITO FEDERAL 1ª Praça: 13/08/2026 10:00 R$ 481.000,00 2ª Praça: 19/08/2026 10:00 R$ 288.600,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.533487-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.533487-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 481000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2908614",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -860,6 +1276,38 @@
       {
         "data": "2026-07-16",
         "preco": 210000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2794117",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 208.972,06 R$ 341.287,80 39% Apartamento em Leilão em Samambaia / DF - 2794117 QN 508,N. SN APTO. 701 LT 02 QD QN 508 VG SS1/16, SAMAMBAIA SUL - CEP: 72312-201, SAMAMBAIA - DISTRI... Praça única: 05/08/2026 10:00 R$ 2",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 208972,
+    "valor_avaliacao": 341287,
+    "desconto_percentual": 39,
+    "data_encerramento": "2026-08-05T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-sul-2-quartos-1-vaga-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2794117-8787702961985-venda-direta-caixa",
+    "descricao": "R$ 208.972,06 R$ 341.287,80 39% Apartamento em Leilão em Samambaia / DF - 2794117 QN 508,N. SN APTO. 701 LT 02 QD QN 508 VG SS1/16, SAMAMBAIA SUL - CEP: 72312-201, SAMAMBAIA - DISTRI... Praça única: 05/08/2026 10:00 R$ 208.972,06",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.143417-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.143417-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 208972
       }
     ]
   },
@@ -960,6 +1408,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2788919",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 659.620,30 R$ 1.035.000,00 36% Casa em Leilão em Sobradinho / DF - 2788919 RODOVIA DF-150,N. SN LT 28 CJ P, GRANDE COLORADO - CEP: 73105-905, SOBRADINHO - DISTRITO FEDERAL Praça única: 27/07/2026 10:00 R$ 659.620,30",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Sobradinho",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 659620,
+    "valor_avaliacao": 1035000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-07-27T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/sobradinho/residencial-mansoes-colorado-3-quartos-2-vagas-na-garagem-area-de-servico-2-wc-sala-imovel-caixa-economica-federal-cef-2788919-1444417596998-venda-direta-caixa",
+    "descricao": "R$ 659.620,30 R$ 1.035.000,00 36% Casa em Leilão em Sobradinho / DF - 2788919 RODOVIA DF-150,N. SN LT 28 CJ P, GRANDE COLORADO - CEP: 73105-905, SOBRADINHO - DISTRITO FEDERAL Praça única: 27/07/2026 10:00 R$ 659.620,30",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.202573-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.202573-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 659620
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2865278",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -1020,6 +1500,38 @@
       {
         "data": "2026-07-16",
         "preco": 267034
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2774698",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 251.739,15 R$ 395.000,00 36% Apartamento em Leilão em Taguatinga / DF - 2774698 CSB 5,N. SN APTO. 1104 LT 07, TAGUATINGA SUL - CEP: 72015-555, TAGUATINGA - DISTRITO FEDERAL Praça única: 20/07/2026 10:00 R$ 251.739,15",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 251739,
+    "valor_avaliacao": 395000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-07-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-ed-via-turim-2-quartos-area-de-servico-wc-wc-emp-sala-dce-cozinha-imovel-caixa-economica-federal-cef-2774698-1245800002812-venda-direta-caixa",
+    "descricao": "R$ 251.739,15 R$ 395.000,00 36% Apartamento em Leilão em Taguatinga / DF - 2774698 CSB 5,N. SN APTO. 1104 LT 07, TAGUATINGA SUL - CEP: 72015-555, TAGUATINGA - DISTRITO FEDERAL Praça única: 20/07/2026 10:00 R$ 251.739,15",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:41.308588-03:00",
+    "ultima_captura": "2026-07-17T14:20:41.308588-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 251739
       }
     ]
   },
@@ -1180,6 +1692,102 @@
       {
         "data": "2026-07-16",
         "preco": 378571
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2385472",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 385.200,00 Casa Banco BRB em Sobradinho / DF - 2385472 Lote 39, Quadra 02, Conjunto D-06, Sobradinho, DF, 70610-410",
+    "bairro": "Não identificado",
+    "cidade": "Sobradinho",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 385200,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/sobradinho/residencial-casa-residencial-conjunto-d-06-imovel-banco-brb-2385472",
+    "descricao": "R$ 385.200,00 Casa Banco BRB em Sobradinho / DF - 2385472 Lote 39, Quadra 02, Conjunto D-06, Sobradinho, DF, 70610-410",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.232904-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.232904-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 385200
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2385473",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.316.790,00 Casa Banco BRB em Taguatinga / DF - 2385473 QND 25, Lote 02, Taguatinga Norte , Taguatinga, DF, 72120-250",
+    "bairro": "Não identificado",
+    "cidade": "Taguatinga",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 1316790,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-casa-residencial-taguatinga-norte-imovel-banco-brb-2385473",
+    "descricao": "R$ 1.316.790,00 Casa Banco BRB em Taguatinga / DF - 2385473 QND 25, Lote 02, Taguatinga Norte , Taguatinga, DF, 72120-250",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.189311-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.189311-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 1316790
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2265865",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 386.005,00 Apartamento Banco BRB em Taguatinga / DF - 2265865 Projeção A, QND-60, s/nº, Apartamento 101, Taguatinga Norte, Taguatinga, DF, 72120-600",
+    "bairro": "Não identificado",
+    "cidade": "Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 386005,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-apartamento-residencial-taguatinga-norte-2-dormitorio-s-1-vaga-s-de-garagem-imovel-banco-brb-2265865",
+    "descricao": "R$ 386.005,00 Apartamento Banco BRB em Taguatinga / DF - 2265865 Projeção A, QND-60, s/nº, Apartamento 101, Taguatinga Norte, Taguatinga, DF, 72120-600",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:20:43.279215-03:00",
+    "ultima_captura": "2026-07-17T14:20:43.279215-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 386005
       }
     ]
   },
