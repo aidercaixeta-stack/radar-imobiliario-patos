@@ -15490,6 +15490,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2533309",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.074,56 R$ 195.000,00 46% Apartamento Caixa em Bauru / SP - 2533309 RUA AUGUSTO PAULO LIMA,N. 1-166 APTO. 503 BL 06, VAGA 126, JARDIM COUNTRY CLUB - CEP: 17031-483, BAURU - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Bauru",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 106074,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 46,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/bauru/residencial-jardim-country-club-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2533309-8787718046815-venda-direta-caixa",
+    "descricao": "R$ 106.074,56 R$ 195.000,00 46% Apartamento Caixa em Bauru / SP - 2533309 RUA AUGUSTO PAULO LIMA,N. 1-166 APTO. 503 BL 06, VAGA 126, JARDIM COUNTRY CLUB - CEP: 17031-483, BAURU - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:18.721899-03:00",
+    "ultima_captura": "2026-07-17T15:14:18.721899-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 106074
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2711400",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -15550,6 +15582,38 @@
       {
         "data": "2026-07-17",
         "preco": 519411
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2537032",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 254.106,37 R$ 415.000,00 39% Apartamento Caixa em Cotia / SP - 2537032 RUA DOUTORA APARECIDA FERNANDES DE JESUS,N. 391 APTO. 44 BL 04, JARDIM PETROPOLIS - CEP: 06700-453, COTIA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Cotia",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 254106,
+    "valor_avaliacao": 415000,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/cotia/residencial-nova-zelandia-cond-2-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2537032-8555538401357-venda-direta-caixa",
+    "descricao": "R$ 254.106,37 R$ 415.000,00 39% Apartamento Caixa em Cotia / SP - 2537032 RUA DOUTORA APARECIDA FERNANDES DE JESUS,N. 391 APTO. 44 BL 04, JARDIM PETROPOLIS - CEP: 06700-453, COTIA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:18.586275-03:00",
+    "ultima_captura": "2026-07-17T15:14:18.586275-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 254106
       }
     ]
   },
@@ -15838,6 +15902,38 @@
       {
         "data": "2026-07-17",
         "preco": 780710
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2512265",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 514.766,82 R$ 850.223,85 39% Casa Caixa em Lençóis Paulista / SP - 2512265 RUA CORONEL JOAQUIM ANSELMO MARTINS,N. 194, CENTRO - CEP: 18680-070, LENCOIS PAULISTA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Lençóis Paulista",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 514766,
+    "valor_avaliacao": 850223,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/lencois-paulista/residencial-vila-contente-imovel-caixa-economica-federal-cef-2512265-10219731-venda-direta-caixa",
+    "descricao": "R$ 514.766,82 R$ 850.223,85 39% Casa Caixa em Lençóis Paulista / SP - 2512265 RUA CORONEL JOAQUIM ANSELMO MARTINS,N. 194, CENTRO - CEP: 18680-070, LENCOIS PAULISTA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:19.165305-03:00",
+    "ultima_captura": "2026-07-17T15:14:19.165305-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 514766
       }
     ]
   },
@@ -16251,6 +16347,38 @@
       {
         "data": "2026-07-17",
         "preco": 914546
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2533350",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 745.657,73 R$ 1.170.000,00 36% Casa Caixa em Platina / SP - 2533350 RUA ISMAEL BENEDITO CAMARGO,N. 453 LOTE 294 QUADRA 61, CENTRO - CEP: 19990-005, PLATINA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Platina",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 745657,
+    "valor_avaliacao": 1170000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/platina/residencial-centro-3-quartos-2-vagas-na-garagem-area-de-servico-3-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2533350-1444423180200-venda-direta-caixa",
+    "descricao": "R$ 745.657,73 R$ 1.170.000,00 36% Casa Caixa em Platina / SP - 2533350 RUA ISMAEL BENEDITO CAMARGO,N. 453 LOTE 294 QUADRA 61, CENTRO - CEP: 19990-005, PLATINA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:18.630407-03:00",
+    "ultima_captura": "2026-07-17T15:14:18.630407-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 745657
       }
     ]
   },
@@ -16958,6 +17086,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2520783",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 78.525,22 R$ 145.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2520783 AVENIDA GOVERNADOR MARIO COVAS,N. 7555 APTO. 31 TORRE 04 BL D, VALENTINA FIGUEIREDO - CEP: 14061-800, RIBEIRAO PRETO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 78525,
+    "valor_avaliacao": 145000,
+    "desconto_percentual": 46,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-vitta-parque-dos-lirios-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2520783-8787715922827-venda-direta-caixa",
+    "descricao": "R$ 78.525,22 R$ 145.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2520783 AVENIDA GOVERNADOR MARIO COVAS,N. 7555 APTO. 31 TORRE 04 BL D, VALENTINA FIGUEIREDO - CEP: 14061-800, RIBEIRAO PRETO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:19.125161-03:00",
+    "ultima_captura": "2026-07-17T15:14:19.125161-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 78525
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2512244",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 79.066,78 R$ 146.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2512244 RUA ADEMIR SPAGNOL MILUZZI,N. 700 APTO. 31 BL E TR 03, JARDIM DIVA TARLA DE CARVALHO - CEP: 14079-402, RIBEIRAO PRETO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 79066,
+    "valor_avaliacao": 146000,
+    "desconto_percentual": 46,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-cond-toplife-san-francisco-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2512244-8787710657009-venda-direta-caixa",
+    "descricao": "R$ 79.066,78 R$ 146.000,00 46% Apartamento Caixa em Ribeirão Preto / SP - 2512244 RUA ADEMIR SPAGNOL MILUZZI,N. 700 APTO. 31 BL E TR 03, JARDIM DIVA TARLA DE CARVALHO - CEP: 14079-402, RIBEIRAO PRETO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:19.543132-03:00",
+    "ultima_captura": "2026-07-17T15:14:19.543132-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 79066
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2394764",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -17146,6 +17338,38 @@
       {
         "data": "2026-07-16",
         "preco": 120882
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2567779",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 315.470,58 R$ 495.000,00 36% Casa Caixa em Santa Cruz Das Palmeiras / SP - 2567779 RUA DARCI BORTOLOTO ZANOLLI,N. 301 LT 04 QD 13 RUA SETE, JARDIM SANTA CLARA - CEP: 13653-098, SANTA CRUZ DAS PALMEIRAS - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Santa Cruz Das Palmeiras",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 315470,
+    "valor_avaliacao": 495000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/santa-cruz-das-palmeiras/residencial-jardim-santa-clara-quarto-area-de-servico-3-wc-sala-cozinha-terraco-imovel-caixa-economica-federal-cef-2567779-1444420569726-venda-direta-caixa",
+    "descricao": "R$ 315.470,58 R$ 495.000,00 36% Casa Caixa em Santa Cruz Das Palmeiras / SP - 2567779 RUA DARCI BORTOLOTO ZANOLLI,N. 301 LT 04 QD 13 RUA SETE, JARDIM SANTA CLARA - CEP: 13653-098, SANTA CRUZ DAS PALMEIRAS - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:18.483249-03:00",
+    "ultima_captura": "2026-07-17T15:14:18.483249-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 315470
       }
     ]
   },
@@ -17341,6 +17565,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2512249",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 367.507,29 R$ 607.000,00 39% Casa Caixa em São Manuel / SP - 2512249 RUA JOSE LUIZ DA MOTA MACEDO,N. SN, JARDIM ALVORADA - CEP: 18652-504, SAO MANUEL - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São Manuel",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 367507,
+    "valor_avaliacao": 607000,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-manuel/residencial-jardim-alvorada-2-quartos-1-vaga-na-garagem-area-de-servico-2-wc-sala-c-imovel-caixa-economica-federal-cef-2512249-1444419831072-venda-direta-caixa",
+    "descricao": "R$ 367.507,29 R$ 607.000,00 39% Casa Caixa em São Manuel / SP - 2512249 RUA JOSE LUIZ DA MOTA MACEDO,N. SN, JARDIM ALVORADA - CEP: 18652-504, SAO MANUEL - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:19.340454-03:00",
+    "ultima_captura": "2026-07-17T15:14:19.340454-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 367507
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2520856",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -17529,6 +17785,38 @@
       {
         "data": "2026-07-16",
         "preco": 120882
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2567772",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 413.718,84 R$ 693.000,00 40% Casa Caixa em São Paulo / SP - 2567772 RUA JOAQUIM JOSE DA SILVA XAVIER,N. 103 LT 21 QD I, JARDIM TANGO - CEP: 03904-100, SAO PAULO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 413718,
+    "valor_avaliacao": 693000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-jardim-tango-imovel-caixa-economica-federal-cef-2567772-8444432108107-venda-direta-caixa",
+    "descricao": "R$ 413.718,84 R$ 693.000,00 40% Casa Caixa em São Paulo / SP - 2567772 RUA JOAQUIM JOSE DA SILVA XAVIER,N. 103 LT 21 QD I, JARDIM TANGO - CEP: 03904-100, SAO PAULO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:14:18.541518-03:00",
+    "ultima_captura": "2026-07-17T15:14:18.541518-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 413718
       }
     ]
   },
