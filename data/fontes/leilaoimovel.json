@@ -4587,6 +4587,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2725806",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 103.139,93 R$ 167.000,00 38% Apartamento Caixa em Contagem / MG - 2725806 RUA VINTE E UM,N. 120 APTO. 401 BL 03, OITIS - CEP: 32141-104, CONTAGEM - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Contagem",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 103139,
+    "valor_avaliacao": 167000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/contagem/residencial-residencial-solar-dos-oitis-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2725806-8444415238685-venda-direta-caixa",
+    "descricao": "R$ 103.139,93 R$ 167.000,00 38% Apartamento Caixa em Contagem / MG - 2725806 RUA VINTE E UM,N. 120 APTO. 401 BL 03, OITIS - CEP: 32141-104, CONTAGEM - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:21.066559-03:00",
+    "ultima_captura": "2026-07-17T14:26:21.066559-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 103139
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2119854",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -4646,6 +4678,38 @@
       {
         "data": "2026-07-15",
         "preco": 113690
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2721037",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 64.417,88 R$ 112.731,78 43% Apartamento Caixa em Divinópolis / MG - 2721037 RUA MARAJUARAS,N. 1051 APTO. 03 BL 06 VG 142, FAZ GAFANHOTO - CEP: 35504-566, DIVINOPOLIS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Divinópolis",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 64417,
+    "valor_avaliacao": 112731,
+    "desconto_percentual": 43,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/divinopolis/residencial-res-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2721037-8787701690058-venda-direta-caixa",
+    "descricao": "R$ 64.417,88 R$ 112.731,78 43% Apartamento Caixa em Divinópolis / MG - 2721037 RUA MARAJUARAS,N. 1051 APTO. 03 BL 06 VG 142, FAZ GAFANHOTO - CEP: 35504-566, DIVINOPOLIS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:21.255532-03:00",
+    "ultima_captura": "2026-07-17T14:26:21.255532-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 64417
       }
     ]
   },
@@ -5033,6 +5097,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2725830",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Januária / MG - 2725830 RUA B,N. S/N QD-G, LT47, LOTEAMENTO LIBERDADE - CEP: 39480-000, JANUARIA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Januária",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 100741,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/januaria/residencial-loteamento-liberdade-2-quartos-varanda-sacada-area-de-servico-2-wc-cozin-imovel-caixa-economica-federal-cef-2725830-8555537742924-venda-direta-caixa",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Januária / MG - 2725830 RUA B,N. S/N QD-G, LT47, LOTEAMENTO LIBERDADE - CEP: 39480-000, JANUARIA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.778561-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.778561-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 100741
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2317203",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5061,6 +5157,38 @@
       {
         "data": "2026-07-15",
         "preco": 59243
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745741",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 81.578,19 R$ 135.000,00 40% Apartamento Caixa em João Monlevade / MG - 2745741 RUA BARRA MANSA,N. 1208 APTO. 103 BL15, VALE DO SOL - CEP: 35930-172, JOAO MONLEVADE - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "João Monlevade",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 81578,
+    "valor_avaliacao": 135000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/joao-monlevade/residencial-conjunto-habitacional-vale-do-sol-2-quartos-area-de-servico-wc-sala-cozi-imovel-caixa-economica-federal-cef-2745741-8444421128020-venda-direta-caixa",
+    "descricao": "R$ 81.578,19 R$ 135.000,00 40% Apartamento Caixa em João Monlevade / MG - 2745741 RUA BARRA MANSA,N. 1208 APTO. 103 BL15, VALE DO SOL - CEP: 35930-172, JOAO MONLEVADE - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.555541-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.555541-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 81578
       }
     ]
   },
@@ -5193,10 +5321,74 @@
     ]
   },
   {
+    "id": "leilaoimovel-2745768",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 119.358,90 R$ 197.478,88 40% Apartamento Caixa em Juiz De Fora / MG - 2745768 AVENIDA JUIZ DE FORA,N. 1801 APTO. 1105 TORRE III, GRAMA - CEP: 36048-001, JUIZ DE FORA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Juiz De Fora",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 119358,
+    "valor_avaliacao": 197478,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/juiz-de-fora/residencial-residencial-unique-grama-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2745768-8787711630678-venda-direta-caixa",
+    "descricao": "R$ 119.358,90 R$ 197.478,88 40% Apartamento Caixa em Juiz De Fora / MG - 2745768 AVENIDA JUIZ DE FORA,N. 1801 APTO. 1105 TORRE III, GRAMA - CEP: 36048-001, JUIZ DE FORA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:19.880193-03:00",
+    "ultima_captura": "2026-07-17T14:26:19.880193-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 119358
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745765",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 134.179,80 R$ 222.000,00 40% Apartamento Caixa em Juiz De Fora / MG - 2745765 RUA EUCHERIO RODRIGUES,N. 700 APTO. 605 BL 03, JOQUEI CLUBE - CEP: 36081-520, JUIZ DE FORA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Juiz De Fora",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 134179,
+    "valor_avaliacao": 222000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/juiz-de-fora/residencial-cond-res-jardim-independencia-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2745765-8787716289826-venda-direta-caixa",
+    "descricao": "R$ 134.179,80 R$ 222.000,00 40% Apartamento Caixa em Juiz De Fora / MG - 2745765 RUA EUCHERIO RODRIGUES,N. 700 APTO. 605 BL 03, JOQUEI CLUBE - CEP: 36081-520, JUIZ DE FORA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:19.997648-03:00",
+    "ultima_captura": "2026-07-17T14:26:19.997648-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 134179
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2745736",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
-    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Lagoa Santa / MG - 2745736 AVENIDA SAO SEBASTIAO,N. 1133 APTO. 104 BL 25, VILA MARIZA - CEP: 33234-880, LAGOA SANTA - MINAS GERAIS Encerra em: 15/07/2026 18:00",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Lagoa Santa / MG - 2745736 AVENIDA SAO SEBASTIAO,N. 1133 APTO. 104 BL 25, VILA MARIZA - CEP: 33234-880, LAGOA SANTA - MINAS GERAIS",
     "bairro": "Não identificado",
     "cidade": "Lagoa Santa",
     "uf": "MG",
@@ -5204,18 +5396,19 @@
     "preco": 100741,
     "valor_avaliacao": 170000,
     "desconto_percentual": 41,
-    "data_encerramento": "2026-07-15T18:00:00-03:00",
+    "data_encerramento": null,
     "fonte": "Leilão Imóvel",
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/lagoa-santa/residencial-res-lisboa-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2745736-8787711376550-venda-direta-caixa",
-    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Lagoa Santa / MG - 2745736 AVENIDA SAO SEBASTIAO,N. 1133 APTO. 104 BL 25, VILA MARIZA - CEP: 33234-880, LAGOA SANTA - MINAS GERAIS Encerra em: 15/07/2026 18:00",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Lagoa Santa / MG - 2745736 AVENIDA SAO SEBASTIAO,N. 1133 APTO. 104 BL 25, VILA MARIZA - CEP: 33234-880, LAGOA SANTA - MINAS GERAIS",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T16:17:16.588037-03:00",
-    "ultima_captura": "2026-07-15T16:17:16.588037-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.714731-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -5288,6 +5481,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2725823",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 111.553,31 R$ 184.564,55 40% Casa Caixa em Matias Barbosa / MG - 2725823 RUA DOUTOR JOSÉ PEDRO RIBEIRO JUNQUEIRA,N. 274 CS 12, LT 06-A, CENTRO - CEP: 36120-000, MATIAS BARBOSA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Matias Barbosa",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 111553,
+    "valor_avaliacao": 184564,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/matias-barbosa/residencial-centro-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2725823-8444403710864-venda-direta-caixa",
+    "descricao": "R$ 111.553,31 R$ 184.564,55 40% Casa Caixa em Matias Barbosa / MG - 2725823 RUA DOUTOR JOSÉ PEDRO RIBEIRO JUNQUEIRA,N. 274 CS 12, LT 06-A, CENTRO - CEP: 36120-000, MATIAS BARBOSA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.957633-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.957633-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 111553
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2317200",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5352,6 +5577,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2745751",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Montes Claros / MG - 2745751 RUA QUATRO,N. 429, RESIDENCIAL VITORIA - CEP: 39400-000, MONTES CLAROS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Montes Claros",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 100741,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/montes-claros/residencial-residencial-vitoria-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2745751-8444423761324-venda-direta-caixa",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Casa Caixa em Montes Claros / MG - 2745751 RUA QUATRO,N. 429, RESIDENCIAL VITORIA - CEP: 39400-000, MONTES CLAROS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.435849-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.435849-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 100741
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2394546",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5410,6 +5667,70 @@
     "historico_precos": [
       {
         "data": "2026-07-15",
+        "preco": 106667
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2725815",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 95.407,73 R$ 161.000,00 41% Casa Caixa em Patos De Minas / MG - 2725815 RUA SEBASTIAO REINALDO SOBRINHO,N. 18 LT 02, QD A19, JARDIM QUEBEC - CEP: 38701-892, PATOS DE MINAS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Patos De Minas",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 95407,
+    "valor_avaliacao": 161000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/patos-de-minas/residencial-jardim-quebec-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2725815-8787709597324-venda-direta-caixa",
+    "descricao": "R$ 95.407,73 R$ 161.000,00 41% Casa Caixa em Patos De Minas / MG - 2725815 RUA SEBASTIAO REINALDO SOBRINHO,N. 18 LT 02, QD A19, JARDIM QUEBEC - CEP: 38701-892, PATOS DE MINAS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:21.011902-03:00",
+    "ultima_captura": "2026-07-17T14:26:21.011902-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 95407
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2725802",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.667,03 R$ 180.000,00 41% Casa Caixa em Patos De Minas / MG - 2725802 RUA LAURA EULALIA DE OLIVEIRA,N. 376 LT 04, QD 3, RESIDENCIAL SORRISO - CEP: 38700-000, PATOS DE MINAS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Patos De Minas",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 106667,
+    "valor_avaliacao": 180000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/patos-de-minas/residencial-residencial-sorriso-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2725802-8444424829089-venda-direta-caixa",
+    "descricao": "R$ 106.667,03 R$ 180.000,00 41% Casa Caixa em Patos De Minas / MG - 2725802 RUA LAURA EULALIA DE OLIVEIRA,N. 376 LT 04, QD 3, RESIDENCIAL SORRISO - CEP: 38700-000, PATOS DE MINAS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:21.136768-03:00",
+    "ultima_captura": "2026-07-17T14:26:21.136768-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
         "preco": 106667
       }
     ]
@@ -5571,6 +5892,38 @@
       {
         "data": "2026-07-15",
         "preco": 98667
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745773",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em São João Del Rei / MG - 2745773 AVENIDA DOMINGOS PINTO CAMARANO,N. 360 APTO. 103 BL 8 PAV 1, COLONIA DO MARCAL - CEP: 36302-004, SAO JOAO DEL REI - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "São João Del Rei",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/sao-joao-del-rei/residencial-ed-res-recanto-dos-sinos-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2745773-8787716545270-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em São João Del Rei / MG - 2745773 AVENIDA DOMINGOS PINTO CAMARANO,N. 360 APTO. 103 BL 8 PAV 1, COLONIA DO MARCAL - CEP: 36302-004, SAO JOAO DEL REI - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:19.733143-03:00",
+    "ultima_captura": "2026-07-17T14:26:19.733143-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 120882
       }
     ]
   },
@@ -5796,6 +6149,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2745754",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 97.778,11 R$ 165.000,00 41% Apartamento Caixa em Uberaba / MG - 2745754 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 301 BL 21 VG 312, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 97778,
+    "valor_avaliacao": 165000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-residencial-turim-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-c-imovel-caixa-economica-federal-cef-2745754-8787707713734-venda-direta-caixa",
+    "descricao": "R$ 97.778,11 R$ 165.000,00 41% Apartamento Caixa em Uberaba / MG - 2745754 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 301 BL 21 VG 312, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.278603-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.278603-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 97778
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745753",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 86.648,52 R$ 148.000,00 41% Apartamento Caixa em Uberaba / MG - 2745753 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 203 BL 05 VG 21, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 86648,
+    "valor_avaliacao": 148000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-residencial-turim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2745753-8787711852204-venda-direta-caixa",
+    "descricao": "R$ 86.648,52 R$ 148.000,00 41% Apartamento Caixa em Uberaba / MG - 2745753 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 203 BL 05 VG 21, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.371760-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.371760-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 86648
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2168992",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5854,6 +6271,102 @@
       {
         "data": "2026-07-15",
         "preco": 112420
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745772",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 126.926,84 R$ 210.000,00 40% Apartamento Caixa em Uberaba / MG - 2745772 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 103 BL 16 VG 76, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 126926,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-cond-residencial-villa-vic-bilbao-2-quartos-1-vaga-na-garagem-area-de-serv-imovel-caixa-economica-federal-cef-2745772-8787712312440-venda-direta-caixa",
+    "descricao": "R$ 126.926,84 R$ 210.000,00 40% Apartamento Caixa em Uberaba / MG - 2745772 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 103 BL 16 VG 76, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:19.782429-03:00",
+    "ultima_captura": "2026-07-17T14:26:19.782429-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 126926
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745771",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 122.091,53 R$ 202.000,00 40% Apartamento Caixa em Uberaba / MG - 2745771 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 102 BL 22 VG 190, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 122091,
+    "valor_avaliacao": 202000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-cond-residencial-villa-vic-bilbao-2-quartos-1-vaga-na-garagem-wc-sala-co-imovel-caixa-economica-federal-cef-2745771-8787712620315-venda-direta-caixa",
+    "descricao": "R$ 122.091,53 R$ 202.000,00 40% Apartamento Caixa em Uberaba / MG - 2745771 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 102 BL 22 VG 190, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:19.829356-03:00",
+    "ultima_captura": "2026-07-17T14:26:19.829356-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 122091
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2725825",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 114.838,57 R$ 190.000,00 40% Apartamento Caixa em Uberaba / MG - 2725825 RUA OUTONO,N. 250 APTO. 403 BL15, VG216, BOA VISTA - CEP: 38071-180, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 114838,
+    "valor_avaliacao": 190000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-condominio-residencial-veneza-2-quartos-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2725825-8787717452950-venda-direta-caixa",
+    "descricao": "R$ 114.838,57 R$ 190.000,00 40% Apartamento Caixa em Uberaba / MG - 2725825 RUA OUTONO,N. 250 APTO. 403 BL15, VG216, BOA VISTA - CEP: 38071-180, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.858292-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.858292-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 114838
       }
     ]
   },
@@ -6013,6 +6526,70 @@
       {
         "data": "2026-07-15",
         "preco": 100765
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2745740",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 139.015,11 R$ 230.000,00 40% Apartamento Caixa em Varginha / MG - 2745740 AVENIDA JOSE OLAVO DE PAIVA,N. 361 APTO. 268 BL26, VARGEM - CEP: 37022-585, VARGINHA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Varginha",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 139015,
+    "valor_avaliacao": 230000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/varginha/residencial-cond-paiva-e-silva-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2745740-8555532940183-venda-direta-caixa",
+    "descricao": "R$ 139.015,11 R$ 230.000,00 40% Apartamento Caixa em Varginha / MG - 2745740 AVENIDA JOSE OLAVO DE PAIVA,N. 361 APTO. 268 BL26, VARGEM - CEP: 37022-585, VARGINHA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:20.660397-03:00",
+    "ultima_captura": "2026-07-17T14:26:20.660397-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 139015
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2725798",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.819,45 R$ 150.000,00 41% Apartamento Caixa em Vespasiano / MG - 2725798 RUA SERRA DAS PALMEIRAS,N. 630 APTO. 302 BL12, SERRA DOURADA - CEP: 33202-522, VESPASIANO - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Vespasiano",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 87819,
+    "valor_avaliacao": 150000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/vespasiano/residencial-serra-dourada-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2725798-8444428719903-venda-direta-caixa",
+    "descricao": "R$ 87.819,45 R$ 150.000,00 41% Apartamento Caixa em Vespasiano / MG - 2725798 RUA SERRA DAS PALMEIRAS,N. 630 APTO. 302 BL12, SERRA DOURADA - CEP: 33202-522, VESPASIANO - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:26:21.193824-03:00",
+    "ultima_captura": "2026-07-17T14:26:21.193824-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 87819
       }
     ]
   },
