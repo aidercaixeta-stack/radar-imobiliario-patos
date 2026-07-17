@@ -256,6 +256,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2889477",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 381.749,20 37% Apartamento em Leilão em Brasília / DF - 2889477 QUADRA 301,N. SN APTO. 603 TORRE B, LT 1, CONJ 08, CENTRO URBANO - CEP: 72300-545, BRASILIA - DISTRI... 1ª Praça: 30/07/2026 10:00 R$ 381.749,20 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 381749,
+    "valor_avaliacao": 381749,
+    "desconto_percentual": 37,
+    "data_encerramento": "2026-07-30T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-centro-urbano-2-quartos-1-vaga-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2889477-1787701298990-venda-direta-caixa",
+    "descricao": "R$ 381.749,20 37% Apartamento em Leilão em Brasília / DF - 2889477 QUADRA 301,N. SN APTO. 603 TORRE B, LT 1, CONJ 08, CENTRO URBANO - CEP: 72300-545, BRASILIA - DISTRI... 1ª Praça: 30/07/2026 10:00 R$ 381.749,20 2ª Praça: 05/08/2026 10:00 R$ 239.841,40",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.824625-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.824625-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 381749
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2901740",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -352,6 +384,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2887188",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 266.979,70 26% Apartamento em Leilão em Brasília / DF - 2887188 AVENIDA BURITI SUBCENTRO URBANO 400/600,N. SN APTO. 448 LOTE 5, RECANTO DAS EMAS - CEP: 72630-000, B... 1ª Praça: 27/07/2026 10:00 R$ 266.979,70 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 266979,
+    "valor_avaliacao": 266979,
+    "desconto_percentual": 26,
+    "data_encerramento": "2026-07-27T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-recanto-das-emas-imovel-caixa-economica-federal-cef-2887188-8787714712616-venda-direta-caixa",
+    "descricao": "R$ 266.979,70 26% Apartamento em Leilão em Brasília / DF - 2887188 AVENIDA BURITI SUBCENTRO URBANO 400/600,N. SN APTO. 448 LOTE 5, RECANTO DAS EMAS - CEP: 72630-000, B... 1ª Praça: 27/07/2026 10:00 R$ 266.979,70 2ª Praça: 31/07/2026 10:00 R$ 197.075,09",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.965911-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.965911-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 266979
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2870697",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 200.258,19 17% Apartamento em Leilão em Brasília / DF - 2870697 Q QN 108,N. SN APTO. 401 BL A LT 01 CJ 01 ENTRADA D, SAMAMBAIA - CEP: 72302-251, BRASILIA - DISTRITO... 1ª Praça: 24/07/2026 10:00 R$ 200.258,19 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 200258,
+    "valor_avaliacao": 200258,
+    "desconto_percentual": 17,
+    "data_encerramento": "2026-07-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-samambaia-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2870697-8444433126397-venda-direta-caixa",
+    "descricao": "R$ 200.258,19 17% Apartamento em Leilão em Brasília / DF - 2870697 Q QN 108,N. SN APTO. 401 BL A LT 01 CJ 01 ENTRADA D, SAMAMBAIA - CEP: 72302-251, BRASILIA - DISTRITO... 1ª Praça: 24/07/2026 10:00 R$ 200.258,19 2ª Praça: 30/07/2026 10:00 R$ 165.266,55",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.072969-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.072969-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 200258
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2870696",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 266.979,70 15% Apartamento em Leilão em Brasília / DF - 2870696 AVENIDA BURITI,N. SN APTO. 146 LT 05 SUBCENTRO 400 600, RECANTO DAS EMAS - CEP: 72630-250, BRASILIA ... 1ª Praça: 24/07/2026 10:00 R$ 266.979,70 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 266979,
+    "valor_avaliacao": 266979,
+    "desconto_percentual": 15,
+    "data_encerramento": "2026-07-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-recanto-das-emas-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2870696-1787701719929-venda-direta-caixa",
+    "descricao": "R$ 266.979,70 15% Apartamento em Leilão em Brasília / DF - 2870696 AVENIDA BURITI,N. SN APTO. 146 LT 05 SUBCENTRO 400 600, RECANTO DAS EMAS - CEP: 72630-250, BRASILIA ... 1ª Praça: 24/07/2026 10:00 R$ 266.979,70 2ª Praça: 30/07/2026 10:00 R$ 226.228,49",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.111347-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.111347-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 266979
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2921040",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -384,6 +512,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2865282",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 317.587,44 R$ 347.571,40 9% Apartamento em Leilão em Brasília / DF - 2865282 QUADRA 301,N. SN APTO. 403 TR D LT 01 CJ 08, CENTRO URBANO - CEP: 72300-545, BRASILIA - DISTRITO FED... 1ª Praça: 14/07/2026 10:00 R$ 347.57",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 317587,
+    "valor_avaliacao": 347571,
+    "desconto_percentual": 9,
+    "data_encerramento": "2026-07-14T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-centro-urbano-2-quartos-1-vaga-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2865282-1787701928420-venda-direta-caixa",
+    "descricao": "R$ 317.587,44 R$ 347.571,40 9% Apartamento em Leilão em Brasília / DF - 2865282 QUADRA 301,N. SN APTO. 403 TR D LT 01 CJ 08, CENTRO URBANO - CEP: 72300-545, BRASILIA - DISTRITO FED... 1ª Praça: 14/07/2026 10:00 R$ 347.571,40 2ª Praça: 20/07/2026 10:00 R$ 317.587,44",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.156731-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.156731-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 317587
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2901742",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -412,6 +572,102 @@
       {
         "data": "2026-07-16",
         "preco": 826432
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2865281",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 748.550,85 Casa em Leilão em Brasília / DF - 2865281 QUADRA 8,N. SN CJ J QD 08 LT 22, GAMA - CEP: 72415-410, BRASILIA - DISTRITO FEDERAL 1ª Praça: 14/07/2026 10:00 R$ 601.313,02 2ª Praça: 20/07/2026 10:00 R$ 748.550,8",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 748550,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-07-14T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-gama-3-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2865281-1444418421040-venda-direta-caixa",
+    "descricao": "R$ 748.550,85 Casa em Leilão em Brasília / DF - 2865281 QUADRA 8,N. SN CJ J QD 08 LT 22, GAMA - CEP: 72415-410, BRASILIA - DISTRITO FEDERAL 1ª Praça: 14/07/2026 10:00 R$ 601.313,02 2ª Praça: 20/07/2026 10:00 R$ 748.550,85",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.242298-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.242298-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 748550
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2822875",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 210.313,72 R$ 330.000,00 36% Casa em Leilão em Ceilândia / DF - 2822875 QNQ 5,N. SN CJ 05 LT 13, CEILANDIA NORTE - CEP: 72270-505, CEILANDIA - DISTRITO FEDERAL Praça única: 07/08/2026 10:00 R$ 210.313,72",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Ceilândia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 210313,
+    "valor_avaliacao": 330000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-08-07T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/ceilandia/residencial-norte-4-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2822875-1444418600590-venda-direta-caixa",
+    "descricao": "R$ 210.313,72 R$ 330.000,00 36% Casa em Leilão em Ceilândia / DF - 2822875 QNQ 5,N. SN CJ 05 LT 13, CEILANDIA NORTE - CEP: 72270-505, CEILANDIA - DISTRITO FEDERAL Praça única: 07/08/2026 10:00 R$ 210.313,72",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:20.304347-03:00",
+    "ultima_captura": "2026-07-16T20:24:20.304347-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 210313
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2858348",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 466.619,38 10% Casa em Leilão em Ceilândia / DF - 2858348 QUADRA NORTE O 5,N. SN LT 52 CONJUNTO A, CEILANDIA NORTE - CEP: 72251-002, CEILANDIA - DISTRITO FEDE... 1ª Praça: 13/07/2026 10:00 R$ 516.224,41 2ª Praça: 17/0",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Ceilândia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 466619,
+    "valor_avaliacao": 516224,
+    "desconto_percentual": 10,
+    "data_encerramento": "2026-07-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/ceilandia/residencial-norte-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2858348-1444419350708-venda-direta-caixa",
+    "descricao": "R$ 466.619,38 10% Casa em Leilão em Ceilândia / DF - 2858348 QUADRA NORTE O 5,N. SN LT 52 CONJUNTO A, CEILANDIA NORTE - CEP: 72251-002, CEILANDIA - DISTRITO FEDE... 1ª Praça: 13/07/2026 10:00 R$ 516.224,41 2ª Praça: 17/07/2026 10:00 R$ 466.619,38",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:20.240282-03:00",
+    "ultima_captura": "2026-07-16T20:24:20.240282-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 466619
       }
     ]
   },
@@ -480,6 +736,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2889475",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 168.840,81 48% Casa em Leilão em Recanto Das Emas / DF - 2889475 QUADRA 116,N. 01 CJ 07, RECANTO DAS EMAS - CEP: 72603-400, RECANTO DAS EMAS - DISTRITO FEDERAL 1ª Praça: 30/07/2026 10:00 R$ 168.840,81 2ª Praça: 05/08/",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Recanto Das Emas",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 168840,
+    "valor_avaliacao": 168840,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-30T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/recanto-das-emas/residencial-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2889475-8444414002629-venda-direta-caixa",
+    "descricao": "R$ 168.840,81 48% Casa em Leilão em Recanto Das Emas / DF - 2889475 QUADRA 116,N. 01 CJ 07, RECANTO DAS EMAS - CEP: 72603-400, RECANTO DAS EMAS - DISTRITO FEDERAL 1ª Praça: 30/07/2026 10:00 R$ 168.840,81 2ª Praça: 05/08/2026 10:00 R$ 87.600,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.870212-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.870212-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 168840
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900056",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 213.421,32 39% Apartamento em Leilão em Recanto Das Emas / DF - 2900056 AVENIDA BURITIS QUADRA 201(ANT RUA 6),N. SN APTO. 648 LT 01, RECANTO DAS EMAS - CEP: 72610-118, RECA... 1ª Praça: 04/08/2026 10:00 R$ 213.421,32 ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Recanto Das Emas",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 213421,
+    "valor_avaliacao": 213421,
+    "desconto_percentual": 39,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/recanto-das-emas/residencial-imovel-caixa-economica-federal-cef-2900056-8787716450880-venda-direta-caixa",
+    "descricao": "R$ 213.421,32 39% Apartamento em Leilão em Recanto Das Emas / DF - 2900056 AVENIDA BURITIS QUADRA 201(ANT RUA 6),N. SN APTO. 648 LT 01, RECANTO DAS EMAS - CEP: 72610-118, RECA... 1ª Praça: 04/08/2026 10:00 R$ 213.421,32 2ª Praça: 10/08/2026 10:00 R$ 131.245,22",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.717915-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.717915-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 213421
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900057",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 342.415,76 37% Apartamento em Leilão em Recanto Das Emas / DF - 2900057 AVENIDA BURITIS QUADRA 201 (ANT RUA 06),N. SN APTO. 729 LT 01, RECANTO DAS EMAS - CEP: 72610-118, RE... 1ª Praça: 04/08/2026 10:00 R$ 342.415,76 ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Recanto Das Emas",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 342415,
+    "valor_avaliacao": 342415,
+    "desconto_percentual": 37,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/recanto-das-emas/residencial-imovel-caixa-economica-federal-cef-2900057-8787718803292-venda-direta-caixa",
+    "descricao": "R$ 342.415,76 37% Apartamento em Leilão em Recanto Das Emas / DF - 2900057 AVENIDA BURITIS QUADRA 201 (ANT RUA 06),N. SN APTO. 729 LT 01, RECANTO DAS EMAS - CEP: 72610-118, RE... 1ª Praça: 04/08/2026 10:00 R$ 342.415,76 2ª Praça: 10/08/2026 10:00 R$ 214.906,24",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.659346-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.659346-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 342415
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2908614",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -508,6 +860,70 @@
       {
         "data": "2026-07-16",
         "preco": 210000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2808775",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 200.754,00 R$ 315.000,00 36% Casa em Leilão em Samambaia / DF - 2808775 QR 512,N. SN LT 07 CJ 03, SAMAMBAIA SUL - CEP: 72312-803, SAMAMBAIA - DISTRITO FEDERAL Praça única: 13/08/2026 10:00 R$ 200.754,00",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 200754,
+    "valor_avaliacao": 315000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-sul-3-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2808775-1444418618502-venda-direta-caixa",
+    "descricao": "R$ 200.754,00 R$ 315.000,00 36% Casa em Leilão em Samambaia / DF - 2808775 QR 512,N. SN LT 07 CJ 03, SAMAMBAIA SUL - CEP: 72312-803, SAMAMBAIA - DISTRITO FEDERAL Praça única: 13/08/2026 10:00 R$ 200.754,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:20.366043-03:00",
+    "ultima_captura": "2026-07-16T20:24:20.366043-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 200754
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2889474",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 370.937,70 1% Casa em Leilão em Samambaia / DF - 2889474 QUADRA QR 104,N. SN LT 01 CJ 15, SAMAMBAIA SUL - CEP: 72302-016, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 30/07/2026 10:00 R$ 370.937,70 2ª Praça: 05/08/2026 10:0",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 370937,
+    "valor_avaliacao": 370937,
+    "desconto_percentual": 1,
+    "data_encerramento": "2026-07-30T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-sul-imovel-caixa-economica-federal-cef-2889474-1444417510708-venda-direta-caixa",
+    "descricao": "R$ 370.937,70 1% Casa em Leilão em Samambaia / DF - 2889474 QUADRA QR 104,N. SN LT 01 CJ 15, SAMAMBAIA SUL - CEP: 72302-016, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 30/07/2026 10:00 R$ 370.937,70 2ª Praça: 05/08/2026 10:00 R$ 365.464,60",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.918950-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.918950-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 370937
       }
     ]
   },
@@ -544,6 +960,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2865278",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 218.452,08 R$ 364.086,81 40% Apartamento em Leilão em Taguatinga / DF - 2865278 RUA 25,N. SN APTO. 412 LT 14 VAGA 245, NORTE (AGUAS CLARAS) - CEP: 71917-180, TAGUATINGA - DISTRITO ... 1ª Praça: 14/07/2026 10:00 R$ 364",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 218452,
+    "valor_avaliacao": 364086,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-14T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-norte-aguas-claras-quarto-1-vaga-na-garagem-area-de-servico-wc-sala-c-imovel-caixa-economica-federal-cef-2865278-1555533759697-venda-direta-caixa",
+    "descricao": "R$ 218.452,08 R$ 364.086,81 40% Apartamento em Leilão em Taguatinga / DF - 2865278 RUA 25,N. SN APTO. 412 LT 14 VAGA 245, NORTE (AGUAS CLARAS) - CEP: 71917-180, TAGUATINGA - DISTRITO ... 1ª Praça: 14/07/2026 10:00 R$ 364.086,81 2ª Praça: 20/07/2026 10:00 R$ 218.452,08",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.551716-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.551716-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 218452
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2808773",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 267.034,69 R$ 419.000,00 36% Apartamento em Leilão em Taguatinga / DF - 2808773 QUADRA QNL 01,N. SN APTO. 309 BL D, TAGUATINGA NORTE - CEP: 72150-117, TAGUATINGA - DISTRITO FEDERAL Praça única: 13/08/2026 10:00 R$ 267",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 267034,
+    "valor_avaliacao": 419000,
+    "desconto_percentual": 36,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-norte-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2808773-1444418745490-venda-direta-caixa",
+    "descricao": "R$ 267.034,69 R$ 419.000,00 36% Apartamento em Leilão em Taguatinga / DF - 2808773 QUADRA QNL 01,N. SN APTO. 309 BL D, TAGUATINGA NORTE - CEP: 72150-117, TAGUATINGA - DISTRITO FEDERAL Praça única: 13/08/2026 10:00 R$ 267.034,69",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:20.422791-03:00",
+    "ultima_captura": "2026-07-16T20:24:20.422791-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 267034
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2892779",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 300.000,00 21% Apartamento em Leilão em Taguatinga / DF - 2892779 QI 24,N. SN APTO. 105 LOT 01 A 13 TORRE C QD QI 24, SETOR INDUSTRIAL - CEP: 72135-240, TAGUATINGA - ... 1ª Praça: 03/08/2026 10:00 R$ 300.000,00 2ª Pra",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 300000,
+    "valor_avaliacao": 300000,
+    "desconto_percentual": 21,
+    "data_encerramento": "2026-08-03T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-setor-industrial-2-quartos-1-vaga-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2892779-8555537910398-venda-direta-caixa",
+    "descricao": "R$ 300.000,00 21% Apartamento em Leilão em Taguatinga / DF - 2892779 QI 24,N. SN APTO. 105 LOT 01 A 13 TORRE C QD QI 24, SETOR INDUSTRIAL - CEP: 72135-240, TAGUATINGA - ... 1ª Praça: 03/08/2026 10:00 R$ 300.000,00 2ª Praça: 07/08/2026 10:00 R$ 236.871,57",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:18.769909-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.769909-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 300000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2901737",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -560,18 +1072,82 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-setor-industrial-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2901737-1555524047493-venda-direta-caixa",
     "descricao": "R$ 315.000,00 Apartamento em Leilão em Taguatinga / DF - 2901737 QUADRA QI 24,N. SN APTO. 110 TR A VG 568, SETOR INDUSTRIAL - CEP: 72135-240, TAGUATINGA - DISTRITO F... 1ª Praça: 13/08/2026 10:00 R$ 315.000,00 2ª Praça: 19/08/2026 10:00 R$ 592.498,76",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-16T16:47:41.378329-03:00",
-    "ultima_captura": "2026-07-16T16:47:41.378329-03:00",
+    "ultima_captura": "2026-07-16T20:24:18.588854-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-16",
         "preco": 315000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2887186",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 602.000,00 Apartamento em Leilão em Taguatinga / DF - 2887186 ALAMEDA DOS EUCALIPITOS,N. SN APTO. 908 VG 115 BLOCO B QUADRA 107, NORTE (AGUAS CLARAS) - CEP: 71919... 1ª Praça: 27/07/2026 10:00 R$ 602.000,00 2ª Praça: ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 602000,
+    "valor_avaliacao": 602000,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-07-27T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-norte-aguas-claras-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2887186-1555521370226-venda-direta-caixa",
+    "descricao": "R$ 602.000,00 Apartamento em Leilão em Taguatinga / DF - 2887186 ALAMEDA DOS EUCALIPITOS,N. SN APTO. 908 VG 115 BLOCO B QUADRA 107, NORTE (AGUAS CLARAS) - CEP: 71919... 1ª Praça: 27/07/2026 10:00 R$ 602.000,00 2ª Praça: 31/07/2026 10:00 R$ 2.297.611,07",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.027484-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.027484-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 602000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2865277",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 584.416,39 Apartamento em Leilão em Taguatinga / DF - 2865277 QI 24,N. SN APTO. 908 TR F LT 14 A 27, SETOR INDUSTRIAL - CEP: 72135-240, TAGUATINGA - DISTRITO FEDE... 1ª Praça: 14/07/2026 10:00 R$ 320.000,00 2ª Praça: ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 584416,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-07-14T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-setor-industrial-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2865277-1555520066191-venda-direta-caixa",
+    "descricao": "R$ 584.416,39 Apartamento em Leilão em Taguatinga / DF - 2865277 QI 24,N. SN APTO. 908 TR F LT 14 A 27, SETOR INDUSTRIAL - CEP: 72135-240, TAGUATINGA - DISTRITO FEDE... 1ª Praça: 14/07/2026 10:00 R$ 320.000,00 2ª Praça: 20/07/2026 10:00 R$ 584.416,39",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:24:19.867685-03:00",
+    "ultima_captura": "2026-07-16T20:24:19.867685-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 584416
       }
     ]
   },
