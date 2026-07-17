@@ -6107,6 +6107,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2901819",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 240.000,00 35% Casa em Leilão em Araquari / SC - 2901819 RUA RIO DO SUL,N. 29 GEMINADA 002 - RESIDENCIAL RIO DO SUL, ITINGA - CEP: 89245-000, ARAQUARI - SANT... 1ª Praça: 13/08/2026 10:00 R$ 240.000,00 2ª Praça: 19/08",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Araquari",
+    "uf": "SC",
+    "tipo": "Casa",
+    "preco": 240000,
+    "valor_avaliacao": 240000,
+    "desconto_percentual": 35,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/araquari/residencial-residencial-rio-do-sul-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sa-imovel-caixa-economica-federal-cef-2901819-8444413891969-venda-direta-caixa",
+    "descricao": "R$ 240.000,00 35% Casa em Leilão em Araquari / SC - 2901819 RUA RIO DO SUL,N. 29 GEMINADA 002 - RESIDENCIAL RIO DO SUL, ITINGA - CEP: 89245-000, ARAQUARI - SANT... 1ª Praça: 13/08/2026 10:00 R$ 240.000,00 2ª Praça: 19/08/2026 10:00 R$ 156.977,90",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.354826-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.354826-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 240000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2870726",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -6139,6 +6171,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2901817",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 200.000,00 46% Apartamento em Leilão em Blumenau / SC - 2901817 RUA JOÃO DEOLA,N. 150 APTO. 304 BLOCO 03, 3º PAVIMENTO, VAGA 69, PROGRESSO - CEP: 89027-350, BLUME... 1ª Praça: 13/08/2026 10:00 R$ 200.000,00 2ª Praça: ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Blumenau",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 200000,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/blumenau/residencial-residencial-bela-vista-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2901817-8787710184887-venda-direta-caixa",
+    "descricao": "R$ 200.000,00 46% Apartamento em Leilão em Blumenau / SC - 2901817 RUA JOÃO DEOLA,N. 150 APTO. 304 BLOCO 03, 3º PAVIMENTO, VAGA 69, PROGRESSO - CEP: 89027-350, BLUME... 1ª Praça: 13/08/2026 10:00 R$ 200.000,00 2ª Praça: 19/08/2026 10:00 R$ 107.929,80",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.400477-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.400477-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 200000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2921071",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -6155,18 +6219,50 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/blumenau/residencial-condominio-smart-haus-rni-2-quartos-1-vaga-na-garagem-wc-cozinha-imovel-caixa-economica-federal-cef-2921071-8787711927301-venda-direta-caixa",
     "descricao": "R$ 300.000,00 44% Apartamento em Leilão em Blumenau / SC - 2921071 RUA GUSTAVO ZIMMERMANN,N. 5095 APTO. 08 BLOCO A - ESTACIONAMENTO Nº 74, ITOUPAVA CENTRAL - CEP: 890... 1ª Praça: 24/08/2026 10:00 R$ 300.000,00 2ª Praça: 28/08/2026 10:00 R$ 168.000,00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:19:15.298903-03:00",
-    "ultima_captura": "2026-07-15T17:19:15.298903-03:00",
+    "ultima_captura": "2026-07-16T20:12:19.870177-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-15",
         "preco": 300000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900086",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 260.000,00 33% Apartamento em Leilão em Blumenau / SC - 2900086 RUA HEINRICH HEMMER,N. 1836 APTO. 406 TORRE 02 BOX 41, BADENFURT - CEP: 89070-000, BLUMENAU - SANTA ... 1ª Praça: 04/08/2026 10:00 R$ 260.000,00 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Blumenau",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 260000,
+    "valor_avaliacao": 260000,
+    "desconto_percentual": 33,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/blumenau/residencial-residencial-torres-de-bristol-2-quartos-1-vaga-na-garagem-wc-sala-cozinh-imovel-caixa-economica-federal-cef-2900086-8787715371715-venda-direta-caixa",
+    "descricao": "R$ 260.000,00 33% Apartamento em Leilão em Blumenau / SC - 2900086 RUA HEINRICH HEMMER,N. 1836 APTO. 406 TORRE 02 BOX 41, BADENFURT - CEP: 89070-000, BLUMENAU - SANTA ... 1ª Praça: 04/08/2026 10:00 R$ 260.000,00 2ª Praça: 10/08/2026 10:00 R$ 174.836,80",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.535576-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.535576-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 260000
       }
     ]
   },
@@ -6187,14 +6283,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/brusque/residencial-condominio-residencial-imigrantes-de-karlsdorf-2-quartos-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2921073-8444429200871-venda-direta-caixa",
     "descricao": "R$ 235.000,00 21% Apartamento em Leilão em Brusque / SC - 2921073 TRAVESSA DOM JOAQUIM,N. 155 APTO. 402 BLOCO 10, CEDRINHO - CEP: 88358-400, BRUSQUE - SANTA CATARINA 1ª Praça: 24/08/2026 10:00 R$ 235.000,00 2ª Praça: 28/08/2026 10:00 R$ 185.493,66",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:19:15.204473-03:00",
-    "ultima_captura": "2026-07-15T17:19:15.204473-03:00",
+    "ultima_captura": "2026-07-16T20:12:19.748457-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -6219,14 +6315,14 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/campo-ere/residencial-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2908660-1444419122519-venda-direta-caixa",
     "descricao": "R$ 280.000,00 23% Casa em Leilão em Campo Erê / SC - 2908660 RUA PRISCILA PERUCCHI NUNES DE SOUZA,N. 604 LT 03 QD 126, CAMPO ERE - CEP: 89980-000, CAMPO ERE - SA... 1ª Praça: 20/08/2026 10:00 R$ 280.000,00 2ª Praça: 26/08/2026 10:00 R$ 216.241,60",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:19:15.392333-03:00",
-    "ultima_captura": "2026-07-15T17:19:15.392333-03:00",
+    "ultima_captura": "2026-07-16T20:12:19.961729-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -6251,18 +6347,114 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/chapeco/residencial-res-jardim-magnolia-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2921070-8787709422044-venda-direta-caixa",
     "descricao": "R$ 257.500,00 31% Apartamento em Leilão em Chapecó / SC - 2921070 RUA IVETE MARIA CUNICO,N. 197D APTO. 403 BL F VG F403, SANTO ANTONIO - CEP: 89815-636, CHAPECO - SAN... 1ª Praça: 24/08/2026 10:00 R$ 257.500,00 2ª Praça: 28/08/2026 10:00 R$ 178.732,29",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:19:15.352370-03:00",
-    "ultima_captura": "2026-07-15T17:19:15.352370-03:00",
+    "ultima_captura": "2026-07-16T20:12:19.917372-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-15",
         "preco": 257500
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900085",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 240.000,00 19% Apartamento em Leilão em Criciúma / SC - 2900085 RUA VERGINIO CONTI,N. SN APTO. 302 BL 05, ANA MARIA - CEP: 88815-322, CRICIUMA - SANTA CATARINA 1ª Praça: 04/08/2026 10:00 R$ 240.000,00 2ª Praça: 10/08/",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Criciúma",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 240000,
+    "valor_avaliacao": 240000,
+    "desconto_percentual": 19,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/criciuma/residencial-res-villa-dos-imigrantes-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2900085-8787719212786-venda-direta-caixa",
+    "descricao": "R$ 240.000,00 19% Apartamento em Leilão em Criciúma / SC - 2900085 RUA VERGINIO CONTI,N. SN APTO. 302 BL 05, ANA MARIA - CEP: 88815-322, CRICIUMA - SANTA CATARINA 1ª Praça: 04/08/2026 10:00 R$ 240.000,00 2ª Praça: 10/08/2026 10:00 R$ 195.598,38",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.578247-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.578247-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 240000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2908658",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 783.000,00 13% Apartamento em Leilão em Florianópolis / SC - 2908658 RUA POETA FRANCISCO MACHADO DE SOUZA,N. 275 APTO. 607, ESTREITO - CEP: 88070-010, FLORIANOPOLIS - SA... 1ª Praça: 20/08/2026 10:00 R$ 783.000,00 2ª ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Florianópolis",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 783000,
+    "valor_avaliacao": 783000,
+    "desconto_percentual": 13,
+    "data_encerramento": "2026-08-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/florianopolis/residencial-ed-one-by-coral-2-quartos-area-de-servico-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2908658-1444422821775-venda-direta-caixa",
+    "descricao": "R$ 783.000,00 13% Apartamento em Leilão em Florianópolis / SC - 2908658 RUA POETA FRANCISCO MACHADO DE SOUZA,N. 275 APTO. 607, ESTREITO - CEP: 88070-010, FLORIANOPOLIS - SA... 1ª Praça: 20/08/2026 10:00 R$ 783.000,00 2ª Praça: 26/08/2026 10:00 R$ 680.245,47",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.049204-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.049204-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 783000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901815",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 250.000,00 23% Casa em Leilão em Indaial / SC - 2901815 RUA AFFONSO FIRMO DA SILVA,N. 475 UNIDADE AUTÔNOMA Nº 01, WARNOW - CEP: 89081-200, INDAIAL - SANTA... 1ª Praça: 13/08/2026 10:00 R$ 250.000,00 2ª Praça: 19/08/20",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Indaial",
+    "uf": "SC",
+    "tipo": "Casa",
+    "preco": 250000,
+    "valor_avaliacao": 250000,
+    "desconto_percentual": 23,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/indaial/residencial-residencial-bem-lxxxvi-imovel-caixa-economica-federal-cef-2901815-1444421224781-venda-direta-caixa",
+    "descricao": "R$ 250.000,00 23% Casa em Leilão em Indaial / SC - 2901815 RUA AFFONSO FIRMO DA SILVA,N. 475 UNIDADE AUTÔNOMA Nº 01, WARNOW - CEP: 89081-200, INDAIAL - SANTA... 1ª Praça: 13/08/2026 10:00 R$ 250.000,00 2ª Praça: 19/08/2026 10:00 R$ 193.151,82",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.490530-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.490530-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 250000
       }
     ]
   },
@@ -6283,18 +6475,146 @@
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/itajai/residencial-condominio-residencial-jomar-2-quartos-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2921072-8444408874857-venda-direta-caixa",
     "descricao": "R$ 315.000,00 40% Apartamento em Leilão em Itajaí / SC - 2921072 RUA JOSE LUIZ MARCELINO,N. 472 APTO. 303 BLOCO C, CORDEIROS - CEP: 88311-300, ITAJAI - SANTA CATARIN... 1ª Praça: 24/08/2026 10:00 R$ 315.000,00 2ª Praça: 28/08/2026 10:00 R$ 189.000,00",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:19:15.251948-03:00",
-    "ultima_captura": "2026-07-15T17:19:15.251948-03:00",
+    "ultima_captura": "2026-07-16T20:12:19.826130-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 2,
     "historico_precos": [
       {
         "data": "2026-07-15",
         "preco": 315000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901823",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 545.000,00 40% Casa em Leilão em Ituporanga / SC - 2901823 RUA HUGO HAVERROTH,N. SN RESIDENCIA 01, GABIROBA - CEP: 88400-000, ITUPORANGA - SANTA CATARINA 1ª Praça: 13/08/2026 10:00 R$ 545.000,00 2ª Praça: 19/08/2026 1",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Ituporanga",
+    "uf": "SC",
+    "tipo": "Casa",
+    "preco": 545000,
+    "valor_avaliacao": 545000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/ituporanga/residencial-condominio-residencial-luiz-marcilio-i-4-quartos-1-vaga-na-garagem-area-de-imovel-caixa-economica-federal-cef-2901823-8444407368583-venda-direta-caixa",
+    "descricao": "R$ 545.000,00 40% Casa em Leilão em Ituporanga / SC - 2901823 RUA HUGO HAVERROTH,N. SN RESIDENCIA 01, GABIROBA - CEP: 88400-000, ITUPORANGA - SANTA CATARINA 1ª Praça: 13/08/2026 10:00 R$ 545.000,00 2ª Praça: 19/08/2026 10:00 R$ 327.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.177287-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.177287-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 545000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2908657",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 300.000,00 40% Apartamento em Leilão em Jaraguá Do Sul / SC - 2908657 RUA ARTHUR GONCALVES DE ARAUJO,N. 664 APTO. 505 VAGA DE ESTACIONAMENTO N 505, JOAO PESSOA - CEP: 892... 1ª Praça: 20/08/2026 10:00 R$ 300.000,00 2ª",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Jaraguá Do Sul",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 300000,
+    "valor_avaliacao": 300000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/jaragua-do-sul/residencial-residencial-das-arvores-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2908657-8555521701336-venda-direta-caixa",
+    "descricao": "R$ 300.000,00 40% Apartamento em Leilão em Jaraguá Do Sul / SC - 2908657 RUA ARTHUR GONCALVES DE ARAUJO,N. 664 APTO. 505 VAGA DE ESTACIONAMENTO N 505, JOAO PESSOA - CEP: 892... 1ª Praça: 20/08/2026 10:00 R$ 300.000,00 2ª Praça: 26/08/2026 10:00 R$ 180.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.092553-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.092553-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 300000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2908659",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 250.000,00 40% Apartamento em Leilão em Joinville / SC - 2908659 RUA BOEHMERWALD,N. 2635 APTO. 304 BL 05, BOEHMERWALD - CEP: 89232-485, JOINVILLE - SANTA CATARINA 1ª Praça: 20/08/2026 10:00 R$ 250.000,00 2ª Praça: 26/",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Joinville",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 250000,
+    "valor_avaliacao": 250000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/joinville/residencial-boehmerwald-3-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2908659-8444404276432-venda-direta-caixa",
+    "descricao": "R$ 250.000,00 40% Apartamento em Leilão em Joinville / SC - 2908659 RUA BOEHMERWALD,N. 2635 APTO. 304 BL 05, BOEHMERWALD - CEP: 89232-485, JOINVILLE - SANTA CATARINA 1ª Praça: 20/08/2026 10:00 R$ 250.000,00 2ª Praça: 26/08/2026 10:00 R$ 150.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.003977-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.003977-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 250000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901821",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 213.139,80 3% Apartamento em Leilão em Joinville / SC - 2901821 RUA JOÃO DA COSTA JÚNIOR,N. SN APTO. 202 BLOCO 05, 2º PAVIMENTO, VAGA 29 E M05, COSTA E SILVA - C... 1ª Praça: 13/08/2026 10:00 R$ 213.139,80 2ª Praça: 1",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Joinville",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 213139,
+    "valor_avaliacao": 213139,
+    "desconto_percentual": 3,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/joinville/residencial-residencial-jardim-de-firenze-2-quartos-2-vagas-na-garagem-wc-sala-cozin-imovel-caixa-economica-federal-cef-2901821-8787717378199-venda-direta-caixa",
+    "descricao": "R$ 213.139,80 3% Apartamento em Leilão em Joinville / SC - 2901821 RUA JOÃO DA COSTA JÚNIOR,N. SN APTO. 202 BLOCO 05, 2º PAVIMENTO, VAGA 29 E M05, COSTA E SILVA - C... 1ª Praça: 13/08/2026 10:00 R$ 213.139,80 2ª Praça: 19/08/2026 10:00 R$ 205.685,72",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.263436-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.263436-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 213139
       }
     ]
   },
@@ -6327,6 +6647,134 @@
       {
         "data": "2026-07-15",
         "preco": 205000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901822",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 930.000,00 40% Casa em Leilão em Morro Da Fumaça / SC - 2901822 RUA CASEMIRO SMIELEVSKI (ANTIGA RUA PROJETADA A),N. 112, DIST EST DE COCAL - CEP: 88837-000, MORRO D... 1ª Praça: 13/08/2026 10:00 R$ 930.000,00 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Morro Da Fumaça",
+    "uf": "SC",
+    "tipo": "Casa",
+    "preco": 930000,
+    "valor_avaliacao": 930000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/morro-da-fumaca/residencial-dist-est-de-cocal-3-quartos-area-de-servico-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2901822-1444419173903-venda-direta-caixa",
+    "descricao": "R$ 930.000,00 40% Casa em Leilão em Morro Da Fumaça / SC - 2901822 RUA CASEMIRO SMIELEVSKI (ANTIGA RUA PROJETADA A),N. 112, DIST EST DE COCAL - CEP: 88837-000, MORRO D... 1ª Praça: 13/08/2026 10:00 R$ 930.000,00 2ª Praça: 19/08/2026 10:00 R$ 558.076,06",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.219818-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.219818-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 930000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2908653",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 299.000,00 40% Apartamento em Leilão em São José / SC - 2908653 RUA MARIA OLIVEIRA,N. 551 APTO. 301 LT 59, SERRARIA - CEP: 88115-163, SAO JOSE - SANTA CATARINA 1ª Praça: 20/08/2026 10:00 R$ 299.000,00 2ª Praça: 26/08/",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em São José",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 299000,
+    "valor_avaliacao": 299000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-20T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/sao-jose/residencial-res-valentina-2-quartos-area-de-servico-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2908653-8444413003052-venda-direta-caixa",
+    "descricao": "R$ 299.000,00 40% Apartamento em Leilão em São José / SC - 2908653 RUA MARIA OLIVEIRA,N. 551 APTO. 301 LT 59, SERRARIA - CEP: 88115-163, SAO JOSE - SANTA CATARINA 1ª Praça: 20/08/2026 10:00 R$ 299.000,00 2ª Praça: 26/08/2026 10:00 R$ 179.400,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.134732-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.134732-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 299000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901820",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 515.000,00 40% Apartamento em Leilão em São José / SC - 2901820 RUA NOSSA SENHORA APARECIDA,N. 372 APTO. 201 2º PAVIMENTO, Nº 75, BARREIROS - CEP: 88117-325, SAO ... 1ª Praça: 13/08/2026 10:00 R$ 515.000,00 2ª Praça: ",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em São José",
+    "uf": "SC",
+    "tipo": "Apartamento",
+    "preco": 515000,
+    "valor_avaliacao": 515000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/sao-jose/residencial-golden-tower-residence-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sa-imovel-caixa-economica-federal-cef-2901820-8444418029440-venda-direta-caixa",
+    "descricao": "R$ 515.000,00 40% Apartamento em Leilão em São José / SC - 2901820 RUA NOSSA SENHORA APARECIDA,N. 372 APTO. 201 2º PAVIMENTO, Nº 75, BARREIROS - CEP: 88117-325, SAO ... 1ª Praça: 13/08/2026 10:00 R$ 515.000,00 2ª Praça: 19/08/2026 10:00 R$ 309.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.310872-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.310872-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 515000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901816",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 230.000,00 40% Casa em Leilão em Tubarão / SC - 2901816 RUA PEDRO MENEGAZ,N. 48 LT 30 QD C, SAO JOAO (MARGEM DIREITA) - CEP: 88702-873, TUBARAO - SANTA CATA... 1ª Praça: 13/08/2026 10:00 R$ 230.000,00 2ª Praça: 19/08/",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Tubarão",
+    "uf": "SC",
+    "tipo": "Casa",
+    "preco": 230000,
+    "valor_avaliacao": 230000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sc/tubarao/residencial-sao-joao-margem-direita-3-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2901816-8555511568692-venda-direta-caixa",
+    "descricao": "R$ 230.000,00 40% Casa em Leilão em Tubarão / SC - 2901816 RUA PEDRO MENEGAZ,N. 48 LT 30 QD C, SAO JOAO (MARGEM DIREITA) - CEP: 88702-873, TUBARAO - SANTA CATA... 1ª Praça: 13/08/2026 10:00 R$ 230.000,00 2ª Praça: 19/08/2026 10:00 R$ 138.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:12:20.448166-03:00",
+    "ultima_captura": "2026-07-16T20:12:20.448166-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 2,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 230000
       }
     ]
   },
