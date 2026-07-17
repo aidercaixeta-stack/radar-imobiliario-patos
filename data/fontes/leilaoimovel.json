@@ -9442,6 +9442,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2614263",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 221.921,19 R$ 362.436,00 39% Casa Caixa em Alvorada / RS - 2614263 RUA DOM PEDRITO,N. 117 PARTE LT 09 CHACARA 02 QD 31, APARECIDA - CEP: 94838-460, ALVORADA - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Alvorada",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 221921,
+    "valor_avaliacao": 362436,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/alvorada/residencial-aparecida-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2614263-8444406534447-venda-direta-caixa",
+    "descricao": "R$ 221.921,19 R$ 362.436,00 39% Casa Caixa em Alvorada / RS - 2614263 RUA DOM PEDRITO,N. 117 PARTE LT 09 CHACARA 02 QD 31, APARECIDA - CEP: 94838-460, ALVORADA - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.985851-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.985851-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 221921
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2614833",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 232.619,72 R$ 365.000,00 36% Casa Caixa em Alvorada / RS - 2614833 RUA MARIZ E BARROS (ANTIGA RUA A),N. 1062 QD 04, LT 13, AMERICANA - CEP: 94820-411, ALVORADA - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Alvorada",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 232619,
+    "valor_avaliacao": 365000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/alvorada/residencial-loteamento-parque-sao-caetano-ha-divergencia-na-descricao-do-imovel-entre-a-matr-imovel-caixa-economica-federal-cef-2614833-10218347-venda-direta-caixa",
+    "descricao": "R$ 232.619,72 R$ 365.000,00 36% Casa Caixa em Alvorada / RS - 2614833 RUA MARIZ E BARROS (ANTIGA RUA A),N. 1062 QD 04, LT 13, AMERICANA - CEP: 94820-411, ALVORADA - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.933247-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.933247-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 232619
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2575525",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.056.348,45 R$ 1.700.000,00 38% Casa Caixa em Cachoeira Do Sul / RS - 2575525 RUA DUQUE DE CAXIAS,N. 1373 CASA, SOARES - CEP: 96501-536, CACHOEIRA DO SUL - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Cachoeira Do Sul",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 1056348,
+    "valor_avaliacao": 1700000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/cachoeira-do-sul/residencial-soares-imovel-caixa-economica-federal-cef-2575525-10238939-venda-direta-caixa",
+    "descricao": "R$ 1.056.348,45 R$ 1.700.000,00 38% Casa Caixa em Cachoeira Do Sul / RS - 2575525 RUA DUQUE DE CAXIAS,N. 1373 CASA, SOARES - CEP: 96501-536, CACHOEIRA DO SUL - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.198988-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.198988-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 1056348
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2721189",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -9730,6 +9826,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2546483",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 559.243,29 R$ 900.000,00 38% Apartamento Caixa em Canoas / RS - 2546483 RUA CANDIDO MACHADO,N. 100 APTO. 1205 COBERTURA, BOX 08 E BOX 09, CENTRO - CEP: 92010-270, CANOAS - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Canoas",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 559243,
+    "valor_avaliacao": 900000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/canoas/residencial-centro-3-quartos-1-vaga-na-garagem-2-varandas-sacadas-area-de-servico-3-imovel-caixa-economica-federal-cef-2546483-1444403309878-venda-direta-caixa",
+    "descricao": "R$ 559.243,29 R$ 900.000,00 38% Apartamento Caixa em Canoas / RS - 2546483 RUA CANDIDO MACHADO,N. 100 APTO. 1205 COBERTURA, BOX 08 E BOX 09, CENTRO - CEP: 92010-270, CANOAS - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.415049-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.415049-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 559243
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2702295",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -9890,6 +10018,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2543150",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 63.638,08 R$ 115.000,00 45% Terreno Caixa em Gentil / RS - 2543150 AVENIDA OTÁVIO OLINDO TONIN,N. 00 QD 35, LT 06, CENTRO - CEP: 99160-000, GENTIL - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Gentil",
+    "uf": "RS",
+    "tipo": "Lote",
+    "preco": 63638,
+    "valor_avaliacao": 115000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/gentil/terreno-centro-imovel-caixa-economica-federal-cef-2543150-10221519-venda-direta-caixa",
+    "descricao": "R$ 63.638,08 R$ 115.000,00 45% Terreno Caixa em Gentil / RS - 2543150 AVENIDA OTÁVIO OLINDO TONIN,N. 00 QD 35, LT 06, CENTRO - CEP: 99160-000, GENTIL - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.455837-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.455837-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 63638
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2721184",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -9918,6 +10078,38 @@
       {
         "data": "2026-07-17",
         "preco": 350626
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2641634",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 477.348,41 R$ 749.000,00 36% Casa Caixa em Gravataí / RS - 2641634 RUA ALVARENGA,N. 13 LT 24 QD 06, MORADA DO VALE III - CEP: 94080-170, GRAVATAI - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Gravataí",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 477348,
+    "valor_avaliacao": 749000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/gravatai/residencial-lot-morada-do-vale-iii-3-quartos-area-de-servico-3-wc-2-salas-lavabo-co-imovel-caixa-economica-federal-cef-2641634-1444418256899-venda-direta-caixa",
+    "descricao": "R$ 477.348,41 R$ 749.000,00 36% Casa Caixa em Gravataí / RS - 2641634 RUA ALVARENGA,N. 13 LT 24 QD 06, MORADA DO VALE III - CEP: 94080-170, GRAVATAI - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.707396-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.707396-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 477348
       }
     ]
   },
@@ -9954,6 +10146,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2624893",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 522.597,73 R$ 820.000,00 36% Casa Caixa em Guaíba / RS - 2624893 RUA DOS PARDAIS,N. 151 CS 110 LT 40 QD B, CORONEL NASSUCA - CEP: 92701-456, GUAIBA - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Guaíba",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 522597,
+    "valor_avaliacao": 820000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/guaiba/residencial-coronel-nassuca-3-quartos-area-de-servico-3-wc-2-salas-lavabo-cozinha-imovel-caixa-economica-federal-cef-2624893-1444422371672-venda-direta-caixa",
+    "descricao": "R$ 522.597,73 R$ 820.000,00 36% Casa Caixa em Guaíba / RS - 2624893 RUA DOS PARDAIS,N. 151 CS 110 LT 40 QD B, CORONEL NASSUCA - CEP: 92701-456, GUAIBA - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.891993-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.891993-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 522597
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2668607",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -9982,6 +10206,38 @@
       {
         "data": "2026-07-17",
         "preco": 297307
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2553956",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 73.676,29 R$ 137.500,00 46% Casa Caixa em Parobé / RS - 2553956 RUA PARAÍBA,N. 290 LT 09 QD B, COLINA DO LEAO - CEP: 95630-000, PAROBE - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Parobé",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 73676,
+    "valor_avaliacao": 137500,
+    "desconto_percentual": 46,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/parobe/residencial-colina-do-leao-quarto-2-vagas-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2553956-8444417615710-venda-direta-caixa",
+    "descricao": "R$ 73.676,29 R$ 137.500,00 46% Casa Caixa em Parobé / RS - 2553956 RUA PARAÍBA,N. 290 LT 09 QD B, COLINA DO LEAO - CEP: 95630-000, PAROBE - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.373064-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.373064-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 73676
       }
     ]
   },
@@ -10722,6 +10978,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2575547",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 97.118,29 R$ 170.000,00 43% Terreno Caixa em Porto Alegre / RS - 2575547 RUA CICERO VIANA,N. SN QD E, LT 05, ABERTA DOS MORROS - CEP: 91755-017, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Lote",
+    "preco": 97118,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/terreno-aberta-dos-morros-situado-no-quarteirao-formado-pela-av-diretriz-6432-atual-av-alt-imovel-caixa-economica-federal-cef-2575547-10224693-venda-direta-caixa",
+    "descricao": "R$ 97.118,29 R$ 170.000,00 43% Terreno Caixa em Porto Alegre / RS - 2575547 RUA CICERO VIANA,N. SN QD E, LT 05, ABERTA DOS MORROS - CEP: 91755-017, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.157591-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.157591-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 97118
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2575516",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 91.405,44 R$ 160.000,00 43% Terreno Caixa em Porto Alegre / RS - 2575516 AV. ALTOS DO SANTA RITA(ANT AV. DIRETRIZ 6432),N. 00 QD E, LT 04, ABERTA DOS MORROS - CEP: 91755-016, PORTO ALEGRE - RIO GRANDE DO SUL Encerra e",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Lote",
+    "preco": 91405,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/terreno-aberta-dos-morros-imovel-caixa-economica-federal-cef-2575516-10274829-venda-direta-caixa",
+    "descricao": "R$ 91.405,44 R$ 160.000,00 43% Terreno Caixa em Porto Alegre / RS - 2575516 AV. ALTOS DO SANTA RITA(ANT AV. DIRETRIZ 6432),N. 00 QD E, LT 04, ABERTA DOS MORROS - CEP: 91755-016, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.241964-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.241964-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 91405
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2641656",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -10746,6 +11066,70 @@
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
     "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 96647
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2641649",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 96.647,37 R$ 160.500,00 40% Terreno Caixa em Porto Alegre / RS - 2641649 RUA 50580,N. S/N QD D, LT 36, TERESOPOLIS - CEP: 91720-430, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Lote",
+    "preco": 96647,
+    "valor_avaliacao": 160500,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/terreno-teresopolis-imovel-caixa-economica-federal-cef-2641649-10279400-venda-direta-caixa",
+    "descricao": "R$ 96.647,37 R$ 160.500,00 40% Terreno Caixa em Porto Alegre / RS - 2641649 RUA 50580,N. S/N QD D, LT 36, TERESOPOLIS - CEP: 91720-430, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.646794-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.646794-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 96647
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2641622",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 96.647,37 R$ 160.500,00 40% Terreno Caixa em Porto Alegre / RS - 2641622 5080,N. S/N QD D, LT 34, VILA NOVA - CEP: 91720-430, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Lote",
+    "preco": 96647,
+    "valor_avaliacao": 160500,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/terreno-vila-nova-imovel-caixa-economica-federal-cef-2641622-10279401-venda-direta-caixa",
+    "descricao": "R$ 96.647,37 R$ 160.500,00 40% Terreno Caixa em Porto Alegre / RS - 2641622 5080,N. S/N QD D, LT 34, VILA NOVA - CEP: 91720-430, PORTO ALEGRE - RIO GRANDE DO SUL Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.766406-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.766406-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
     "historico_precos": [
       {
         "data": "2026-07-17",
@@ -10818,6 +11202,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2575515",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 208.162,78 R$ 335.000,00 38% Apartamento Caixa em Porto Alegre / RS - 2575515 RUA DOUTOR BARCELOS,N. 2434 APTO. 103 TR A PAV 01, VG 93, TRISTEZA - CEP: 91910-251, PORTO ALEGRE - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Apartamento",
+    "preco": 208162,
+    "valor_avaliacao": 335000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-tristeza-1-vaga-na-garagem-imovel-caixa-economica-federal-cef-2575515-1444403719251-venda-direta-caixa",
+    "descricao": "R$ 208.162,78 R$ 335.000,00 38% Apartamento Caixa em Porto Alegre / RS - 2575515 RUA DOUTOR BARCELOS,N. 2434 APTO. 103 TR A PAV 01, VG 93, TRISTEZA - CEP: 91910-251, PORTO ALEGRE - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.287807-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.287807-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 208162
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2666399",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -10846,6 +11262,38 @@
       {
         "data": "2026-07-17",
         "preco": 589515
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2641621",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 618.194,87 R$ 970.000,00 36% Casa Caixa em Porto Alegre / RS - 2641621 ESTRADA CRISTIANO KRAEMER,N. 105, VILA NOVA - CEP: 91750-060, PORTO ALEGRE - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 618194,
+    "valor_avaliacao": 970000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/porto-alegre/residencial-vila-nova-imovel-caixa-economica-federal-cef-2641621-10283560-venda-direta-caixa",
+    "descricao": "R$ 618.194,87 R$ 970.000,00 36% Casa Caixa em Porto Alegre / RS - 2641621 ESTRADA CRISTIANO KRAEMER,N. 105, VILA NOVA - CEP: 91750-060, PORTO ALEGRE - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.806898-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.806898-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 618194
       }
     ]
   },
@@ -10882,6 +11330,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2598737",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 637.314,30 R$ 1.000.000,00 36% Casa Caixa em Sananduva / RS - 2598737 RUA ZILDO ZENI,N. 269 QD 01 LT13, , COHASA - CEP: 99840-000, SANANDUVA - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Sananduva",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 637314,
+    "valor_avaliacao": 1000000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/sananduva/residencial-cohasa-4-quartos-area-de-servico-2-wc-2-salas-imovel-caixa-economica-federal-cef-2598737-1444405970083-venda-direta-caixa",
+    "descricao": "R$ 637.314,30 R$ 1.000.000,00 36% Casa Caixa em Sananduva / RS - 2598737 RUA ZILDO ZENI,N. 269 QD 01 LT13, , COHASA - CEP: 99840-000, SANANDUVA - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.079576-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.079576-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 637314
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2666411",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -10910,6 +11390,38 @@
       {
         "data": "2026-07-17",
         "preco": 242179
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2603842",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 200.754,00 R$ 315.000,00 36% Casa Caixa em Santa Maria / RS - 2603842 RUA JAGUARI,N. 65 LT 07, PRESIDENTE JOAO GOULART - CEP: 97090-320, SANTA MARIA - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Santa Maria",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 200754,
+    "valor_avaliacao": 315000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/santa-maria/residencial-presidente-joao-goulart-2-quartos-2-vagas-na-garagem-area-de-servico-wc-imovel-caixa-economica-federal-cef-2603842-1050100003739-venda-direta-caixa",
+    "descricao": "R$ 200.754,00 R$ 315.000,00 36% Casa Caixa em Santa Maria / RS - 2603842 RUA JAGUARI,N. 65 LT 07, PRESIDENTE JOAO GOULART - CEP: 97090-320, SANTA MARIA - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.030738-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.030738-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 200754
       }
     ]
   },
@@ -11106,6 +11618,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2636503",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 314.833,26 R$ 494.000,00 36% Casa Caixa em Tramandaí / RS - 2636503 RUA SETE DE SETEMBRO,N. 2602 CASA 2 LT 19 QD 73, ZONA NOVA - CEP: 95590-000, TRAMANDAI - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Tramandaí",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 314833,
+    "valor_avaliacao": 494000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/tramandai/residencial-zona-nova-2-quartos-1-vaga-na-garagem-area-de-servico-2-wc-sala-lavabo-imovel-caixa-economica-federal-cef-2636503-1444411456183-venda-direta-caixa",
+    "descricao": "R$ 314.833,26 R$ 494.000,00 36% Casa Caixa em Tramandaí / RS - 2636503 RUA SETE DE SETEMBRO,N. 2602 CASA 2 LT 19 QD 73, ZONA NOVA - CEP: 95590-000, TRAMANDAI - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:20.851693-03:00",
+    "ultima_captura": "2026-07-17T14:56:20.851693-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 314833
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2666412",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -11198,6 +11742,70 @@
       {
         "data": "2026-07-16",
         "preco": 137843
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2567608",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 686.924,21 R$ 1.125.000,00 39% Casa Caixa em Viamão / RS - 2567608 AV SENADOR SALGADO FILHO,N. 8450 UA AC9 QD AC, QUERENCIA - CEP: 94440-000, VIAMAO - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Viamão",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 686924,
+    "valor_avaliacao": 1125000,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/viamao/residencial-buenavista-condominio-parque-3-quartos-area-de-servico-3-wc-sala-lavabo-imovel-caixa-economica-federal-cef-2567608-1444401858033-venda-direta-caixa",
+    "descricao": "R$ 686.924,21 R$ 1.125.000,00 39% Casa Caixa em Viamão / RS - 2567608 AV SENADOR SALGADO FILHO,N. 8450 UA AC9 QD AC, QUERENCIA - CEP: 94440-000, VIAMAO - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.331646-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.331646-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 686924
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2507715",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 593.339,60 R$ 980.000,00 39% Casa Caixa em Viamão / RS - 2507715 RUA TELMO GODOY PINTO,N. 837, TARUMA - CEP: 94000-000, VIAMAO - RIO GRANDE DO SUL",
+    "bairro": "Não identificado",
+    "cidade": "Viamão",
+    "uf": "RS",
+    "tipo": "Casa",
+    "preco": 593339,
+    "valor_avaliacao": 980000,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/rs/viamao/residencial-vila-taruma-4-quartos-1-vaga-na-garagem-area-de-servico-3-wc-wc-emp-2-s-imovel-caixa-economica-federal-cef-2507715-1159120080399-venda-direta-caixa",
+    "descricao": "R$ 593.339,60 R$ 980.000,00 39% Casa Caixa em Viamão / RS - 2507715 RUA TELMO GODOY PINTO,N. 837, TARUMA - CEP: 94000-000, VIAMAO - RIO GRANDE DO SUL",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:56:21.496474-03:00",
+    "ultima_captura": "2026-07-17T14:56:21.496474-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 593339
       }
     ]
   },
