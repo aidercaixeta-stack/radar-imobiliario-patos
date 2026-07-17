@@ -11970,6 +11970,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2636236",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 519.411,15 R$ 815.000,00 36% Casa Caixa em Caraguatatuba / SP - 2636236 ALAMEDA DAS PALMEIRAS,N. 605 BL A, UNID 01, VG01 E VG02, CIDADE JARDIM - CEP: 11664-050, CARAGUATATUBA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Caraguatatuba",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 519411,
+    "valor_avaliacao": 815000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/caraguatatuba/residencial-cidade-jardim-2-vagas-na-garagem-imovel-caixa-economica-federal-cef-2636236-10277907-venda-direta-caixa",
+    "descricao": "R$ 519.411,15 R$ 815.000,00 36% Casa Caixa em Caraguatatuba / SP - 2636236 ALAMEDA DAS PALMEIRAS,N. 605 BL A, UNID 01, VG01 E VG02, CIDADE JARDIM - CEP: 11664-050, CARAGUATATUBA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.189318-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.189318-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 519411
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2576458",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 213.500,29 R$ 335.000,00 36% Apartamento Caixa em Ferraz De Vasconcelos / SP - 2576458 RUA ARMENIA,N. 631 APTO. 403 PAV 5 BL 4, JARDIM DAYSE - CEP: 08528-400, FERRAZ DE VASCONCELOS - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Ferraz De Vasconcelos",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 213500,
+    "valor_avaliacao": 335000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ferraz-de-vasconcelos/residencial-condominio-residencial-bilbao-2-quartos-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2576458-8555515340840-venda-direta-caixa",
+    "descricao": "R$ 213.500,29 R$ 335.000,00 36% Apartamento Caixa em Ferraz De Vasconcelos / SP - 2576458 RUA ARMENIA,N. 631 APTO. 403 PAV 5 BL 4, JARDIM DAYSE - CEP: 08528-400, FERRAZ DE VASCONCELOS - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.523154-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.523154-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 213500
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2636099",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -11998,6 +12062,70 @@
       {
         "data": "2026-07-16",
         "preco": 1349194
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2646979",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 370.279,61 R$ 581.000,00 36% Casa Caixa em Guarujá / SP - 2646979 RUA WALTER PAPSCH,N. 80 QD 79 LT 03, JARDIM VIRGINIA - CEP: 11442-170, GUARUJA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Guarujá",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 370279,
+    "valor_avaliacao": 581000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/guaruja/residencial-jardim-virginia-imovel-caixa-economica-federal-cef-2646979-1097941717273-venda-direta-caixa",
+    "descricao": "R$ 370.279,61 R$ 581.000,00 36% Casa Caixa em Guarujá / SP - 2646979 RUA WALTER PAPSCH,N. 80 QD 79 LT 03, JARDIM VIRGINIA - CEP: 11442-170, GUARUJA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.042324-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.042324-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 370279
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2673996",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 182.353,63 R$ 362.000,00 50% Casa Caixa em Itanhaém / SP - 2673996 ALAMEDA CAMPOS ELISEOS,N. 186 CASA GEMINADA 01, BAL CAMPOS ELISIOS - CEP: 11740-000, ITANHAEM - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Itanhaém",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 182353,
+    "valor_avaliacao": 362000,
+    "desconto_percentual": 50,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/itanhaem/residencial-balneario-campos-eliseos-3-quartos-2-vagas-na-garagem-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2673996-1444400358746-venda-direta-caixa",
+    "descricao": "R$ 182.353,63 R$ 362.000,00 50% Casa Caixa em Itanhaém / SP - 2673996 ALAMEDA CAMPOS ELISEOS,N. 186 CASA GEMINADA 01, BAL CAMPOS ELISIOS - CEP: 11740-000, ITANHAEM - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.739551-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.739551-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 182353
       }
     ]
   },
@@ -12094,6 +12222,70 @@
       {
         "data": "2026-07-16",
         "preco": 86013
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2668475",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 243.340,62 R$ 381.822,00 36% Casa Caixa em Jaú / SP - 2668475 RUA DOZE DE OUTUBRO,N. SN, JARDIM BELA VISTA - CEP: 17207-490, JAU - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Jaú",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 243340,
+    "valor_avaliacao": 381822,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/jau/residencial-jardim-bela-vista-4-quartos-area-de-servico-4-wc-sala-lavabo-cozinha-imovel-caixa-economica-federal-cef-2668475-1444421385408-venda-direta-caixa",
+    "descricao": "R$ 243.340,62 R$ 381.822,00 36% Casa Caixa em Jaú / SP - 2668475 RUA DOZE DE OUTUBRO,N. SN, JARDIM BELA VISTA - CEP: 17207-490, JAU - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.901032-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.901032-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 243340
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2636246",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 780.710,02 R$ 1.225.000,00 36% Casa Caixa em Jundiaí / SP - 2636246 RUA FAUSTO SILVEIRA PIRES,N. 46 QD N, LT 06, PARQUE BRASILIA - CEP: 13211-150, JUNDIAI - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Jundiaí",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 780710,
+    "valor_avaliacao": 1225000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/jundiai/residencial-parque-brasilia-imovel-caixa-economica-federal-cef-2636246-10276421-venda-direta-caixa",
+    "descricao": "R$ 780.710,02 R$ 1.225.000,00 36% Casa Caixa em Jundiaí / SP - 2636246 RUA FAUSTO SILVEIRA PIRES,N. 46 QD N, LT 06, PARQUE BRASILIA - CEP: 13211-150, JUNDIAI - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.137030-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.137030-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 780710
       }
     ]
   },
@@ -12252,6 +12444,38 @@
       {
         "data": "2026-07-16",
         "preco": 110970
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2656373",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 764.777,16 R$ 1.200.000,00 36% Casa Caixa em Nova Odessa / SP - 2656373 RUA RIO ATIBAIA,N. 852 LT 32, QD D, CHACARAS DE RECREIO REPRESA - CEP: 13389-460, NOVA ODESSA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Nova Odessa",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 764777,
+    "valor_avaliacao": 1200000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/nova-odessa/residencial-chacaras-de-recreio-represa-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2656373-1444419132050-venda-direta-caixa",
+    "descricao": "R$ 764.777,16 R$ 1.200.000,00 36% Casa Caixa em Nova Odessa / SP - 2656373 RUA RIO ATIBAIA,N. 852 LT 32, QD D, CHACARAS DE RECREIO REPRESA - CEP: 13389-460, NOVA ODESSA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.950868-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.950868-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 764777
       }
     ]
   },
@@ -12415,6 +12639,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2583624",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 688.299,44 R$ 1.080.000,00 36% Casa Caixa em Pirassununga / SP - 2583624 RUA MAURO BOIZAN,N. 264 LT 17 QD A, JARDIM DOS IPES - CEP: 13633-390, PIRASSUNUNGA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Pirassununga",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 688299,
+    "valor_avaliacao": 1080000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/pirassununga/residencial-jardim-dos-ipes-imovel-caixa-economica-federal-cef-2583624-1444418111599-venda-direta-caixa",
+    "descricao": "R$ 688.299,44 R$ 1.080.000,00 36% Casa Caixa em Pirassununga / SP - 2583624 RUA MAURO BOIZAN,N. 264 LT 17 QD A, JARDIM DOS IPES - CEP: 13633-390, PIRASSUNUNGA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.428796-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.428796-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 688299
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2647016",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 914.546,02 R$ 1.435.000,00 36% Casa Caixa em Piratininga / SP - 2647016 RUA MANOEL LOSILA,N. 381 LT 08, AREA RURAL DE PIRATININGA - CEP: 17499-899, PIRATININGA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Piratininga",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 914546,
+    "valor_avaliacao": 1435000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/piratininga/residencial-area-rural-de-a-rua-de-acesso-possui-fechamento-por-portao-conforme-av-01-av-02-imovel-caixa-economica-federal-cef-2647016-10280995-venda-direta-caixa",
+    "descricao": "R$ 914.546,02 R$ 1.435.000,00 36% Casa Caixa em Piratininga / SP - 2647016 RUA MANOEL LOSILA,N. 381 LT 08, AREA RURAL DE PIRATININGA - CEP: 17499-899, PIRATININGA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.999360-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.999360-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 914546
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2520904",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -12510,6 +12798,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2614417",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 205.122,01 R$ 335.000,00 39% Casa Caixa em Praia Grande / SP - 2614417 AVENIDA DOUTOR ANTONIO SYLVIO CUNHA BUENO,N. 859 CS 04 LT 26 QD 18, MELVI - CEP: 11712-040, PRAIA GRANDE - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Praia Grande",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 205122,
+    "valor_avaliacao": 335000,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/praia-grande/residencial-melvi-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2614417-8444435949951-venda-direta-caixa",
+    "descricao": "R$ 205.122,01 R$ 335.000,00 39% Casa Caixa em Praia Grande / SP - 2614417 AVENIDA DOUTOR ANTONIO SYLVIO CUNHA BUENO,N. 859 CS 04 LT 26 QD 18, MELVI - CEP: 11712-040, PRAIA GRANDE - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.335014-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.335014-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 205122
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2358718",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -12538,6 +12858,38 @@
       {
         "data": "2026-07-16",
         "preco": 88701
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2674028",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.784.480,04 R$ 2.800.000,00 36% Casa Caixa em Ribeirão Pires / SP - 2674028 RUA EDUARDO VALERIANO NARDELLI,N. 2000, OURO FINO PAULISTA - CEP: 09443-270, RIBEIRAO PIRES - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Pires",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 1784480,
+    "valor_avaliacao": 2800000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-pires/residencial-ouro-fino-paulista-5-quartos-8-vagas-na-garagem-area-de-servico-6-wc-3-s-imovel-caixa-economica-federal-cef-2674028-1444419378092-venda-direta-caixa",
+    "descricao": "R$ 1.784.480,04 R$ 2.800.000,00 36% Casa Caixa em Ribeirão Pires / SP - 2674028 RUA EDUARDO VALERIANO NARDELLI,N. 2000, OURO FINO PAULISTA - CEP: 09443-270, RIBEIRAO PIRES - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.690284-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.690284-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 1784480
       }
     ]
   },
@@ -13405,6 +13757,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2681726",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 210.313,72 R$ 330.000,00 36% Casa Caixa em São José Do Rio Preto / SP - 2681726 RUA SAMY GORAYEB,N. 410 LT 14, QD 42-A, SOLO SAGRADO - CEP: 15044-140, SAO JOSE DO RIO PRETO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São José Do Rio Preto",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 210313,
+    "valor_avaliacao": 330000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-jose-do-rio-preto/residencial-solo-sagrado-3-quartos-area-de-servico-2-wc-2-salas-cozinha-imovel-caixa-economica-federal-cef-2681726-1444416240901-venda-direta-caixa",
+    "descricao": "R$ 210.313,72 R$ 330.000,00 36% Casa Caixa em São José Do Rio Preto / SP - 2681726 RUA SAMY GORAYEB,N. 410 LT 14, QD 42-A, SOLO SAGRADO - CEP: 15044-140, SAO JOSE DO RIO PRETO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.636787-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.636787-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 210313
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2520856",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -13687,6 +14071,70 @@
       {
         "data": "2026-07-16",
         "preco": 774336
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2672746",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 796.642,88 R$ 1.250.000,00 36% Apartamento Caixa em São Paulo / SP - 2672746 RUA CAMBERRA,N. 90 APTO. 72, VILA FORMOSA - CEP: 03357-010, SAO PAULO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 796642,
+    "valor_avaliacao": 1250000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-vila-formosa-3-quartos-imovel-caixa-economica-federal-cef-2672746-1444423428333-venda-direta-caixa",
+    "descricao": "R$ 796.642,88 R$ 1.250.000,00 36% Apartamento Caixa em São Paulo / SP - 2672746 RUA CAMBERRA,N. 90 APTO. 72, VILA FORMOSA - CEP: 03357-010, SAO PAULO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:19.806670-03:00",
+    "ultima_captura": "2026-07-17T14:32:19.806670-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 796642
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2583561",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.034.361,11 R$ 1.623.000,00 36% Casa Caixa em São Paulo / SP - 2583561 RUA OLIVEIRA MELO,N. 826, , VILA SAO JOSE (IPIRANGA) - CEP: 04271-001, SAO PAULO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 1034361,
+    "valor_avaliacao": 1623000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-vila-sao-jose-ipiranga-imovel-caixa-economica-federal-cef-2583561-1555501499924-venda-direta-caixa",
+    "descricao": "R$ 1.034.361,11 R$ 1.623.000,00 36% Casa Caixa em São Paulo / SP - 2583561 RUA OLIVEIRA MELO,N. 826, , VILA SAO JOSE (IPIRANGA) - CEP: 04271-001, SAO PAULO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:32:20.480808-03:00",
+    "ultima_captura": "2026-07-17T14:32:20.480808-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 1034361
       }
     ]
   },
