@@ -1856,6 +1856,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2190925",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 342.546,20 R$ 660.000,00 48% Casa Caixa em Caldas Novas / GO - 2190925 RUA JOSE CALZAVARA,N. 594 QD 41 LT 8R, SANTA EFIGENIA - CEP: 75689-234, CALDAS NOVAS - GOIAS",
+    "bairro": "Não identificado",
+    "cidade": "Caldas Novas",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 342546,
+    "valor_avaliacao": 660000,
+    "desconto_percentual": 48,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/caldas-novas/residencial-santa-efigenia-4-quartos-area-de-servico-3-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2190925-1444418350151-venda-direta-caixa",
+    "descricao": "R$ 342.546,20 R$ 660.000,00 48% Casa Caixa em Caldas Novas / GO - 2190925 RUA JOSE CALZAVARA,N. 594 QD 41 LT 8R, SANTA EFIGENIA - CEP: 75689-234, CALDAS NOVAS - GOIAS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:22.016535-03:00",
+    "ultima_captura": "2026-07-17T14:38:22.016535-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 342546
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2318014",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -2170,6 +2202,198 @@
       {
         "data": "2026-07-15",
         "preco": 50015
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2279737",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 180.084,05 R$ 327.700,00 45% Casa Caixa em Goiânia / GO - 2279737 AVENIDA AUTA FERRAZ DE CAMARGO,N. SN LT 24 QD 106, JARDIM BALNEARIO MEIA PONTE - CEP: 74590-030, GOIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Goiânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 180084,
+    "valor_avaliacao": 327700,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/goiania/residencial-jardim-balneario-meia-ponte-4-quartos-4-areas-de-servico-4-wc-4-salas-4-imovel-caixa-economica-federal-cef-2279737-1555518878346-venda-direta-caixa",
+    "descricao": "R$ 180.084,05 R$ 327.700,00 45% Casa Caixa em Goiânia / GO - 2279737 AVENIDA AUTA FERRAZ DE CAMARGO,N. SN LT 24 QD 106, JARDIM BALNEARIO MEIA PONTE - CEP: 74590-030, GOIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.972787-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.972787-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 180084
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2537240",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 165.185,66 R$ 291.650,80 43% Casa Caixa em Goiânia / GO - 2537240 RUA A 2,N. 80 GLEBA 02, FAZENDA SAO DOMINGOS - CONJUNTO RES - CEP: 74477-720, GOIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Goiânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 165185,
+    "valor_avaliacao": 291650,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/goiania/residencial-reserva-campo-belo-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2537240-8555522755758-venda-direta-caixa",
+    "descricao": "R$ 165.185,66 R$ 291.650,80 43% Casa Caixa em Goiânia / GO - 2537240 RUA A 2,N. 80 GLEBA 02, FAZENDA SAO DOMINGOS - CONJUNTO RES - CEP: 74477-720, GOIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.723076-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.723076-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 165185
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2371349",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 95.724,08 R$ 180.000,00 47% Terreno Caixa em Indiara / GO - 2371349 QUADRA 05,N. SN LT 18 RUA HF-3, RES FORTALEZA - CEP: 75185-000, INDIARA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Indiara",
+    "uf": "GO",
+    "tipo": "Lote",
+    "preco": 95724,
+    "valor_avaliacao": 180000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/indiara/terreno-res-fortaleza-quarto-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2371349-1444406770436-venda-direta-caixa",
+    "descricao": "R$ 95.724,08 R$ 180.000,00 47% Terreno Caixa em Indiara / GO - 2371349 QUADRA 05,N. SN LT 18 RUA HF-3, RES FORTALEZA - CEP: 75185-000, INDIARA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.882498-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.882498-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 95724
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2423789",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 101.651,86 R$ 190.000,00 46% Terreno Caixa em Ipameri / GO - 2423789 RUA JOÃO VICENTE DE ARAUJO FILHO,N. SN QD 01-C, LT 08, VILA SOUZA - CEP: 75780-000, IPAMERI - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Ipameri",
+    "uf": "GO",
+    "tipo": "Lote",
+    "preco": 101651,
+    "valor_avaliacao": 190000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/ipameri/terreno-conforme-av-06-da-matricula-o-imovel-esta-cadastrado-sob-n-1-4-00077-00244-1-160004-t-imovel-caixa-economica-federal-cef-2423789-10217555-venda-direta-caixa",
+    "descricao": "R$ 101.651,86 R$ 190.000,00 46% Terreno Caixa em Ipameri / GO - 2423789 RUA JOÃO VICENTE DE ARAUJO FILHO,N. SN QD 01-C, LT 08, VILA SOUZA - CEP: 75780-000, IPAMERI - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.778844-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.778844-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 101651
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2672369",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 180.629,83 R$ 295.000,00 39% Casa Caixa em Itumbiara / GO - 2672369 AVENIDA DIMAS SIMOES FRANCO,N. 539 QD 33 LT 06, PQ VALE DOS BURITYS - CEP: 75516-280, ITUMBIARA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Itumbiara",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 180629,
+    "valor_avaliacao": 295000,
+    "desconto_percentual": 39,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/itumbiara/residencial-pq-vale-dos-buritys-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2672369-8444405456760-venda-direta-caixa",
+    "descricao": "R$ 180.629,83 R$ 295.000,00 39% Casa Caixa em Itumbiara / GO - 2672369 AVENIDA DIMAS SIMOES FRANCO,N. 539 QD 33 LT 06, PQ VALE DOS BURITYS - CEP: 75516-280, ITUMBIARA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.669663-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.669663-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 180629
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-1580659",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.953,59 R$ 266.000,00 62% Casa Caixa em Luziânia / GO - 1580659 AVENIDA XIII,N. 14 LT 14 QD 264, PARQUE ALVORADA II - CEP: 72837-280, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Luziânia",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 100953,
+    "valor_avaliacao": 266000,
+    "desconto_percentual": 62,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/luziania/residencial-lot-2-quartos-varanda-sacada-wc-sala-cozinha-imovel-caixa-economica-federal-cef-1580659-1444401502379-venda-direta-caixa",
+    "descricao": "R$ 100.953,59 R$ 266.000,00 62% Casa Caixa em Luziânia / GO - 1580659 AVENIDA XIII,N. 14 LT 14 QD 264, PARQUE ALVORADA II - CEP: 72837-280, LUZIANIA - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.620184-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.620184-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 100953
       }
     ]
   },
@@ -2650,6 +2874,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2300453",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 66.445,10 R$ 113.000,00 41% Casa Caixa em Padre Bernardo / GO - 2300453 RUA 5,N. 1853 QD 41, LT 23, OURO VERDE - CEP: 73700-000, PADRE BERNARDO - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Padre Bernardo",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 66445,
+    "valor_avaliacao": 113000,
+    "desconto_percentual": 41,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/padre-bernardo/residencial-lot-cj-hab-ouro-verde-2-etapa-2-quartos-area-de-servico-2-wc-sala-cozinh-imovel-caixa-economica-federal-cef-2300453-8555504028998-venda-direta-caixa",
+    "descricao": "R$ 66.445,10 R$ 113.000,00 41% Casa Caixa em Padre Bernardo / GO - 2300453 RUA 5,N. 1853 QD 41, LT 23, OURO VERDE - CEP: 73700-000, PADRE BERNARDO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.927774-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.927774-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 66445
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2086599",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -2677,6 +2933,102 @@
       {
         "data": "2026-07-15",
         "preco": 435052
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2120372",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 60.270,72 R$ 190.000,00 68% Casa Caixa em Santo Antônio Do Descoberto / GO - 2120372 AVENIDA ELIAS ABDON,N. SN LT 11A QD 95, PARQUE ESTRELA DALVA XI - CEP: 72906-312, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Descoberto",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 60270,
+    "valor_avaliacao": 190000,
+    "desconto_percentual": 68,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/santo-antonio-do-descoberto/residencial-parque-estrela-dalva-xi-2-quartos-2-vagas-na-garagem-area-de-servico-wc-imovel-caixa-economica-federal-cef-2120372-1444414764970-venda-direta-caixa",
+    "descricao": "R$ 60.270,72 R$ 190.000,00 68% Casa Caixa em Santo Antônio Do Descoberto / GO - 2120372 AVENIDA ELIAS ABDON,N. SN LT 11A QD 95, PARQUE ESTRELA DALVA XI - CEP: 72906-312, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:20.402843-03:00",
+    "ultima_captura": "2026-07-17T14:38:20.402843-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 60270
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2078921",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 50.622,57 R$ 155.000,00 67% Casa Caixa em Santo Antônio Do Descoberto / GO - 2078921 RUA DE OFIR,N. SN LT 04 A, QD 08, PARQUE ESTRELA DALVA XII - CEP: 72904-256, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Descoberto",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 50622,
+    "valor_avaliacao": 155000,
+    "desconto_percentual": 67,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/santo-antonio-do-descoberto/residencial-parque-estrela-dalva-xii-2-quartos-1-vaga-na-garagem-area-de-servico-2-wc-imovel-caixa-economica-federal-cef-2078921-8444411080483-venda-direta-caixa",
+    "descricao": "R$ 50.622,57 R$ 155.000,00 67% Casa Caixa em Santo Antônio Do Descoberto / GO - 2078921 RUA DE OFIR,N. SN LT 04 A, QD 08, PARQUE ESTRELA DALVA XII - CEP: 72904-256, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.524275-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.524275-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 50622
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2082064",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 84.981,87 R$ 235.000,00 64% Casa Caixa em Santo Antônio Do Descoberto / GO - 2082064 RUA 3,N. S/N LT 18-B ,QD 17, JARDIM ANA BEATRIZ I - CEP: 72902-232, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Santo Antônio Do Descoberto",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 84981,
+    "valor_avaliacao": 235000,
+    "desconto_percentual": 64,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/santo-antonio-do-descoberto/residencial-jardim-ana-beatriz-i-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2082064-1444419208065-venda-direta-caixa",
+    "descricao": "R$ 84.981,87 R$ 235.000,00 64% Casa Caixa em Santo Antônio Do Descoberto / GO - 2082064 RUA 3,N. S/N LT 18-B ,QD 17, JARDIM ANA BEATRIZ I - CEP: 72902-232, SANTO ANTONIO DO DESCOBERTO - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.471419-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.471419-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 84981
       }
     ]
   },
@@ -3313,6 +3665,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2136655",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 50.416,29 R$ 123.000,00 59% Apartamento Caixa em Valparaíso De Goiás / GO - 2136655 QUADRA 23,N. SN APTO. 201 BL A, CH 07, RUA ALAGOAS, SETOR DE CHACARAS ANHANGUERA C - CEP: 72871-677, VALPARAISO DE GOIAS - GOIAS Ence",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 50416,
+    "valor_avaliacao": 123000,
+    "desconto_percentual": 59,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-res-marselha-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2136655-8787704615715-venda-direta-caixa",
+    "descricao": "R$ 50.416,29 R$ 123.000,00 59% Apartamento Caixa em Valparaíso De Goiás / GO - 2136655 QUADRA 23,N. SN APTO. 201 BL A, CH 07, RUA ALAGOAS, SETOR DE CHACARAS ANHANGUERA C - CEP: 72871-677, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:20.051961-03:00",
+    "ultima_captura": "2026-07-17T14:38:20.051961-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 50416
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2269412",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -3341,6 +3725,38 @@
       {
         "data": "2026-07-16",
         "preco": 76054
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2120361",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 62.988,80 R$ 141.000,00 55% Apartamento Caixa em Valparaíso De Goiás / GO - 2120361 QUADRA 48,N. SN APTO. 203 LT B2, PACAEMBU - CEP: 72870-000, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Valparaíso De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 62988,
+    "valor_avaliacao": 141000,
+    "desconto_percentual": 55,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/valparaiso-de-goias/residencial-res-topazio-2-quartos-1-vaga-na-garagem-varanda-sacada-area-de-servico-w-imovel-caixa-economica-federal-cef-2120361-8444406830151-venda-direta-caixa",
+    "descricao": "R$ 62.988,80 R$ 141.000,00 55% Apartamento Caixa em Valparaíso De Goiás / GO - 2120361 QUADRA 48,N. SN APTO. 203 LT B2, PACAEMBU - CEP: 72870-000, VALPARAISO DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:20.665508-03:00",
+    "ultima_captura": "2026-07-17T14:38:20.665508-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 62988
       }
     ]
   },
@@ -3633,6 +4049,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2029082",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 116.013,86 R$ 380.000,00 69% Casa Caixa em Águas Lindas De Goiás / GO - 2029082 RUA SEIS,N. SN LT 08 QD 61, PARQUE DA BARRAGEM SETOR 07 - CEP: 72910-510, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 21/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 116013,
+    "valor_avaliacao": 380000,
+    "desconto_percentual": 69,
+    "data_encerramento": "2026-07-21T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-pq-da-barragem-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-lava-imovel-caixa-economica-federal-cef-2029082-1444420320760-venda-direta-caixa",
+    "descricao": "R$ 116.013,86 R$ 380.000,00 69% Casa Caixa em Águas Lindas De Goiás / GO - 2029082 RUA SEIS,N. SN LT 08 QD 61, PARQUE DA BARRAGEM SETOR 07 - CEP: 72910-510, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 21/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.570679-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.570679-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 116013
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2190977",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -3724,6 +4172,134 @@
       {
         "data": "2026-07-15",
         "preco": 286554
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2095860",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 84.921,68 R$ 210.000,00 60% Casa Caixa em Águas Lindas De Goiás / GO - 2095860 QUADRA 06-C LOTE 08-B,N. SN APTO. . SOBRADO 06, ROYAL PARQUE - CEP: 72927-260, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 84921,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 60,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-amazonas-ii-2-quartos-area-de-servico-2-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2095860-8444429216123-venda-direta-caixa",
+    "descricao": "R$ 84.921,68 R$ 210.000,00 60% Casa Caixa em Águas Lindas De Goiás / GO - 2095860 QUADRA 06-C LOTE 08-B,N. SN APTO. . SOBRADO 06, ROYAL PARQUE - CEP: 72927-260, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.306790-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.306790-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 84921
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2126124",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 85.354,95 R$ 197.000,00 57% Apartamento Caixa em Águas Lindas De Goiás / GO - 2126124 QUADRA 33,N. 0 APTO. 201 LT 31 RUA 15, JARDIM PEROLA DA BARRAGEM I - CEP: 72916-006, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/0",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 85354,
+    "valor_avaliacao": 197000,
+    "desconto_percentual": 57,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-alabama-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2126124-8444428483071-venda-direta-caixa",
+    "descricao": "R$ 85.354,95 R$ 197.000,00 57% Apartamento Caixa em Águas Lindas De Goiás / GO - 2126124 QUADRA 33,N. 0 APTO. 201 LT 31 RUA 15, JARDIM PEROLA DA BARRAGEM I - CEP: 72916-006, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:20.098800-03:00",
+    "ultima_captura": "2026-07-17T14:38:20.098800-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 85354
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2126118",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 85.788,22 R$ 198.000,00 57% Apartamento Caixa em Águas Lindas De Goiás / GO - 2126118 QUADRA 11 A,N. 0 APTO. 302 BL B VG 17 LT 13A CONJ A SETOR 04 RUA 02, PARQUE DA BARRAGEM SETOR 04 - CEP: 72910-624, AGUAS LINDAS DE ",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Apartamento",
+    "preco": 85788,
+    "valor_avaliacao": 198000,
+    "desconto_percentual": 57,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-francisco-de-assis-2-quartos-1-vaga-na-garagem-area-de-servico-w-imovel-caixa-economica-federal-cef-2126118-8444425989942-venda-direta-caixa",
+    "descricao": "R$ 85.788,22 R$ 198.000,00 57% Apartamento Caixa em Águas Lindas De Goiás / GO - 2126118 QUADRA 11 A,N. 0 APTO. 302 BL B VG 17 LT 13A CONJ A SETOR 04 RUA 02, PARQUE DA BARRAGEM SETOR 04 - CEP: 72910-624, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:20.147144-03:00",
+    "ultima_captura": "2026-07-17T14:38:20.147144-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 85788
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2145502",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 77.554,23 R$ 175.000,00 56% Casa Caixa em Águas Lindas De Goiás / GO - 2145502 RUA 09, SOBRADO 06,N. S/N LT 12-B, QD 01-C, ROYAL PARQUE - CEP: 72927-281, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 77554,
+    "valor_avaliacao": 175000,
+    "desconto_percentual": 56,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-cond-res-rmc-iii-2-quartos-1-vaga-na-garagem-area-de-servico-2-wc-sala-imovel-caixa-economica-federal-cef-2145502-1444418834310-venda-direta-caixa",
+    "descricao": "R$ 77.554,23 R$ 175.000,00 56% Casa Caixa em Águas Lindas De Goiás / GO - 2145502 RUA 09, SOBRADO 06,N. S/N LT 12-B, QD 01-C, ROYAL PARQUE - CEP: 72927-281, AGUAS LINDAS DE GOIAS - GOIAS Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:19.986551-03:00",
+    "ultima_captura": "2026-07-17T14:38:19.986551-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 77554
       }
     ]
   },
@@ -3980,6 +4556,38 @@
       {
         "data": "2026-07-16",
         "preco": 85088
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2371362",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 386.814,65 R$ 724.000,00 47% Casa Caixa em Águas Lindas De Goiás / GO - 2371362 QUADRA 39,N. SN LT 13 RUA 19, JARDIM DOS PINHEIROS - CEP: 72915-325, AGUAS LINDAS DE GOIAS - GOIAS",
+    "bairro": "Não identificado",
+    "cidade": "Águas Lindas De Goiás",
+    "uf": "GO",
+    "tipo": "Casa",
+    "preco": 386814,
+    "valor_avaliacao": 724000,
+    "desconto_percentual": 47,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/go/aguas-lindas-de-goias/residencial-loteamento-jardim-dos-pinheiros-3-quartos-1-vaga-na-garagem-area-de-servic-imovel-caixa-economica-federal-cef-2371362-1444419468920-venda-direta-caixa",
+    "descricao": "R$ 386.814,65 R$ 724.000,00 47% Casa Caixa em Águas Lindas De Goiás / GO - 2371362 QUADRA 39,N. SN LT 13 RUA 19, JARDIM DOS PINHEIROS - CEP: 72915-325, AGUAS LINDAS DE GOIAS - GOIAS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:38:21.836622-03:00",
+    "ultima_captura": "2026-07-17T14:38:21.836622-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 386814
       }
     ]
   },
