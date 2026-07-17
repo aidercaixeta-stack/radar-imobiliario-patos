@@ -8353,6 +8353,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2746411",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.426.946,72 R$ 2.239.000,00 36% Casa Caixa em Arujá / SP - 2746411 AVENIDA DAS PALMEIRAS,N. 100 LT 9 QD 39, ARUJAZINHO IV - CEP: 07434-535, ARUJA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Arujá",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 1426946,
+    "valor_avaliacao": 2239000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/aruja/residencial-zinho-iv-3-quartos-area-de-servico-4-wc-2-salas-cozinha-imovel-caixa-economica-federal-cef-2746411-1600000077554-venda-direta-caixa",
+    "descricao": "R$ 1.426.946,72 R$ 2.239.000,00 36% Casa Caixa em Arujá / SP - 2746411 AVENIDA DAS PALMEIRAS,N. 100 LT 9 QD 39, ARUJAZINHO IV - CEP: 07434-535, ARUJA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.466442-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.466442-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 1426946
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2423621",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 90.741,05 R$ 175.000,00 48% Terreno Caixa em Barretos / SP - 2423621 RUA JOSE TORELLI,N. SN QD S LT1P1E2P1, DOM JOAO BOSCO - CEP: 14781-050, BARRETOS - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Barretos",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 90741,
+    "valor_avaliacao": 175000,
+    "desconto_percentual": 48,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/barretos/terreno-dom-joao-bosco-imovel-caixa-economica-federal-cef-2423621-8444427111685-venda-direta-caixa",
+    "descricao": "R$ 90.741,05 R$ 175.000,00 48% Terreno Caixa em Barretos / SP - 2423621 RUA JOSE TORELLI,N. SN QD S LT1P1E2P1, DOM JOAO BOSCO - CEP: 14781-050, BARRETOS - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:19.998845-03:00",
+    "ultima_captura": "2026-07-16T20:36:19.998845-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 90741
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2533341",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -8381,6 +8445,38 @@
       {
         "data": "2026-07-15",
         "preco": 113690
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711400",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.769.821,81 R$ 2.777.000,00 36% Casa Caixa em Bragança Paulista / SP - 2711400 RUA RESEDAL,N. 101 LT 07, QD A, CONDOMINIO RESIDENCIAL VILA AMERICA - CEP: 12902-162, BRAGANCA PAULISTA - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Bragança Paulista",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 1769821,
+    "valor_avaliacao": 2777000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/braganca-paulista/residencial-condominio-residencial-vila-america-5-quartos-6-vagas-na-garagem-area-de-s-imovel-caixa-economica-federal-cef-2711400-1555525431840-venda-direta-caixa",
+    "descricao": "R$ 1.769.821,81 R$ 2.777.000,00 36% Casa Caixa em Bragança Paulista / SP - 2711400 RUA RESEDAL,N. 101 LT 07, QD A, CONDOMINIO RESIDENCIAL VILA AMERICA - CEP: 12902-162, BRAGANCA PAULISTA - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.619908-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.619908-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 1769821
       }
     ]
   },
@@ -8639,6 +8735,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2512247",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 110.970,31 R$ 204.000,00 46% Terreno Caixa em Narandiba / SP - 2512247 RUA ANANIAS MARIA DE JESUS,N. SN QD D LT 15B, JARDIM ARRUDA - CEP: 19220-176, NARANDIBA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Narandiba",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 110970,
+    "valor_avaliacao": 204000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/narandiba/terreno-lot-jardim-arruda-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2512247-8444425517609-venda-direta-caixa",
+    "descricao": "R$ 110.970,31 R$ 204.000,00 46% Terreno Caixa em Narandiba / SP - 2512247 RUA ANANIAS MARIA DE JESUS,N. SN QD D LT 15B, JARDIM ARRUDA - CEP: 19220-176, NARANDIBA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:19.609662-03:00",
+    "ultima_captura": "2026-07-16T20:36:19.609662-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 110970
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2345523",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -8667,6 +8795,70 @@
       {
         "data": "2026-07-16",
         "preco": 87937
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2302886",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 96.255,88 R$ 181.000,00 47% Terreno Caixa em Pardinho / SP - 2302886 RUA 128,N. 00 QD JK, LT 25, NINHO VERDE II - CEP: 18645-302, PARDINHO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Pardinho",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 96255,
+    "valor_avaliacao": 181000,
+    "desconto_percentual": 47,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/pardinho/terreno-ninho-verde-ii-cadastro-do-imovel-n-45360-imovel-caixa-economica-federal-cef-2302886-10214122-venda-direta-caixa",
+    "descricao": "R$ 96.255,88 R$ 181.000,00 47% Terreno Caixa em Pardinho / SP - 2302886 RUA 128,N. 00 QD JK, LT 25, NINHO VERDE II - CEP: 18645-302, PARDINHO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.335450-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.335450-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 96255
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2480992",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 110.463,78 R$ 195.000,00 43% Casa Caixa em Pereira Barreto / SP - 2480992 RUA COZO TAGUCHI,N. 691, JARDIM SAO JOAO - CEP: 15370-542, PEREIRA BARRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Pereira Barreto",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 110463,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/pereira-barreto/residencial-jardim-sao-joao-2-quartos-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2480992-1444420352484-venda-direta-caixa",
+    "descricao": "R$ 110.463,78 R$ 195.000,00 43% Casa Caixa em Pereira Barreto / SP - 2480992 RUA COZO TAGUCHI,N. 691, JARDIM SAO JOAO - CEP: 15370-542, PEREIRA BARRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:19.695089-03:00",
+    "ultima_captura": "2026-07-16T20:36:19.695089-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 110463
       }
     ]
   },
@@ -8702,6 +8894,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2371096",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 87.626,45 R$ 163.000,00 46% Terreno Caixa em Piracicaba / SP - 2371096 RUA A,N. SN LT 26 QD B, SAO JORGE - CEP: 13402-737, PIRACICABA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Piracicaba",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 87626,
+    "valor_avaliacao": 163000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/piracicaba/terreno-jd-dona-lourdes-imovel-caixa-economica-federal-cef-2371096-8444426291310-venda-direta-caixa",
+    "descricao": "R$ 87.626,45 R$ 163.000,00 46% Terreno Caixa em Piracicaba / SP - 2371096 RUA A,N. SN LT 26 QD B, SAO JORGE - CEP: 13402-737, PIRACICABA - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.151320-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.151320-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 87626
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2520904",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 104.798,97 R$ 185.000,00 43% Casa Caixa em Praia Grande / SP - 2520904 RUA AFONSO DESCRAGNOLLE TAUNAY,N. 1353 CS 04, ESMERALDA - CEP: 11713-490, PRAIA GRANDE - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Praia Grande",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 104798,
+    "valor_avaliacao": 185000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/praia-grande/residencial-condominio-residencial-agata-2-quartos-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2520904-8444420506340-venda-direta-caixa",
+    "descricao": "R$ 104.798,97 R$ 185.000,00 43% Casa Caixa em Praia Grande / SP - 2520904 RUA AFONSO DESCRAGNOLLE TAUNAY,N. 1353 CS 04, ESMERALDA - CEP: 11713-490, PRAIA GRANDE - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:19.497435-03:00",
+    "ultima_captura": "2026-07-16T20:36:19.497435-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 104798
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2650665",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -8729,6 +8985,70 @@
       {
         "data": "2026-07-15",
         "preco": 219817
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711319",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 229.472,42 R$ 374.768,47 39% Casa Caixa em Praia Grande / SP - 2711319 AVENIDA MARIA CAVALCANTE DA SILVA,N. 1344 CASA 04, SAMAMBAIA - CEP: 11712-560, PRAIA GRANDE - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Praia Grande",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 229472,
+    "valor_avaliacao": 374768,
+    "desconto_percentual": 39,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/praia-grande/residencial-res-laura-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2711319-8444434454185-venda-direta-caixa",
+    "descricao": "R$ 229.472,42 R$ 374.768,47 39% Casa Caixa em Praia Grande / SP - 2711319 AVENIDA MARIA CAVALCANTE DA SILVA,N. 1344 CASA 04, SAMAMBAIA - CEP: 11712-560, PRAIA GRANDE - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.671489-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.671489-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 229472
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2358718",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 88.701,62 R$ 165.000,00 46% Terreno Caixa em Presidente Prudente / SP - 2358718 RUA FRANCISCA COLINO MATHEUS,N. 165 FA, VILA NOVA PRUDENTE - CEP: 19053-020, PRESIDENTE PRUDENTE - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "bairro": "Não identificado",
+    "cidade": "Presidente Prudente",
+    "uf": "SP",
+    "tipo": "Lote",
+    "preco": 88701,
+    "valor_avaliacao": 165000,
+    "desconto_percentual": 46,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/presidente-prudente/terreno-vila-nova-prudente-imovel-caixa-economica-federal-cef-2358718-8444426105002-venda-direta-caixa",
+    "descricao": "R$ 88.701,62 R$ 165.000,00 46% Terreno Caixa em Presidente Prudente / SP - 2358718 RUA FRANCISCA COLINO MATHEUS,N. 165 FA, VILA NOVA PRUDENTE - CEP: 19053-020, PRESIDENTE PRUDENTE - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.293430-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.293430-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 88701
       }
     ]
   },
@@ -9245,6 +9565,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2394764",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 111.409,16 R$ 203.000,00 45% Apartamento Caixa em Ribeirão Preto / SP - 2394764 RUA PROFESSOR AYLTON RICOY DE OLIVEIRA,N. 925 APTO. 403 BL 31 VAGA 222, JARDIM OURO BRANCO - CEP: 14079-792, RIBEIRAO PRETO - SAO PAULO E",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 111409,
+    "valor_avaliacao": 203000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-residencial-cromo-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2394764-8787716759997-venda-direta-caixa",
+    "descricao": "R$ 111.409,16 R$ 203.000,00 45% Apartamento Caixa em Ribeirão Preto / SP - 2394764 RUA PROFESSOR AYLTON RICOY DE OLIVEIRA,N. 925 APTO. 403 BL 31 VAGA 222, JARDIM OURO BRANCO - CEP: 14079-792, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.087339-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.087339-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 111409
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2358859",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 115.250,85 R$ 210.000,00 45% Apartamento Caixa em Ribeirão Preto / SP - 2358859 AV ALFREDO RAVANELI,N. 3409 APTO. 305 BL 4, CONJUNTO HABITACIONAL JARDIM DAS PA - CEP: 14094-120, RIBEIRAO PRETO - SAO PAULO Encerra em: ",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 115250,
+    "valor_avaliacao": 210000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-parque-romance-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2358859-8555533516407-venda-direta-caixa",
+    "descricao": "R$ 115.250,85 R$ 210.000,00 45% Apartamento Caixa em Ribeirão Preto / SP - 2358859 AV ALFREDO RAVANELI,N. 3409 APTO. 305 BL 4, CONJUNTO HABITACIONAL JARDIM DAS PA - CEP: 14094-120, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.251600-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.251600-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 115250
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2594314",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -9273,6 +9657,70 @@
       {
         "data": "2026-07-16",
         "preco": 94015
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2533213",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 105.651,47 R$ 184.000,00 43% Apartamento Caixa em Ribeirão Preto / SP - 2533213 RUA JOAO E GUIOMAR SOEIRA,N. 155 APTO. 401 BLOCO 35, RESERVA REAL - CEP: 14094-645, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:",
+    "bairro": "Não identificado",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 105651,
+    "valor_avaliacao": 184000,
+    "desconto_percentual": 43,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/ribeirao-preto/residencial-cond-palacio-imperial-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2533213-8787706148561-venda-direta-caixa",
+    "descricao": "R$ 105.651,47 R$ 184.000,00 43% Apartamento Caixa em Ribeirão Preto / SP - 2533213 RUA JOAO E GUIOMAR SOEIRA,N. 155 APTO. 401 BLOCO 35, RESERVA REAL - CEP: 14094-645, RIBEIRAO PRETO - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:19.420787-03:00",
+    "ultima_captura": "2026-07-16T20:36:19.420787-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 105651
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2703335",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 742.471,16 R$ 1.165.000,00 36% Casa Caixa em Salto / SP - 2703335 ESTRADA MUNICIPAL,N. 6473 0, BURU - CEP: 13328-310, SALTO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "Salto",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 742471,
+    "valor_avaliacao": 1165000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/salto/residencial-buru-imovel-caixa-economica-federal-cef-2703335-1444401329278-venda-direta-caixa",
+    "descricao": "R$ 742.471,16 R$ 1.165.000,00 36% Casa Caixa em Salto / SP - 2703335 ESTRADA MUNICIPAL,N. 6473 0, BURU - CEP: 13328-310, SALTO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.721978-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.721978-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 742471
       }
     ]
   },
@@ -9368,6 +9816,70 @@
       {
         "data": "2026-07-15",
         "preco": 583142
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2367765",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 109.762,71 R$ 200.000,00 45% Apartamento Caixa em Sumaré / SP - 2367765 ESTRADA MUNICIPAL TEODORO CUNDIEV,N. 685 APTO. 11 BLOCO G TERREO, JARDIM MARCHISSOLO - CEP: 13171-105, SUMARE - SAO PAULO Encerra em: 17/07/2026 ",
+    "bairro": "Não identificado",
+    "cidade": "Sumaré",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 109762,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 45,
+    "data_encerramento": "2026-07-17T18:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sumare/residencial-residencial-parque-das-orquideas-i-3-quartos-1-vaga-na-garagem-area-de-ser-imovel-caixa-economica-federal-cef-2367765-8555514748993-venda-direta-caixa",
+    "descricao": "R$ 109.762,71 R$ 200.000,00 45% Apartamento Caixa em Sumaré / SP - 2367765 ESTRADA MUNICIPAL TEODORO CUNDIEV,N. 685 APTO. 11 BLOCO G TERREO, JARDIM MARCHISSOLO - CEP: 13171-105, SUMARE - SAO PAULO Encerra em: 17/07/2026 18:00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.201271-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.201271-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 109762
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-1715771",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 1.240.754,13 R$ 2.500.000,00 50% Apartamento Caixa em São José Do Rio Preto / SP - 1715771 RUA MINAS GERAIS,N. 69 APTO. 121 12 E 13 ANDAR, VILA BOM JESUS - CEP: 15014-210, SAO JOSE DO RIO PRETO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São José Do Rio Preto",
+    "uf": "SP",
+    "tipo": "Apartamento",
+    "preco": 1240754,
+    "valor_avaliacao": 2500000,
+    "desconto_percentual": 50,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-jose-do-rio-preto/residencial-ed-najla-hassad-4-quartos-3-vagas-na-garagem-3-wc-wc-emp-2-salas-2-lava-imovel-caixa-economica-federal-cef-1715771-1444417987180-venda-direta-caixa",
+    "descricao": "R$ 1.240.754,13 R$ 2.500.000,00 50% Apartamento Caixa em São José Do Rio Preto / SP - 1715771 RUA MINAS GERAIS,N. 69 APTO. 121 12 E 13 ANDAR, VILA BOM JESUS - CEP: 15014-210, SAO JOSE DO RIO PRETO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.393519-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.393519-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 1240754
       }
     ]
   },
@@ -9654,6 +10166,38 @@
       {
         "data": "2026-07-15",
         "preco": 810727
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2721633",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 774.336,87 R$ 1.215.000,00 36% Casa Caixa em São Paulo / SP - 2721633 RUA MILTON SOARES,N. 43, 13 SUBD BUTANTA - CEP: 05382-010, SAO PAULO - SAO PAULO",
+    "bairro": "Não identificado",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "tipo": "Casa",
+    "preco": 774336,
+    "valor_avaliacao": 1215000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/sp/sao-paulo/residencial-conj-hab-jd-esther-yolanda-quarto-area-de-servico-wc-sala-cozinha-terra-imovel-caixa-economica-federal-cef-2721633-1444423411066-venda-direta-caixa",
+    "descricao": "R$ 774.336,87 R$ 1.215.000,00 36% Casa Caixa em São Paulo / SP - 2721633 RUA MILTON SOARES,N. 43, 13 SUBD BUTANTA - CEP: 05382-010, SAO PAULO - SAO PAULO",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-16T20:36:20.583095-03:00",
+    "ultima_captura": "2026-07-16T20:36:20.583095-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 3,
+    "historico_precos": [
+      {
+        "data": "2026-07-16",
+        "preco": 774336
       }
     ]
   },
