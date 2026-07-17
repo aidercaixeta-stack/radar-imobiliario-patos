@@ -1,15 +1,15 @@
 {
-    "updated_at":  "2026-07-16T20:42:21.028192-03:00",
+    "updated_at":  "2026-07-16T20:48:27.337292-03:00",
     "source":  "Leilao Imovel",
-    "records":  337,
-    "active_at_publication":  245,
+    "records":  356,
+    "active_at_publication":  264,
     "closed_at_publication":  92,
-    "without_end_date":  64,
+    "without_end_date":  82,
     "states":  {
                    "DF":  37,
                    "GO":  71,
                    "MG":  62,
-                   "PR":  33,
+                   "PR":  52,
                    "RS":  38,
                    "SC":  33,
                    "SP":  63
