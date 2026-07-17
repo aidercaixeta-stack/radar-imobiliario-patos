@@ -7426,6 +7426,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2720994",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 98.963,30 R$ 167.000,00 41% Casa Caixa em Arapongas / PR - 2720994 RUA DANCARINO PERERECA,N. 239 QD 15, LT 20, LOTEAMENTO VIVER BEM ARAPONGAS 2 - CEP: 86711-478, ARAPONGAS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Arapongas",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 98963,
+    "valor_avaliacao": 167000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/arapongas/residencial-loteamento-viver-bem-2-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sa-imovel-caixa-economica-federal-cef-2720994-8787720350240-venda-direta-caixa",
+    "descricao": "R$ 98.963,30 R$ 167.000,00 41% Casa Caixa em Arapongas / PR - 2720994 RUA DANCARINO PERERECA,N. 239 QD 15, LT 20, LOTEAMENTO VIVER BEM ARAPONGAS 2 - CEP: 86711-478, ARAPONGAS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.703808-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.703808-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 98963
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2507281",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -7461,7 +7493,7 @@
     "id": "leilaoimovel-2714820",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
-    "titulo": "R$ 96.889,22 R$ 163.500,00 41% Apartamento Caixa em Campo Largo / PR - 2714820 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2012 BL 20 VG 657, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA Encerra em: 15/07/2026 18:00",
+    "titulo": "R$ 96.889,22 R$ 163.500,00 41% Apartamento Caixa em Campo Largo / PR - 2714820 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2012 BL 20 VG 657, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
     "bairro": "Não identificado",
     "cidade": "Campo Largo",
     "uf": "PR",
@@ -7469,19 +7501,19 @@
     "preco": 96889,
     "valor_avaliacao": 163500,
     "desconto_percentual": 41,
-    "data_encerramento": "2026-07-15T18:00:00-03:00",
+    "data_encerramento": null,
     "fonte": "Leilão Imóvel",
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-madison-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2714820-8787710659753-venda-direta-caixa",
-    "descricao": "R$ 96.889,22 R$ 163.500,00 41% Apartamento Caixa em Campo Largo / PR - 2714820 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2012 BL 20 VG 657, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA Encerra em: 15/07/2026 18:00",
+    "descricao": "R$ 96.889,22 R$ 163.500,00 41% Apartamento Caixa em Campo Largo / PR - 2714820 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2012 BL 20 VG 657, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:15:50.051808-03:00",
-    "ultima_captura": "2026-07-15T17:15:50.051808-03:00",
+    "ultima_captura": "2026-07-17T14:44:20.028715-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 4,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -7493,7 +7525,7 @@
     "id": "leilaoimovel-2710949",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
-    "titulo": "R$ 98.963,30 R$ 167.000,00 41% Apartamento Caixa em Campo Largo / PR - 2710949 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3317 BL 33 TIPO 3, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA Encerra em: 15/07/2026 18:00",
+    "titulo": "R$ 98.963,30 R$ 167.000,00 41% Apartamento Caixa em Campo Largo / PR - 2710949 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3317 BL 33 TIPO 3, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
     "bairro": "Não identificado",
     "cidade": "Campo Largo",
     "uf": "PR",
@@ -7501,19 +7533,19 @@
     "preco": 98963,
     "valor_avaliacao": 167000,
     "desconto_percentual": 41,
-    "data_encerramento": "2026-07-15T18:00:00-03:00",
+    "data_encerramento": null,
     "fonte": "Leilão Imóvel",
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-madison-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2710949-8787704480631-venda-direta-caixa",
-    "descricao": "R$ 98.963,30 R$ 167.000,00 41% Apartamento Caixa em Campo Largo / PR - 2710949 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3317 BL 33 TIPO 3, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA Encerra em: 15/07/2026 18:00",
+    "descricao": "R$ 98.963,30 R$ 167.000,00 41% Apartamento Caixa em Campo Largo / PR - 2710949 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3317 BL 33 TIPO 3, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:15:50.101762-03:00",
-    "ultima_captura": "2026-07-15T17:15:50.101762-03:00",
+    "ultima_captura": "2026-07-17T14:44:20.228808-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 4,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -7586,6 +7618,166 @@
     ]
   },
   {
+    "id": "leilaoimovel-2726149",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726149 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 1618 BL 16, VAGA Nº166, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 100741,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-cond-res-madison-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-terraco-imovel-caixa-economica-federal-cef-2726149-8787705286154-venda-direta-caixa",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726149 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 1618 BL 16, VAGA Nº166, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.082030-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.082030-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 100741
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726144",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 104.296,65 R$ 176.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726144 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 103 BL 05 VAGA Nº 137, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 104296,
+    "valor_avaliacao": 176000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-california-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2726144-8787703697718-venda-direta-caixa",
+    "descricao": "R$ 104.296,65 R$ 176.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726144 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 103 BL 05 VAGA Nº 137, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.354603-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.354603-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 104296
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726143",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 101.926,27 R$ 172.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726143 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 204 BL 23, VAGA Nº 558, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 101926,
+    "valor_avaliacao": 172000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-res-california-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2726143-8787703952092-venda-direta-caixa",
+    "descricao": "R$ 101.926,27 R$ 172.000,00 41% Apartamento Caixa em Campo Largo / PR - 2726143 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 204 BL 23, VAGA Nº 558, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.398931-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.398931-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 101926
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2720985",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.667,03 R$ 180.000,00 41% Apartamento Caixa em Campo Largo / PR - 2720985 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 302 BL 09 VAGA DE GARAGEM Nº 120, JARDIM ITAQUI - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 106667,
+    "valor_avaliacao": 180000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-cond-res-california-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2720985-8787703271915-venda-direta-caixa",
+    "descricao": "R$ 106.667,03 R$ 180.000,00 41% Apartamento Caixa em Campo Largo / PR - 2720985 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 302 BL 09 VAGA DE GARAGEM Nº 120, JARDIM ITAQUI - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.766457-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.766457-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 106667
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2714821",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 99.555,89 R$ 168.000,00 41% Apartamento Caixa em Campo Largo / PR - 2714821 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2011 BL 20 VG 656, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 99555,
+    "valor_avaliacao": 168000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-madison-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2714821-8787710470111-venda-direta-caixa",
+    "descricao": "R$ 99.555,89 R$ 168.000,00 41% Apartamento Caixa em Campo Largo / PR - 2714821 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 2011 BL 20 VG 656, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.962214-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.962214-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 99555
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2635942",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -7614,6 +7806,102 @@
       {
         "data": "2026-07-15",
         "preco": 111272
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726148",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 130.467,25 R$ 215.857,60 40% Apartamento Caixa em Campo Largo / PR - 2726148 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 1636 BL 16, VAGA Nº 298, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 130467,
+    "valor_avaliacao": 215857,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-madison-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-imovel-caixa-economica-federal-cef-2726148-8787705691571-venda-direta-caixa",
+    "descricao": "R$ 130.467,25 R$ 215.857,60 40% Apartamento Caixa em Campo Largo / PR - 2726148 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 1636 BL 16, VAGA Nº 298, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.159196-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.159196-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 130467
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726145",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 126.322,42 R$ 209.000,00 40% Apartamento Caixa em Campo Largo / PR - 2726145 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 302 BL 02, VAGA Nº 218, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 126322,
+    "valor_avaliacao": 209000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-condominio-residencial-california-2-quartos-1-vaga-na-garagem-area-de-serv-imovel-caixa-economica-federal-cef-2726145-8787702847805-venda-direta-caixa",
+    "descricao": "R$ 126.322,42 R$ 209.000,00 40% Apartamento Caixa em Campo Largo / PR - 2726145 RUA MARIA JOAQUINA VAZ,N. 721 APTO. 302 BL 02, VAGA Nº 218, CAMPO DO MEIO - CEP: 83604-581, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.295394-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.295394-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 126322
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2714823",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 111.816,50 R$ 185.000,00 40% Apartamento Caixa em Campo Largo / PR - 2714823 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3026 BL 30 VG 943, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Campo Largo",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 111816,
+    "valor_avaliacao": 185000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/campo-largo/residencial-residencial-madison-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2714823-8444433965534-venda-direta-caixa",
+    "descricao": "R$ 111.816,50 R$ 185.000,00 40% Apartamento Caixa em Campo Largo / PR - 2714823 RODOVIA DOS EXPEDICIONARIOS,N. 1145 APTO. 3026 BL 30 VG 943, BOM JESUS - CEP: 83604-360, CAMPO LARGO - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.891333-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.891333-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 111816
       }
     ]
   },
@@ -7778,6 +8066,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2726137",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 104.162,59 R$ 175.773,78 41% Casa Caixa em Contenda / PR - 2726137 AVENIDA ELEUTERIO DE SOUZA PADILHA,N. 1463 42, ILHA - CEP: 83730-000, CONTENDA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Contenda",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 104162,
+    "valor_avaliacao": 175773,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/contenda/residencial-cond-res-ouro-branco-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2726137-8555512847072-venda-direta-caixa",
+    "descricao": "R$ 104.162,59 R$ 175.773,78 41% Casa Caixa em Contenda / PR - 2726137 AVENIDA ELEUTERIO DE SOUZA PADILHA,N. 1463 42, ILHA - CEP: 83730-000, CONTENDA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.459742-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.459742-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 104162
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2746267",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -7902,6 +8222,38 @@
       {
         "data": "2026-07-15",
         "preco": 103354
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726132",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 114.234,15 R$ 189.000,00 40% Casa Caixa em Florestópolis / PR - 2726132 RUA DAS MAGNÓLIAS,N. 22 QD 02 LT 06, CENTRO - CEP: 86165-000, FLORESTOPOLIS - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Florestópolis",
+    "uf": "PR",
+    "tipo": "Casa",
+    "preco": 114234,
+    "valor_avaliacao": 189000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/florestopolis/residencial-resid-flavio-romagnolli-3-quartos-1-vaga-na-garagem-area-de-servico-wc-s-imovel-caixa-economica-federal-cef-2726132-8444436541760-venda-direta-caixa",
+    "descricao": "R$ 114.234,15 R$ 189.000,00 40% Casa Caixa em Florestópolis / PR - 2726132 RUA DAS MAGNÓLIAS,N. 22 QD 02 LT 06, CENTRO - CEP: 86165-000, FLORESTOPOLIS - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.531935-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.531935-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 114234
       }
     ]
   },
@@ -8133,7 +8485,7 @@
     "id": "leilaoimovel-2726129",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
-    "titulo": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Londrina / PR - 2726129 RUA ELOY MELLO GUIDES,N. 45 APTO. 103 BL13, VAGA Nº 257, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-430, LONDRINA - PARANA Encerra em: 15/07/2",
+    "titulo": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Londrina / PR - 2726129 RUA ELOY MELLO GUIDES,N. 45 APTO. 103 BL13, VAGA Nº 257, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-430, LONDRINA - PARANA",
     "bairro": "Não identificado",
     "cidade": "Londrina",
     "uf": "PR",
@@ -8141,19 +8493,19 @@
     "preco": 94815,
     "valor_avaliacao": 160000,
     "desconto_percentual": 41,
-    "data_encerramento": "2026-07-15T18:00:00-03:00",
+    "data_encerramento": null,
     "fonte": "Leilão Imóvel",
     "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-portal-do-manaca-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-co-imovel-caixa-economica-federal-cef-2726129-8787708426801-venda-direta-caixa",
-    "descricao": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Londrina / PR - 2726129 RUA ELOY MELLO GUIDES,N. 45 APTO. 103 BL13, VAGA Nº 257, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-430, LONDRINA - PARANA Encerra em: 15/07/2026 18:00",
+    "descricao": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Londrina / PR - 2726129 RUA ELOY MELLO GUIDES,N. 45 APTO. 103 BL13, VAGA Nº 257, CONJUNTO SEMIRAMIS BARROS BRAGA - CEP: 86088-430, LONDRINA - PARANA",
     "nota_oportunidade": 50,
-    "novo": true,
+    "novo": false,
     "preco_reduzido": false,
     "primeira_captura": "2026-07-15T17:15:49.996859-03:00",
-    "ultima_captura": "2026-07-15T17:15:49.996859-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.604260-03:00",
     "latitude": null,
     "longitude": null,
     "localizacao_precisao": "nao_localizado",
-    "pagina_origem": 1,
+    "pagina_origem": 4,
     "historico_precos": [
       {
         "data": "2026-07-15",
@@ -8286,6 +8638,102 @@
       {
         "data": "2026-07-16",
         "preco": 114838
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2726126",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 119.673,87 R$ 198.000,00 40% Apartamento Caixa em Londrina / PR - 2726126 AVENIDA ROSALVO MARQUES BONFIM,N. 1055 APTO. 104 BL 11 VAGA Nº 184-PNE, JARDIM MARIA CELINA - CEP: 86081-538, LONDRINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 119673,
+    "valor_avaliacao": 198000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-london-park-quarto-1-vaga-na-garagem-wc-sala-cozinha-apartamento-pne-imovel-caixa-economica-federal-cef-2726126-8787711654283-venda-direta-caixa",
+    "descricao": "R$ 119.673,87 R$ 198.000,00 40% Apartamento Caixa em Londrina / PR - 2726126 AVENIDA ROSALVO MARQUES BONFIM,N. 1055 APTO. 104 BL 11 VAGA Nº 184-PNE, JARDIM MARIA CELINA - CEP: 86081-538, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.650076-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.650076-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 119673
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2714812",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 119.673,87 R$ 198.000,00 40% Apartamento Caixa em Londrina / PR - 2714812 AVENIDA PREFEITO MILTON RIBEIRO MENEZES,N. 715 APTO. 202 TORRE 05 VG 266, CONJUNTO HABITACIONAL DOUTOR FARID - CEP: 86087-620, LONDRINA - PARAN",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 119673,
+    "valor_avaliacao": 198000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-spazio-lyon-2-quartos-1-vaga-na-garagem-sala-cozinha-imovel-caixa-economica-federal-cef-2714812-8787701140635-venda-direta-caixa",
+    "descricao": "R$ 119.673,87 R$ 198.000,00 40% Apartamento Caixa em Londrina / PR - 2714812 AVENIDA PREFEITO MILTON RIBEIRO MENEZES,N. 715 APTO. 202 TORRE 05 VG 266, CONJUNTO HABITACIONAL DOUTOR FARID - CEP: 86087-620, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:20.078333-03:00",
+    "ultima_captura": "2026-07-17T14:44:20.078333-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 119673
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2714811",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Londrina / PR - 2714811 RUA BARTHOLOMEU LOPES,N. 585 APTO. 304 BL C VG 106, CONJUNTO HABITACIONAL JAMILE DEQUEC - CEP: 86044-792, LONDRINA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/londrina/residencial-conjunto-habitacional-jamile-dequec-2-quartos-1-vaga-na-garagem-wc-sala-imovel-caixa-economica-federal-cef-2714811-8787715184893-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Londrina / PR - 2714811 RUA BARTHOLOMEU LOPES,N. 585 APTO. 304 BL C VG 106, CONJUNTO HABITACIONAL JAMILE DEQUEC - CEP: 86044-792, LONDRINA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:20.130481-03:00",
+    "ultima_captura": "2026-07-17T14:44:20.130481-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 120882
       }
     ]
   },
@@ -8862,6 +9310,70 @@
       {
         "data": "2026-07-16",
         "preco": 659620
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2720963",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Umuarama / PR - 2720963 RUA VITORIA,N. 5800 APTO. 402 BL I, 4º PAV, 3º ANDAR, GARAGEM Nº 219, ZONA V - CEP: 87504-180, UMUARAMA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Umuarama",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/umuarama/residencial-residencial-terra-de-santa-cruz-2-quartos-1-vaga-na-garagem-area-de-servic-imovel-caixa-economica-federal-cef-2720963-8787707672779-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Apartamento Caixa em Umuarama / PR - 2720963 RUA VITORIA,N. 5800 APTO. 402 BL I, 4º PAV, 3º ANDAR, GARAGEM Nº 219, ZONA V - CEP: 87504-180, UMUARAMA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:19.831346-03:00",
+    "ultima_captura": "2026-07-17T14:44:19.831346-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 120882
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2714792",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 113.891,08 R$ 188.432,39 40% Apartamento Caixa em Umuarama / PR - 2714792 AVENIDA VITORIA,N. 5800 APTO. 101 BL O VG 161, ZONA V - CEP: 87504-180, UMUARAMA - PARANA",
+    "bairro": "Não identificado",
+    "cidade": "Umuarama",
+    "uf": "PR",
+    "tipo": "Apartamento",
+    "preco": 113891,
+    "valor_avaliacao": 188432,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/pr/umuarama/residencial-residencial-terra-de-santa-cruz-2-quartos-1-vaga-na-garagem-area-de-servic-imovel-caixa-economica-federal-cef-2714792-8787712687541-venda-direta-caixa",
+    "descricao": "R$ 113.891,08 R$ 188.432,39 40% Apartamento Caixa em Umuarama / PR - 2714792 AVENIDA VITORIA,N. 5800 APTO. 101 BL O VG 161, ZONA V - CEP: 87504-180, UMUARAMA - PARANA",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T14:44:20.178096-03:00",
+    "ultima_captura": "2026-07-17T14:44:20.178096-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 113891
       }
     ]
   },
