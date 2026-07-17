@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-07-16T20:30:20.552286-03:00",
+    "updated_at":  "2026-07-16T20:36:21.871331-03:00",
     "source":  "Leilao Imovel",
-    "records":  305,
-    "active_at_publication":  213,
+    "records":  322,
+    "active_at_publication":  230,
     "closed_at_publication":  92,
-    "without_end_date":  58,
+    "without_end_date":  64,
     "states":  {
                    "DF":  37,
                    "GO":  56,
@@ -12,7 +12,7 @@
                    "PR":  33,
                    "RS":  38,
                    "SC":  33,
-                   "SP":  46
+                   "SP":  63
                },
     "core_version":  "1.5.1",
     "note":  "Base de leiloes mantida separada do mercado tradicional. O site recalcula a situacao pelo horario de encerramento e preserva o link direto para a fonte."
