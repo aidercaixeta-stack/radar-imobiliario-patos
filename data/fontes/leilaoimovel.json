@@ -160,6 +160,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-1701183",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 334.482,00 R$ 446.000,00 25% Casa Banco BRB em Brasília / DF - 1701183 QNP 13, Conjunto R, Lote 05, Ceilândia Norte, Brasília, DF, 72241-318",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 334482,
+    "valor_avaliacao": 446000,
+    "desconto_percentual": 25,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-ceilandia-norte-imovel-banco-brb-1701183",
+    "descricao": "R$ 334.482,00 R$ 446.000,00 25% Casa Banco BRB em Brasília / DF - 1701183 QNP 13, Conjunto R, Lote 05, Ceilândia Norte, Brasília, DF, 72241-318",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.504599-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.504599-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 334482
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2776452",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -188,6 +220,38 @@
       {
         "data": "2026-07-17",
         "preco": 272640
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-1735832",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 459.030,00 R$ 567.000,00 19% Casa Banco BRB em Brasília / DF - 1735832 Qn 01, Lote 20, Conjunto 4 , S/N, Riacho Fundo, Brasília, DF, 71805104",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 459030,
+    "valor_avaliacao": 567000,
+    "desconto_percentual": 19,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-riacho-fundo-imovel-banco-brb-1735832",
+    "descricao": "R$ 459.030,00 R$ 567.000,00 19% Casa Banco BRB em Brasília / DF - 1735832 Qn 01, Lote 20, Conjunto 4 , S/N, Riacho Fundo, Brasília, DF, 71805104",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.453828-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.453828-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 459030
       }
     ]
   },
@@ -380,6 +444,102 @@
       {
         "data": "2026-07-17",
         "preco": 2438316
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2041341",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 230.050,00 Casa Banco BRB em Brasília / DF - 2041341 Quadra QR 413, s/n, Conjunto 13, Lote 34, Região Administrativa XII- RA XII, Loteamento Cidade Satélite de Samambaia, Brasilia, DF, 72321-300",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 230050,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-residencial-loteamento-cidade-satelite-de-samambaia-imovel-banco-brb-2041341",
+    "descricao": "R$ 230.050,00 Casa Banco BRB em Brasília / DF - 2041341 Quadra QR 413, s/n, Conjunto 13, Lote 34, Região Administrativa XII- RA XII, Loteamento Cidade Satélite de Samambaia, Brasilia, DF, 72321-300",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.350045-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.350045-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 230050
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-1747934",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 2.416.129,00 Casa Banco BRB em Brasília / DF - 1747934 SMPW/SU, Quadra 26, Conjunto 07, Lote 07, Unidade F, Park way, Brasília, DF, 71745-607",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 2416129,
+    "valor_avaliacao": null,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-condominio-residencial-park-way-imovel-banco-brb-1747934",
+    "descricao": "R$ 2.416.129,00 Casa Banco BRB em Brasília / DF - 1747934 SMPW/SU, Quadra 26, Conjunto 07, Lote 07, Unidade F, Park way, Brasília, DF, 71745-607",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.411306-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.411306-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 2416129
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-1587332",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 4.627.215,00 R$ 4.650.000,00 Casa Banco BRB em Brasília / DF - 1587332 Travessa Saia Velha, Lotes 20 e 22, Residencial Santa Mônica, Brasília, DF, 71684-590",
+    "bairro": "Não identificado",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 4627215,
+    "valor_avaliacao": 4650000,
+    "desconto_percentual": null,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-casa-condominio-residencial-residencial-santa-monica-imovel-banco-brb-1587332",
+    "descricao": "R$ 4.627.215,00 R$ 4.650.000,00 Casa Banco BRB em Brasília / DF - 1587332 Travessa Saia Velha, Lotes 20 e 22, Residencial Santa Mônica, Brasília, DF, 71684-590",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.554956-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.554956-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 4627215
       }
     ]
   },
@@ -608,6 +768,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2921038",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 195.000,00 40% Apartamento em Leilão em Brasília / DF - 2921038 QN 29 CONJUNTO 10,N. SN APTO. 402 BLOCO 02, RIACHO FUNDO II - CEP: 71880-684, BRASILIA - DISTRITO FE... 1ª Praça: 24/08/2026 10:00 R$ 195.000,00 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 195000,
+    "valor_avaliacao": 195000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-setor-habitacional-riacho-fundo-ii-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2921038-8787700741848-venda-direta-caixa",
+    "descricao": "R$ 195.000,00 40% Apartamento em Leilão em Brasília / DF - 2921038 QN 29 CONJUNTO 10,N. SN APTO. 402 BLOCO 02, RIACHO FUNDO II - CEP: 71880-684, BRASILIA - DISTRITO FE... 1ª Praça: 24/08/2026 10:00 R$ 195.000,00 2ª Praça: 28/08/2026 10:00 R$ 117.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.661086-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.661086-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 195000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2887187",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 772.000,00 40% Comercial em Leilão em Brasília / DF - 2887187 QUADRA 17,N. 00 LOTE 06, SETOR LESTE (GAMA) - CEP: 72450-170, BRASILIA - DISTRITO FEDERAL 1ª Praça: 27/07/2026 10:00 R$ 772.000,00 2ª Praça: 31/07/2026 10:",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Lote",
+    "preco": 772000,
+    "valor_avaliacao": 772000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-07-27T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/comercial-setor-leste-gama-imovel-caixa-economica-federal-cef-2887187-10292041-venda-direta-caixa",
+    "descricao": "R$ 772.000,00 40% Comercial em Leilão em Brasília / DF - 2887187 QUADRA 17,N. 00 LOTE 06, SETOR LESTE (GAMA) - CEP: 72450-170, BRASILIA - DISTRITO FEDERAL 1ª Praça: 27/07/2026 10:00 R$ 772.000,00 2ª Praça: 31/07/2026 10:00 R$ 463.200,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.133454-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.133454-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 772000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2870695",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 164.756,74 39% Apartamento em Leilão em Brasília / DF - 2870695 AVENIDA BURITI,N. SN APTO. 242 LT 05 SUBCENTRO URBANO 400 600, RECANTO DAS EMAS - CEP: 72600-000, BR... 1ª Praça: 24/07/2026 10:00 R$ 164.756,74 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 164756,
+    "valor_avaliacao": 164756,
+    "desconto_percentual": 39,
+    "data_encerramento": "2026-07-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-recanto-das-emas-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2870695-8787714823256-venda-direta-caixa",
+    "descricao": "R$ 164.756,74 39% Apartamento em Leilão em Brasília / DF - 2870695 AVENIDA BURITI,N. SN APTO. 242 LT 05 SUBCENTRO URBANO 400 600, RECANTO DAS EMAS - CEP: 72600-000, BR... 1ª Praça: 24/07/2026 10:00 R$ 164.756,74 2ª Praça: 30/07/2026 10:00 R$ 101.022,66",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.203372-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.203372-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 164756
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2889477",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -796,6 +1052,70 @@
       {
         "data": "2026-07-16",
         "preco": 266979
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900058",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 199.000,00 25% Apartamento em Leilão em Brasília / DF - 2900058 QUADRA 402,N. SN APTO. 101 BL F1 LT 08 CONJ 01, ITAPOA PARQUE (ITAPOA) - CEP: 71592-045, BRASILIA - ... 1ª Praça: 04/08/2026 10:00 R$ 199.000,00 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 199000,
+    "valor_avaliacao": 199000,
+    "desconto_percentual": 25,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-setor-habitacional-itapoa-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2900058-1787702281234-venda-direta-caixa",
+    "descricao": "R$ 199.000,00 25% Apartamento em Leilão em Brasília / DF - 2900058 QUADRA 402,N. SN APTO. 101 BL F1 LT 08 CONJ 01, ITAPOA PARQUE (ITAPOA) - CEP: 71592-045, BRASILIA - ... 1ª Praça: 04/08/2026 10:00 R$ 199.000,00 2ª Praça: 10/08/2026 10:00 R$ 148.518,10",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.951376-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.951376-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 199000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2865283",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 143.138,93 R$ 186.042,50 23% Apartamento em Leilão em Brasília / DF - 2865283 QUADRA 101,N. SN APTO. 508 LT 04 CJ 04 BL B, SAMAMBAIA - CEP: 72300-507, BRASILIA - DISTRITO FEDERAL 1ª Praça: 14/07/2026 10:00 R$ 186.042,",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 143138,
+    "valor_avaliacao": 186042,
+    "desconto_percentual": 23,
+    "data_encerramento": "2026-07-14T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-res-stilo-flex-samambaia-quarto-area-de-servico-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2865283-8787709266166-venda-direta-caixa",
+    "descricao": "R$ 143.138,93 R$ 186.042,50 23% Apartamento em Leilão em Brasília / DF - 2865283 QUADRA 101,N. SN APTO. 508 LT 04 CJ 04 BL B, SAMAMBAIA - CEP: 72300-507, BRASILIA - DISTRITO FEDERAL 1ª Praça: 14/07/2026 10:00 R$ 186.042,50 2ª Praça: 20/07/2026 10:00 R$ 143.138,93",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.473155-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.473155-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 143138
       }
     ]
   },
@@ -992,6 +1312,70 @@
     ]
   },
   {
+    "id": "leilaoimovel-2921039",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 182.000,00 Apartamento em Leilão em Brasília / DF - 2921039 AVENIDA MONUMENTAL,N. SN APTO. 201 BLOCO X LOTE RESIDENCIAL 17, SETOR MEIRELES (SANTA MARIA) - CEP: ... 1ª Praça: 24/08/2026 10:00 R$ 182.000,00 2ª Praça: 28",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 182000,
+    "valor_avaliacao": 182000,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-08-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/residencial-setor-total-ville-condominio-09-2-quartos-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2921039-8787704815730-venda-direta-caixa",
+    "descricao": "R$ 182.000,00 Apartamento em Leilão em Brasília / DF - 2921039 AVENIDA MONUMENTAL,N. SN APTO. 201 BLOCO X LOTE RESIDENCIAL 17, SETOR MEIRELES (SANTA MARIA) - CEP: ... 1ª Praça: 24/08/2026 10:00 R$ 182.000,00 2ª Praça: 28/08/2026 10:00 R$ 185.759,83",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.603668-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.603668-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 182000
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2892781",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 240.000,00 Sala em Leilão em Brasília / DF - 2892781 RUA DAS FIGUEIRAS,N. 00 LT 07, SL 08, NORTE (AGUAS CLARAS) - CEP: 71906-750, BRASILIA - DISTRITO FED... 1ª Praça: 03/08/2026 10:00 R$ 240.000,00 2ª Praça: 07/08/202",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Brasília",
+    "uf": "DF",
+    "tipo": "Imóvel",
+    "preco": 240000,
+    "valor_avaliacao": 240000,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-08-03T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/brasilia/comercial-norte-aguas-claras-imovel-caixa-economica-federal-cef-2892781-10302314-venda-direta-caixa",
+    "descricao": "R$ 240.000,00 Sala em Leilão em Brasília / DF - 2892781 RUA DAS FIGUEIRAS,N. 00 LT 07, SL 08, NORTE (AGUAS CLARAS) - CEP: 71906-750, BRASILIA - DISTRITO FED... 1ª Praça: 03/08/2026 10:00 R$ 240.000,00 2ª Praça: 07/08/2026 10:00 R$ 309.845,01",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.051125-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.051125-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 240000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2822875",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -1116,6 +1500,38 @@
       {
         "data": "2026-07-16",
         "preco": 1064267
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2906659",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 278.000,00 50% Casa em Leilão em Recanto Das Emas / DF - 2906659 Lote 19 - Conjunto 18 - Quadra 801 - RECANTO DAS EMAS/DF 1ª Praça: 20/07/2026 16:40 R$ 278.000,00 2ª Praça: 23/07/2026 16:40 R$ 139.000,00",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Recanto Das Emas",
+    "uf": "DF",
+    "tipo": "Casa",
+    "preco": 278000,
+    "valor_avaliacao": 278000,
+    "desconto_percentual": 50,
+    "data_encerramento": "2026-07-20T16:40:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/recanto-das-emas/residencial-imovel-residencial-area-construida-108m-recanto-das-emas-df-imovel-2906659",
+    "descricao": "R$ 278.000,00 50% Casa em Leilão em Recanto Das Emas / DF - 2906659 Lote 19 - Conjunto 18 - Quadra 801 - RECANTO DAS EMAS/DF 1ª Praça: 20/07/2026 16:40 R$ 278.000,00 2ª Praça: 23/07/2026 16:40 R$ 139.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.808521-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.808521-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 278000
       }
     ]
   },
@@ -1344,6 +1760,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2892780",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 192.000,00 4% Apartamento em Leilão em Samambaia / DF - 2892780 QS 421,N. SN APTO. 1202 LT 1 E B CJ B, SAMAMBAIA NORTE - CEP: 72325-552, SAMAMBAIA - DISTRITO FEDERA... 1ª Praça: 03/08/2026 10:00 R$ 192.000,00 2ª Praça",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 192000,
+    "valor_avaliacao": 192000,
+    "desconto_percentual": 4,
+    "data_encerramento": "2026-08-03T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-cond-res-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2892780-8555534608003-venda-direta-caixa",
+    "descricao": "R$ 192.000,00 4% Apartamento em Leilão em Samambaia / DF - 2892780 QS 421,N. SN APTO. 1202 LT 1 E B CJ B, SAMAMBAIA NORTE - CEP: 72325-552, SAMAMBAIA - DISTRITO FEDERA... 1ª Praça: 03/08/2026 10:00 R$ 192.000,00 2ª Praça: 07/08/2026 10:00 R$ 185.244,93",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.091777-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.091777-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 192000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2889474",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -1372,6 +1820,38 @@
       {
         "data": "2026-07-16",
         "preco": 370937
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901739",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 170.000,00 1% Apartamento em Leilão em Samambaia / DF - 2901739 QN 505,N. SN APTO. 201 QD QN505, SAMAMBAIA SUL - CEP: 72311-704, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 13/08/2026 10:00 R$ 170.000,00 2ª Praça: 19/08/20",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 170000,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 1,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-sul-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2901739-8787700072229-venda-direta-caixa",
+    "descricao": "R$ 170.000,00 1% Apartamento em Leilão em Samambaia / DF - 2901739 QN 505,N. SN APTO. 201 QD QN505, SAMAMBAIA SUL - CEP: 72311-704, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 13/08/2026 10:00 R$ 170.000,00 2ª Praça: 19/08/2026 10:00 R$ 168.356,30",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.854990-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.854990-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 170000
       }
     ]
   },
@@ -1408,6 +1888,102 @@
     ]
   },
   {
+    "id": "leilaoimovel-2921036",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 140.200,03 Apartamento em Leilão em Samambaia / DF - 2921036 QS 309,N. SN APTO. 326 CONJ 10, SAMAMBAIA SUL - CEP: 72305-540, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 24/08/2026 10:00 R$ 140.200,03 2ª Praça: 28/08/2026 1",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 140200,
+    "valor_avaliacao": 140200,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-08-24T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-sul-imovel-caixa-economica-federal-cef-2921036-8787701745545-venda-direta-caixa",
+    "descricao": "R$ 140.200,03 Apartamento em Leilão em Samambaia / DF - 2921036 QS 309,N. SN APTO. 326 CONJ 10, SAMAMBAIA SUL - CEP: 72305-540, SAMAMBAIA - DISTRITO FEDERAL 1ª Praça: 24/08/2026 10:00 R$ 140.200,03 2ª Praça: 28/08/2026 10:00 R$ 164.438,05",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.712416-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.712416-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 140200
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2900055",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 162.527,76 Apartamento em Leilão em Samambaia / DF - 2900055 QUADRA 312,N. SN APTO. 507 LT 01 CONJ 04-A, SAMAMBAIA SUL - CEP: 72308-105, SAMAMBAIA - DISTRITO FED... 1ª Praça: 04/08/2026 10:00 R$ 162.527,76 2ª Praça: 1",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Samambaia",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 162527,
+    "valor_avaliacao": 162527,
+    "desconto_percentual": null,
+    "data_encerramento": "2026-08-04T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/samambaia/residencial-conquista-residencial-quarto-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2900055-8444410026396-venda-direta-caixa",
+    "descricao": "R$ 162.527,76 Apartamento em Leilão em Samambaia / DF - 2900055 QUADRA 312,N. SN APTO. 507 LT 01 CONJ 04-A, SAMAMBAIA SUL - CEP: 72308-105, SAMAMBAIA - DISTRITO FED... 1ª Praça: 04/08/2026 10:00 R$ 162.527,76 2ª Praça: 10/08/2026 10:00 R$ 361.179,27",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:21.009994-03:00",
+    "ultima_captura": "2026-07-17T15:02:21.009994-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 162527
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2901738",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 175.000,00 40% Apartamento em Leilão em Santa Maria / DF - 2901738 COMÉRCIO LOCAL 105,N. SN APTO. 110 LT H, SANTA MARIA - CEP: 72505-000, SANTA MARIA - DISTRITO FEDER... 1ª Praça: 13/08/2026 10:00 R$ 175.000,00 2ª Pra",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Santa Maria",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 175000,
+    "valor_avaliacao": 175000,
+    "desconto_percentual": 40,
+    "data_encerramento": "2026-08-13T10:00:00-03:00",
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/santa-maria/residencial-2-quartos-imovel-caixa-economica-federal-cef-2901738-8555528668822-venda-direta-caixa",
+    "descricao": "R$ 175.000,00 40% Apartamento em Leilão em Santa Maria / DF - 2901738 COMÉRCIO LOCAL 105,N. SN APTO. 110 LT H, SANTA MARIA - CEP: 72505-000, SANTA MARIA - DISTRITO FEDER... 1ª Praça: 13/08/2026 10:00 R$ 175.000,00 2ª Praça: 19/08/2026 10:00 R$ 105.000,00",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.901772-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.901772-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 175000
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2788919",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -1436,6 +2012,38 @@
       {
         "data": "2026-07-17",
         "preco": 659620
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2907862",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 700.000,00 50% Apartamento em Leilão em Taguatinga / DF - 2907862 Quadra CNB 09, Taguatinga Norte, Taguatinga/DF",
+    "bairro": "Não identificado",
+    "cidade": "Leilão Em Taguatinga",
+    "uf": "DF",
+    "tipo": "Apartamento",
+    "preco": 700000,
+    "valor_avaliacao": null,
+    "desconto_percentual": 50,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/df/taguatinga/residencial-apartamento-cnb-09-taguatinga-norte-imovel-2907862",
+    "descricao": "R$ 700.000,00 50% Apartamento em Leilão em Taguatinga / DF - 2907862 Quadra CNB 09, Taguatinga Norte, Taguatinga/DF",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:02:20.764895-03:00",
+    "ultima_captura": "2026-07-17T15:02:20.764895-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 4,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 700000
       }
     ]
   },
