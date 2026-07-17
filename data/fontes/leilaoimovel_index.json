@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-07-16T17:14:20.393859-03:00",
-    "records":  235,
+    "updated_at":  "2026-07-16T20:06:20.698758-03:00",
+    "records":  249,
     "files":  [
                   {
                       "path":  "data/fontes/leilaoimovel.json",
-                      "records":  235
+                      "records":  249
                   }
               ]
 }
