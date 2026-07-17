@@ -5517,6 +5517,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2711263",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 203.940,58 R$ 320.000,00 36% Terreno Caixa em Belo Horizonte / MG - 2711263 RUA MARIA DA CONCEICAO FURTADO (2468),N. S/N LT 01, QD 216, JARDIM VITORIA - CEP: 31970-321, BELO HORIZONTE - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "tipo": "Lote",
+    "preco": 203940,
+    "valor_avaliacao": 320000,
+    "desconto_percentual": 36,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/belo-horizonte/terreno-jardim-vitoria-imovel-caixa-economica-federal-cef-2711263-10285152-venda-direta-caixa",
+    "descricao": "R$ 203.940,58 R$ 320.000,00 36% Terreno Caixa em Belo Horizonte / MG - 2711263 RUA MARIA DA CONCEICAO FURTADO (2468),N. S/N LT 01, QD 216, JARDIM VITORIA - CEP: 31970-321, BELO HORIZONTE - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:18.005277-03:00",
+    "ultima_captura": "2026-07-17T15:08:18.005277-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 203940
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2437531",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -5609,6 +5641,38 @@
       {
         "data": "2026-07-15",
         "preco": 246529
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711297",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.667,03 R$ 180.000,00 41% Casa Caixa em Campo Belo / MG - 2711297 SEBASTIÃO ALVES MOREIRA,N. 45 QD C LT 10, NOVO BANDEIRANTES - CEP: 37270-000, CAMPO BELO - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Campo Belo",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 106667,
+    "valor_avaliacao": 180000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/campo-belo/residencial-novo-bandeirantes-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-c-imovel-caixa-economica-federal-cef-2711297-8444435829603-venda-direta-caixa",
+    "descricao": "R$ 106.667,03 R$ 180.000,00 41% Casa Caixa em Campo Belo / MG - 2711297 SEBASTIÃO ALVES MOREIRA,N. 45 QD C LT 10, NOVO BANDEIRANTES - CEP: 37270-000, CAMPO BELO - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.767398-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.767398-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 106667
       }
     ]
   },
@@ -5926,6 +5990,70 @@
       {
         "data": "2026-07-17",
         "preco": 64417
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2721036",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 70.221,05 R$ 122.500,00 43% Apartamento Caixa em Divinópolis / MG - 2721036 RUA MARAJUARAS,N. 1051 APTO. 13 SUB 77 BL 05, IPANEMA - CEP: 35500-000, DIVINOPOLIS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Divinópolis",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 70221,
+    "valor_avaliacao": 122500,
+    "desconto_percentual": 43,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/divinopolis/residencial-residencial-divinopolis-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2721036-8787701501450-venda-direta-caixa",
+    "descricao": "R$ 70.221,05 R$ 122.500,00 43% Apartamento Caixa em Divinópolis / MG - 2721036 RUA MARAJUARAS,N. 1051 APTO. 13 SUB 77 BL 05, IPANEMA - CEP: 35500-000, DIVINOPOLIS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.118149-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.118149-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 70221
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711273",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 70.221,05 R$ 122.500,00 43% Apartamento Caixa em Divinópolis / MG - 2711273 RUA MARAJUARAS,N. 1051 APTO. 14 BL 12 2 PAV LT 650 QD 222 Z43, GAFANHOTO - CEP: 35500-000, DIVINOPOLIS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Divinópolis",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 70221,
+    "valor_avaliacao": 122500,
+    "desconto_percentual": 43,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/divinopolis/residencial-residencial-divinopolis-2-quartos-1-vaga-na-garagem-area-de-servico-wc-s-imovel-caixa-economica-federal-cef-2711273-8787704703282-venda-direta-caixa",
+    "descricao": "R$ 70.221,05 R$ 122.500,00 43% Apartamento Caixa em Divinópolis / MG - 2711273 RUA MARAJUARAS,N. 1051 APTO. 14 BL 12 2 PAV LT 650 QD 222 Z43, GAFANHOTO - CEP: 35500-000, DIVINOPOLIS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.952922-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.952922-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 70221
       }
     ]
   },
@@ -6825,6 +6953,38 @@
     ]
   },
   {
+    "id": "leilaoimovel-2711284",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 120.882,70 R$ 200.000,00 40% Casa Caixa em Mutum / MG - 2711284 RUA NOSSA SENHORA APARECIDA,N. 79, CENTRO - CEP: 36955-000, MUTUM - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Mutum",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 120882,
+    "valor_avaliacao": 200000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/mutum/residencial-centro-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2711284-8444407197592-venda-direta-caixa",
+    "descricao": "R$ 120.882,70 R$ 200.000,00 40% Casa Caixa em Mutum / MG - 2711284 RUA NOSSA SENHORA APARECIDA,N. 79, CENTRO - CEP: 36955-000, MUTUM - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.863046-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.863046-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 120882
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2394546",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -6948,6 +7108,38 @@
       {
         "data": "2026-07-17",
         "preco": 106667
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711291",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 116.349,60 R$ 192.500,00 40% Apartamento Caixa em Patos De Minas / MG - 2711291 AVENIDA WILSON GOMES COELHO,N. 230 APTO. 31 B BLOCO B, ALTO DA SERRA - CEP: 38704-014, PATOS DE MINAS - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Patos De Minas",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 116349,
+    "valor_avaliacao": 192500,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/patos-de-minas/residencial-alto-da-serra-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-cozin-imovel-caixa-economica-federal-cef-2711291-8787708616724-venda-direta-caixa",
+    "descricao": "R$ 116.349,60 R$ 192.500,00 40% Apartamento Caixa em Patos De Minas / MG - 2711291 AVENIDA WILSON GOMES COELHO,N. 230 APTO. 31 B BLOCO B, ALTO DA SERRA - CEP: 38704-014, PATOS DE MINAS - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.813985-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.813985-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 116349
       }
     ]
   },
@@ -7429,6 +7621,230 @@
     ]
   },
   {
+    "id": "leilaoimovel-2721019",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Uberaba / MG - 2721019 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 203 BL26, GARAGEM 163, BAIRRO VALLIM - CEP: 38000-000, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 100741,
+    "valor_avaliacao": 170000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-bairro-vallim-2-quartos-1-vaga-na-garagem-area-de-servico-wc-sala-cozin-imovel-caixa-economica-federal-cef-2721019-8787712433000-venda-direta-caixa",
+    "descricao": "R$ 100.741,08 R$ 170.000,00 41% Apartamento Caixa em Uberaba / MG - 2721019 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 203 BL26, GARAGEM 163, BAIRRO VALLIM - CEP: 38000-000, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.167175-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.167175-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 100741
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715062",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Uberaba / MG - 2715062 RUA DONA CECÍLIA BORGES PAULUK,N. 70 APTO. 204 BL26 VG164, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 94815,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-vallim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2715062-8787712043407-venda-direta-caixa",
+    "descricao": "R$ 94.815,14 R$ 160.000,00 41% Apartamento Caixa em Uberaba / MG - 2715062 RUA DONA CECÍLIA BORGES PAULUK,N. 70 APTO. 204 BL26 VG164, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.328600-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.328600-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 94815
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715061",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 106.074,43 R$ 179.000,00 41% Apartamento Caixa em Uberaba / MG - 2715061 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 201 BL16 VG74, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 106074,
+    "valor_avaliacao": 179000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-vallim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2715061-8787712724161-venda-direta-caixa",
+    "descricao": "R$ 106.074,43 R$ 179.000,00 41% Apartamento Caixa em Uberaba / MG - 2715061 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 201 BL16 VG74, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.388774-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.388774-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 106074
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715060",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 89.575,84 R$ 153.000,00 41% Apartamento Caixa em Uberaba / MG - 2715060 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 202 BL 21 VG97, VALLIM - CEP: 38000-000, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 89575,
+    "valor_avaliacao": 153000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-vallim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2715060-8787713053929-venda-direta-caixa",
+    "descricao": "R$ 89.575,84 R$ 153.000,00 41% Apartamento Caixa em Uberaba / MG - 2715060 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 202 BL 21 VG97, VALLIM - CEP: 38000-000, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.478600-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.478600-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 89575
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715043",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 107.259,62 R$ 181.000,00 41% Apartamento Caixa em Uberaba / MG - 2715043 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 101 BL 30 VG 238, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 107259,
+    "valor_avaliacao": 181000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-conjunto-chica-ferreira-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2715043-8787712170727-venda-direta-caixa",
+    "descricao": "R$ 107.259,62 R$ 181.000,00 41% Apartamento Caixa em Uberaba / MG - 2715043 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 101 BL 30 VG 238, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.631905-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.631905-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 107259
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715041",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 93.193,20 R$ 157.263,00 41% Apartamento Caixa em Uberaba / MG - 2715041 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 104 BL11 VG 133, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 93193,
+    "valor_avaliacao": 157263,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-conjunto-chica-ferreira-2-quartos-1-vaga-na-garagem-area-de-servico-wc-s-imovel-caixa-economica-federal-cef-2715041-8787716043819-venda-direta-caixa",
+    "descricao": "R$ 93.193,20 R$ 157.263,00 41% Apartamento Caixa em Uberaba / MG - 2715041 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 104 BL11 VG 133, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.676769-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.676769-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 93193
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715036",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 84.892,14 R$ 145.000,00 41% Apartamento Caixa em Uberaba / MG - 2715036 AVENIDA JOSIAS FERREIRA SOBRINHO,N. 345 APTO. 401 BL06, JARDIM MARACANA - CEP: 38041-040, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 84892,
+    "valor_avaliacao": 145000,
+    "desconto_percentual": 41,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-condominio-residencial-ville-park-torino-2-quartos-1-vaga-na-garagem-wc-s-imovel-caixa-economica-federal-cef-2715036-8787704460517-venda-direta-caixa",
+    "descricao": "R$ 84.892,14 R$ 145.000,00 41% Apartamento Caixa em Uberaba / MG - 2715036 AVENIDA JOSIAS FERREIRA SOBRINHO,N. 345 APTO. 401 BL06, JARDIM MARACANA - CEP: 38041-040, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.718994-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.718994-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 84892
+      }
+    ]
+  },
+  {
     "id": "leilaoimovel-2168992",
     "mercado": "leilao",
     "modalidade_leilao": "Leilão",
@@ -7583,6 +7999,198 @@
       {
         "data": "2026-07-17",
         "preco": 114838
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715059",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 141.385,77 R$ 233.922,26 40% Apartamento Caixa em Uberaba / MG - 2715059 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 203 BL22 VG195, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 141385,
+    "valor_avaliacao": 233922,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-vallim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2715059-8787714426494-venda-direta-caixa",
+    "descricao": "R$ 141.385,77 R$ 233.922,26 40% Apartamento Caixa em Uberaba / MG - 2715059 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 203 BL22 VG195, VALLIM - CEP: 38106-000, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.538956-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.538956-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 141385
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2715044",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 112.420,91 R$ 186.000,00 40% Apartamento Caixa em Uberaba / MG - 2715044 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 201 BL28 VG 225, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 112420,
+    "valor_avaliacao": 186000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-conjunto-chica-ferreira-2-quartos-1-vaga-na-garagem-area-de-servico-wc-s-imovel-caixa-economica-federal-cef-2715044-8787712043644-venda-direta-caixa",
+    "descricao": "R$ 112.420,91 R$ 186.000,00 40% Apartamento Caixa em Uberaba / MG - 2715044 RUA DONA CECILIA BORGES PAULUK,N. 70 APTO. 201 BL28 VG 225, CONJUNTO CHICA FERREIRA - CEP: 38037-590, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.580744-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.580744-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 112420
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711278",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 113.025,32 R$ 187.000,00 40% Apartamento Caixa em Uberaba / MG - 2711278 AVENIDA DOS CURIOS,N. 501 APTO. 404 BL 01, CONJUNTO PONTAL - CEP: 38055-100, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 113025,
+    "valor_avaliacao": 187000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-condominio-parque-upper-2-quartos-1-vaga-na-garagem-area-de-servico-wc-s-imovel-caixa-economica-federal-cef-2711278-8444426349149-venda-direta-caixa",
+    "descricao": "R$ 113.025,32 R$ 187.000,00 40% Apartamento Caixa em Uberaba / MG - 2711278 AVENIDA DOS CURIOS,N. 501 APTO. 404 BL 01, CONJUNTO PONTAL - CEP: 38055-100, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.909180-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.909180-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 113025
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2721017",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 98.816,70 R$ 160.000,00 38% Apartamento Caixa em Uberaba / MG - 2721017 RUA CARLOS SALGE,N. 161 APTO. 303 BL5, LT01A15, QD06, PARQUE HILEIA - CEP: 38055-060, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 98816,
+    "valor_avaliacao": 160000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-condominio-parque-univille-2-quartos-1-vaga-na-garagem-area-de-servico-wc-imovel-caixa-economica-federal-cef-2721017-1444414516284-venda-direta-caixa",
+    "descricao": "R$ 98.816,70 R$ 160.000,00 38% Apartamento Caixa em Uberaba / MG - 2721017 RUA CARLOS SALGE,N. 161 APTO. 303 BL5, LT01A15, QD06, PARQUE HILEIA - CEP: 38055-060, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.215136-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.215136-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 98816
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2721016",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 101.904,73 R$ 165.000,00 38% Apartamento Caixa em Uberaba / MG - 2721016 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 401 BL 21 VG 337, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberaba",
+    "uf": "MG",
+    "tipo": "Apartamento",
+    "preco": 101904,
+    "valor_avaliacao": 165000,
+    "desconto_percentual": 38,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberaba/residencial-residencial-turim-2-quartos-1-vaga-na-garagem-wc-sala-cozinha-imovel-caixa-economica-federal-cef-2721016-1787701397298-venda-direta-caixa",
+    "descricao": "R$ 101.904,73 R$ 165.000,00 38% Apartamento Caixa em Uberaba / MG - 2721016 RUA ALVARO JACINTO DA CRUZ,N. 471 APTO. 401 BL 21 VG 337, RECREIO DOS BANDEIRANTES - CEP: 38040-530, UBERABA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:17.262375-03:00",
+    "ultima_captura": "2026-07-17T15:08:17.262375-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 101904
+      }
+    ]
+  },
+  {
+    "id": "leilaoimovel-2711261",
+    "mercado": "leilao",
+    "modalidade_leilao": "Leilão",
+    "titulo": "R$ 132.366,56 R$ 219.000,00 40% Casa Caixa em Uberlândia / MG - 2711261 AVENIDA AGUIA-PESCADORA,N. 88 CASA 14, 0218 A, LOTEAMENTO RESIDENCIAL PEQUIS - CEP: 38421-015, UBERLANDIA - MINAS GERAIS",
+    "bairro": "Não identificado",
+    "cidade": "Uberlândia",
+    "uf": "MG",
+    "tipo": "Casa",
+    "preco": 132366,
+    "valor_avaliacao": 219000,
+    "desconto_percentual": 40,
+    "data_encerramento": null,
+    "fonte": "Leilão Imóvel",
+    "url_fonte": "https://www.leilaoimovel.com.br/imovel/mg/uberlandia/residencial-loteamento-residencial-pequis-2-quartos-1-vaga-na-garagem-area-de-servico-imovel-caixa-economica-federal-cef-2711261-8787718122805-venda-direta-caixa",
+    "descricao": "R$ 132.366,56 R$ 219.000,00 40% Casa Caixa em Uberlândia / MG - 2711261 AVENIDA AGUIA-PESCADORA,N. 88 CASA 14, 0218 A, LOTEAMENTO RESIDENCIAL PEQUIS - CEP: 38421-015, UBERLANDIA - MINAS GERAIS",
+    "nota_oportunidade": 50,
+    "novo": true,
+    "preco_reduzido": false,
+    "primeira_captura": "2026-07-17T15:08:18.076645-03:00",
+    "ultima_captura": "2026-07-17T15:08:18.076645-03:00",
+    "latitude": null,
+    "longitude": null,
+    "localizacao_precisao": "nao_localizado",
+    "pagina_origem": 5,
+    "historico_precos": [
+      {
+        "data": "2026-07-17",
+        "preco": 132366
       }
     ]
   },
